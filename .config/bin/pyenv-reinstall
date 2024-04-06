@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+name=$1
+version=${2:-3}
+
+if [ -z "$name" ]; then
+    echo "$(basename "$0")" "<name>" "<python version = 3>" ;
+    exit 1;
+fi
+
+version=$(pyenv install --list | grep "^\s*$version" | tail -1 | tr -d '[:space:]')
+pyenv install --skip-existing "$version"
+
+if pyenv versions --bare | grep -q "$name"; then
+    pyenv virtualenv-delete -f "$name";
+fi
+
+pyenv virtualenv "$version" "$name";

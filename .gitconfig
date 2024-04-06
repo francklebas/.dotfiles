@@ -1,0 +1,30 @@
+[user]
+	name = Franck LEBAS
+	email = franck.lebas@betao.se
+[alias]
+	prb = pull --rebase
+	lg = log --graph --pretty=tformat:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%an %cr)%Creset' --abbrev-commit --date=relative
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	brv= branch -v
+	add-commit = !git add -A && git commit
+[core]
+	editor = vim
+	autocrlf = false
+[difftool "meld"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "nvim"]
+	cmd = "'' "
+	trustExitCode = true
+	conflictStyle = diff3
+[cola]
+	spellcheck = false
+[init]
+	defaultBranch = main
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process

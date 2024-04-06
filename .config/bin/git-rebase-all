@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+
+branches=()
+while IFS='' read -r line; do branches+=("$line"); done < <(
+    git for-each-ref --format='%(refname:short)' refs/heads |
+        grep -v master |
+        grep -v '^pr/' |
+        grep -v '^dev' |
+        grep -v wip
+    )
+
+RED=$(tput setaf 1)
+GREEN=$(tput setaf 2)
+RESET=$(tput sgr0)
+
+failed=()
+
+for branch in "${branches[@]}"; do
+    git checkout "$branch" --quiet;
+	base=$(git-default-branch);
+    if git rebase "$base" --quiet; then
+        echo "${GREEN}✔${RESET} $branch"
+    else
+        git rebase --abort
+        echo "${RED}✗${RESET} $branch"
+        failed+=("$branch")
+    fi
+done;
+
+if [ ${#failed[@]} -gt 0 ]; then
+    echo
+    echo "Failed to rebase:"
+    for branch in "${failed[@]}"; do
+        echo "  $branch"
+    done
+    exit 1
+fi
+
+git checkout master

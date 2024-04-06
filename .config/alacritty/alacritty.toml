@@ -1,0 +1,30 @@
+# import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
+import = ["/home/franck/.config/alacritty/rosepine.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 10.0
+
+[font.bold]
+family = "FiraCode Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[font.italic]
+family = "FiraCode Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+[scrolling]
+history = 50000
+
+[window]
+opacity = 1

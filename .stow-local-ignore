@@ -1,0 +1,39 @@
+# ~./dotfiles/.stow.local.ignore: Files to be ignored by gnu 'stow'
+#
+# Comments and blank lines are allowed.
+#
+# See 'info stow' section "4 Ignore Lists" for more information
+
+RCS
+.+,v
+
+CVS
+\.\#.+       # CVS conflict files / emacs lock files
+\.cvsignore
+
+\.svn
+_darcs
+\.hg
+
+\.git
+\.gitignore
+
+.+~          # emacs backup files
+\#.*\#       # emacs autosave files
+
+^/README.*
+^/LICENSE.*
+^/COPYING
+
+.config/nvim/.git
+.config/nvim/.github
+.config/nvim/.gitignore
+.config/nvim/.ignore
+.config/nvim/.stylua.toml
+.config/nvim/init.lua
+.config/nvim/LICENSE
+.config/nvim/lua/core
+.config/nvim/lua/plugins
+
+install.sh
+install-fedora.sh

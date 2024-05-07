@@ -118,6 +118,7 @@ export PATH="$DENO_INSTALL/bin:$PATH"
 
 alias pdc="docker compose -f docker-compose.local.yml"
 alias pdl="pdc logs -f --tail 100 $1"
+alias pdrl="pdc restart $1 && pdc logs -f --tail 100 $1"
 alias cl=clear
 alias top=btop
 alias htop=btop

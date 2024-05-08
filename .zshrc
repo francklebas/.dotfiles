@@ -115,6 +115,7 @@ source_if_exists "$DOTFILES_DIR/zsh/aliases.zsh"
 
 export DENO_INSTALL="/home/franck/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
+export PATH="$HOME/.config/bin/i3-backlight:$PATH"
 
 alias pdc="docker compose -f docker-compose.local.yml"
 alias pdl="pdc logs -f --tail 100 $1"

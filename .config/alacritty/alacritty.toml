@@ -1,12 +1,12 @@
-import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
-# import = ["/home/franck/.config/alacritty/rosepine.toml"]
+# import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
+import = ["/home/franck/.config/alacritty/rosepine.toml"]
 
 [env]
 TERM = "xterm-256color"
 
 [font]
 # size = 16.0
-size = 12.0
+size = 10.0
 
 [font.bold]
 family = "DankMonoNerdFont"

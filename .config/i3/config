@@ -213,6 +213,7 @@ exec --no-startup-id feh --bg-scale $HOME/Pictures/wallpapers/rose_pine_contourl
 exec --no-startup-id mate-volume-control-applet
 exec_always picom &
 exec_always --no-startup-id "killall polybar; polybar -r default"
+exec_always --no-startup-id "xrandr -s 1920x1080"
 
 ## Screenshots
 bindsym Print exec --no-startup-id maim "/home/$USER/Pictures/$(date)"

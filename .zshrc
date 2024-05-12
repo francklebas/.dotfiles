@@ -148,3 +148,5 @@ export NVM_DIR="$HOME/.nvm"
 
 #screenfetch
 uwufetch
+
+export PATH=$PATH:/home/franck/.spicetify

@@ -1,3 +1,6 @@
+#screenfetch
+uwufetch
+
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
 
@@ -120,9 +123,8 @@ export PATH="$HOME/.config/bin/i3-backlight:$PATH"
 alias pdc="docker compose -f docker-compose.local.yml"
 alias pdl="pdc logs -f --tail 100 $1"
 alias pdrl="pdc restart $1 && pdc logs -f --tail 100 $1"
+alias dps="docker ps"
 alias cl=clear
-alias top=btop
-alias htop=btop
 alias vim=nvim
 alias v=nvim
 alias nv=lvim
@@ -131,22 +133,10 @@ alias gpm="git-prune-merged"
 alias grm='gpm; git-rebase-all'
 alias grom="git rebase --interactive --autosquash master"
 
-eval # ZSH has a quirk where `preexec` is only run if a command is actually run (i.e
-# pressing ENTER at an empty command line will not cause preexec to fire). This
-# can cause timing issues, as a user who presses "ENTER" without running a command
-# will see the time to the start of the last command, which may be very large.
-
-# To fix this, we create STARSHIP_START_TIME upon preexec() firing, and destroy it
-# after drawing the prompt. This ensures that the timing for one command is only
-# ever drawn once (for the prompt immediately after it is run).
-
+alias hdmi="xrandr --addmode HDMI-1-0 -s 2560x1440"
 zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_COUNT
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
-#screenfetch
-uwufetch
-
-export PATH=$PATH:/home/franck/.spicetify
+source /usr/share/nvm/init-nvm.sh

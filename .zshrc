@@ -131,6 +131,7 @@ alias nv=lvim
 alias dswp='find . -type f -name "*.sw[klmnop]" -delete'
 alias gpm="git-prune-merged"
 alias grm='gpm; git-rebase-all'
+alias ggm='git-get-merged'
 alias grom="git rebase --interactive --autosquash master"
 
 alias hdmi="xrandr --addmode HDMI-1-0 -s 2560x1440"

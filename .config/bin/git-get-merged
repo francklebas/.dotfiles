@@ -1,0 +1,24 @@
+#!/bin/bash
+
+BRANCHE_TRAVAIL="dev-acompte"
+NOM_FICHIER="branches_mergees.txt"
+UTILISATEUR_GIT=$(git config user.name)
+
+# Récupérer toutes les branches
+git fetch --all
+
+# Vider le fichier si déjà existant
+>$NOM_FICHIER
+
+# Lister les branches déjà mergées dans la branche de travail
+MERGED_BRANCHES=$(git branch -r --merged $BRANCHE_TRAVAIL | grep -vE "^\*|$BRANCHE_TRAVAIL")
+
+# Filtrer les branches fusionnées par l'utilisateur
+for branch in $MERGED_BRANCHES; do
+	# Vérifier si la branche a des commits de l'utilisateur
+	if git log --pretty=format:"%an" $branch | grep -q "$UTILISATEUR_GIT"; then
+		echo $branch >>$NOM_FICHIER
+	fi
+done
+
+echo "Les branches fusionnées par $UTILISATEUR_GIT ont été listées dans test-branches"

@@ -1,5 +1,5 @@
-# import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
-import = ["/home/franck/.config/alacritty/rosepine.toml"]
+import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
+#import = ["/home/franck/.config/alacritty/rosepine.toml"]
 
 [env]
 TERM = "xterm-256color"

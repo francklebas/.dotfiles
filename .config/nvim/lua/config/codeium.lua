@@ -16,4 +16,7 @@ return {
       return vim.fn["codeium#OpenChat"]()
     end, { expr = true, silent = true })
   end,
+  options = function()
+    return { enable_chat = true }
+  end,
 }

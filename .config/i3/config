@@ -361,6 +361,7 @@ for_window [class=slack] focus
 # or an more specialized config like this:
 #exec --no-startup-id xcompmgr -c -C -t-5 -l-5 -r4.2 -o.55 &
 exec_always --no-startup-id redshift -l 59.3078193:18.0270411
+exec_always --no-startup-id xrandr -s 1920x1080
 #
 # or:
 #

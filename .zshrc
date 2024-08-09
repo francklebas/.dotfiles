@@ -1,5 +1,5 @@
 #screenfetch
-uwufetch
+neofetch
 
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
@@ -133,6 +133,7 @@ alias gpm="git-prune-merged"
 alias grm='gpm; git-rebase-all'
 alias ggm='git-get-merged'
 alias grom="git rebase --interactive --autosquash master"
+alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"
 
 alias hdmi="xrandr --addmode HDMI-1-0 -s 2560x1440"
 zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_COUNT
@@ -140,4 +141,8 @@ zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-source /usr/share/nvm/init-nvm.sh
+#source /usr/share/nvm/init-nvm.sh
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)

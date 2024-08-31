@@ -14,7 +14,7 @@ cd yay
 makepkg -si
 
 printf "Installing aur packages\n"
-yay -S docker-desktop google-chrome brave-bin enpass-bin slack-desktop pika-backup timeshift vlc starship
+yay -S docker-desktop google-chrome brave-bin enpass-bin slack-desktop pika-backup timeshift vlc starship nvm
 
 printf "Installing oh-my-zsh\n"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

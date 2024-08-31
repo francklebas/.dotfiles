@@ -361,7 +361,8 @@ for_window [class=slack] focus
 # or an more specialized config like this:
 #exec --no-startup-id xcompmgr -c -C -t-5 -l-5 -r4.2 -o.55 &
 exec_always --no-startup-id redshift -l 59.3078193:18.0270411
-exec_always --no-startup-id xrandr -s 1920x1080
+# exec_always --no-startup-id xrandr -s 1920x1080
+exec_always --no-startup-id xrandr --output HDMI-A-0 --mode 3440x1440 --rate 50 --right-of eDP
 #
 # or:
 #
@@ -586,7 +587,7 @@ client.urgent		    	$urgentred	$urgentred	$white		$yellowbrown	$yellowbrown
 ## rofi bindings fancy application menu ($mod+d /F9 optional disabled)
 
 bindsym $mod+d exec --no-startup-id rofi -modi drun -show drun \
-		-config ~/.config/rofi/rofidmenu.rasi
+		#-config ~/.config/rofi/rofidmenu.rasi
 
 #bindsym F9 exec --no-startup-id rofi -modi drun -show drun \
 #		-config ~/.config/rofi/rofidmenu.rasi

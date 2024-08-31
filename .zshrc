@@ -1,3 +1,8 @@
+if [ -n "$DESKTOP_SESSION" ]; then
+    eval $(gnome-keyring-daemon --start)
+    export SSH_AUTH_SOCK
+fi
+
 #screenfetch
 neofetch
 eval "$(starship init zsh)"
@@ -139,11 +144,9 @@ alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs
 alias hdmi="xrandr --addmode HDMI-1-0 -s 2560x1440"
 zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_COUNT
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-#source /usr/share/nvm/init-nvm.sh
+# export NVM_DIR="$HOME/.nvm"
+# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+# [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+source /usr/share/nvm/init-nvm.sh
 
-
-# Load Angular CLI autocompletion.
-source <(ng completion script)
+alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"

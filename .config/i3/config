@@ -23,7 +23,7 @@
 # is used in the bar {} block below.
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango: Noto Sans Regular 10
+font pango: Noto Sans Regular 12
 
 # set the mod key to the winkey:
 set $mod Mod4
@@ -302,7 +302,7 @@ bindsym Print exec --no-startup-id scrot ~/%Y-%m-%d-%T-screenshot.png && notify-
 ## Clipboard Screenshots
 bindsym Ctrl+Print exec --no-startup-id maim | xclip -selection clipboard -t image/png
 bindsym Ctrl+$mod+Print exec --no-startup-id maim --window $(xdotool getactivewindow) | xclip -selection clipboard -t image/png
-bindsym Ctrl+Shift+Print exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
+bindsym Ctrl+Shift+4 exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
 
 # Power Profiles menu switcher (rofi)
 bindsym $mod+Shift+p exec --no-startup-id ~/.config/i3/scripts/power-profiles
@@ -336,13 +336,13 @@ set $ws10 "10"
 # bind program to workspace and focus to them on startup:
 assign [class="alacritty"] $ws1
 assign [class="(?i)firefox"] $ws2
-assign [class="Thunar"] $ws3
+assign [class="nautilus"] $ws3
 assign [class="slack"] $ws4
 
 # automatic set focus new window if it opens on another workspace than the current:
-for_window [class=Xfce4-terminal] focus
+for_window [class=alacritty] focus
 for_window [class=(?i)firefox] focus
-for_window [class=Thunar] focus
+for_window [class=nautilus] focus
 for_window [class=slack] focus
 
 ##############
@@ -479,7 +479,7 @@ for_window [class="Blueberry.py" instance="blueberry.py"] floating enable
 for_window [class="Bluetooth-sendto" instance="bluetooth-sendto"] floating enable
 for_window [class="Pamac-manager"] floating enable
 for_window [window_role="About"] floating enable
-for_window [class="enpass"] floating enable
+for_window [class="Enpass"] floating enable
 
 # set border of floating window
 for_window [class="urxvt"] border pixel 1

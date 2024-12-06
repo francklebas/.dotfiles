@@ -1,29 +1,29 @@
+-- lua/plugins/conform.lua
 return {
   "stevearc/conform.nvim",
   opts = {
     formatters_by_ft = {
-      javascript = { "prettier" },
-      javascriptreact = { "prettier" },
-      typescript = { "prettier" },
-      typescriptreact = { "prettier" },
-      vue = { "prettier" },
-      css = { "prettier" },
-      scss = { "prettier" },
-      less = { "prettier" },
-      html = { "prettier" },
-      json = { "prettier" },
-      jsonc = { "prettier" },
-      yaml = { "prettier" },
-      markdown = { "prettier" },
+      -- Front-end existant
+      vue = { { "prettierd", "prettier" } },
+      typescript = { { "prettierd", "prettier" } },
+      javascript = { { "prettierd", "prettier" } },
+      css = { { "prettierd", "prettier" } },
+      html = { { "prettierd", "prettier" } },
+      json = { { "prettierd", "prettier" } },
+
+      -- Python
+      python = { "black", "isort" },
+    },
+
+    formatters = {
+      -- Configuration de black
+      black = {
+        prepend_args = { "--line-length=88" },
+      },
+      -- Configuration de isort
+      isort = {
+        prepend_args = { "--profile", "black" },
+      },
     },
   },
-  setup = function()
-    require("conform").setup({
-      format_on_save = {
-        -- These options will be passed to conform.format()
-        timeout_ms = 500,
-        lsp_fallback = true,
-      },
-    })
-  end,
 }

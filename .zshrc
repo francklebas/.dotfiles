@@ -130,6 +130,7 @@ alias pdc="docker compose -f docker-compose.local.yml"
 alias pdl="pdc logs -f --tail 100 $1"
 alias pdrl="pdc restart $1 && pdc logs -f --tail 100 $1"
 alias dps="docker ps"
+alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"
 alias cl=clear
 alias vim=nvim
 alias v=nvim
@@ -149,4 +150,3 @@ zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_
 # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 source /usr/share/nvm/init-nvm.sh
 
-alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"

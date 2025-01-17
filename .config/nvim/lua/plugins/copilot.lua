@@ -3,6 +3,7 @@ return {
   -- Copilot.lua configuration
   {
     "zbirenbaum/copilot.lua",
+    enabled = true,
     cmd = "Copilot",
     build = ":Copilot auth",
     event = "InsertEnter",
@@ -29,7 +30,7 @@ return {
           debounce = 75,
           keymap = {
             -- Touches plus accessibles sur AZERTY
-            accept = "<M-o>", -- Alt + o (facile à atteindre)
+            accept = "<M-CR>", -- Alt + CR (facile à atteindre)
             accept_word = "<M-k>", -- Alt + k
             accept_line = "<M-l>", -- Alt + l
             next = "<M-n>", -- Alt + n (comme "next")
@@ -57,6 +58,14 @@ return {
         copilot_node_command = "node",
         server_opts_overrides = {},
       })
+
+      -- CopilotPanel
+      vim.api.nvim_create_user_command("CopilotPanel", function()
+        require("copilot.panel").open({})
+      end, {})
+
+      -- Raccourci pour ouvrir le panel
+      vim.keymap.set("n", "<leader>cp", ":CopilotPanel<CR>", { desc = "Open Copilot Panel", silent = true })
     end,
   },
 

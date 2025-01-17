@@ -36,5 +36,5 @@ opacity = 0.9
 
 [general]
 #import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
-#import = ["/home/franck/.config/alacritty/rosepine.toml"]
-import = ["/home/franck/.config/alacritty/catppuccin-mocha.toml"]
+import = ["/home/franck/.config/alacritty/rosepine.toml"]
+#import = ["/home/franck/.config/alacritty/catppuccin-mocha.toml"]

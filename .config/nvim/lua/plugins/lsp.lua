@@ -44,6 +44,13 @@ return {
             args = {},
           },
         },
+
+        -- tssserver
+        tsserver = {
+          settings = {
+            filetypes = { "typescript", "typescriptreact", "javascript", "javascriptreact" },
+          },
+        },
       },
       setup = {
         eslint = function()

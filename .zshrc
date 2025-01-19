@@ -122,6 +122,7 @@ export PATH="$DENO_INSTALL/bin:$PATH"
 export PATH="$HOME/.config/bin/i3-backlight:$PATH"
 
 alias pdc="docker compose -f docker-compose.local.yml"
+alias pdlg="docker compose logs -f --tail 100 $1"
 alias pdl="pdc logs -f --tail 100 $1"
 alias pdrl="pdc restart $1 && pdc logs -f --tail 100 $1"
 alias dps="docker ps"

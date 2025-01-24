@@ -33,6 +33,7 @@ history = 50000
 
 [window]
 opacity = 1.0
+decorations = "Buttonless"
 
 [general]
 #import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]

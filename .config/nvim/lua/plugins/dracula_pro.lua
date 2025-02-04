@@ -1,11 +1,12 @@
-return {
-  {
-    dir = "~/.local/share/nvim/site/pack/themes/start/dracula_pro", -- Chemin local vers le plugin
-    name = "dracula_pro",
-    config = function()
-      vim.cmd("syntax enable")
-      vim.g.dracula_colorterm = 0
-      vim.cmd("colorscheme dracula_pro_van_helsing")
-    end,
-  },
-}
+-- return {
+--   enabled = false,
+--   {
+--     dir = "~/.local/share/nvim/site/pack/themes/start/dracula_pro", -- Chemin local vers le plugin
+--     name = "dracula_pro",
+--     config = function()
+--       vim.cmd("syntax enable")
+--       vim.g.dracula_colorterm = 0
+--       vim.cmd("colorscheme dracula_pro_van_helsing")
+--     end,
+--   },
+-- }

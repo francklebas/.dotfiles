@@ -4,12 +4,14 @@ TERM = "xterm-256color"
 
 [font]
 # size = 16.0
-size = 13.0
+size = 16
+# offset.y = 1
 
 [font.bold]
 # family = "DankMonoNerdFont"
 # family = "FiraCode Nerd Font"
-family = "JetBrainsMono Nerd Font"
+# family = "JetBrainsMono Nerd Font"
+family = "CaskaydiaCove Nerd Font Mono"
 style = "Bold"
 
 [font.bold_italic]
@@ -19,23 +21,24 @@ style = "Bold Italic"
 [font.italic]
 # family = "DankMonoNerdFont"
 # family = "FiraCode Nerd Font"
-family = "JetBrainsMono Nerd Font"
+# family = "JetBrainsMono Nerd Font"
+family = "CaskaydiaCove Nerd Font Mono"
 style = "Italic"
 
 [font.normal]
 # family = "DankMonoNerdFont"
 # family = "FiraCode Nerd Font"
-family = "JetBrainsMono Nerd Font"
-style = "Regular"
+# family = "JetBrainsMono Nerd Font"
+family = "CaskaydiaCove Nerd Font Mono"
+style = "ExtraLight"
 
 [scrolling]
 history = 50000
 
 [window]
 opacity = 1.0
-decorations = "Buttonless"
 
 [general]
 #import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
-import = ["/home/franck/.config/alacritty/rosepine.toml"]
-#import = ["/home/franck/.config/alacritty/catppuccin-mocha.toml"]
+#import = ["/home/franck/.config/alacritty/rosepine.toml"]
+import = ["/home/franck/.config/alacritty/catppuccin-mocha.toml"]

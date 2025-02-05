@@ -11,7 +11,8 @@ size = 16
 # family = "DankMonoNerdFont"
 # family = "FiraCode Nerd Font"
 # family = "JetBrainsMono Nerd Font"
-family = "CaskaydiaCove Nerd Font Mono"
+#family = "CaskaydiaCove Nerd Font Mono"
+family = "SourceCodePro Nerd Font Mono"
 style = "Bold"
 
 [font.bold_italic]
@@ -20,16 +21,18 @@ style = "Bold Italic"
 
 [font.italic]
 # family = "DankMonoNerdFont"
-# family = "FiraCode Nerd Font"
+#  family = "FiraCode Nerd Font"
 # family = "JetBrainsMono Nerd Font"
-family = "CaskaydiaCove Nerd Font Mono"
+#family = "CaskaydiaCove Nerd Font Mono"
+family = "SourceCodePro Nerd Font Mono"
 style = "Italic"
 
 [font.normal]
 # family = "DankMonoNerdFont"
 # family = "FiraCode Nerd Font"
 # family = "JetBrainsMono Nerd Font"
-family = "CaskaydiaCove Nerd Font Mono"
+# family = "CaskaydiaCove Nerd Font Mono"
+family = "SourceCodePro Nerd Font Mono"
 style = "ExtraLight"
 
 [scrolling]

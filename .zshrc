@@ -1,7 +1,4 @@
 #screenfetch
-neofetch
-eval "$(starship init zsh)"
-
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
 
@@ -141,8 +138,16 @@ alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs
 alias hdmi="xrandr --addmode HDMI-1-0 -s 2560x1440"
 zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_COUNT
 
-# export NVM_DIR="$HOME/.nvm"
-# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-# [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-source /usr/share/nvm/init-nvm.sh
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# source /usr/share/nvm/init-nvm.sh
 
+
+# pnpm
+export PNPM_HOME="/home/franck/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end

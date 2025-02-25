@@ -1,4 +1,12 @@
 -- lua/plugins/lsp.lua
+local on_attach = function(client, bufnr)
+  -- Exemple de mapping LSP
+  local opts = { noremap = true, silent = true }
+  vim.api.nvim_buf_set_keymap(bufnr, "n", "gd", "<cmd>lua vim.lsp.buf.definition()<CR>", opts)
+end
+
+local capabilities = vim.lsp.protocol.make_client_capabilities()
+
 return {
   {
     "neovim/nvim-lspconfig",
@@ -46,11 +54,21 @@ return {
         },
 
         -- tssserver
-        tsserver = {
-          settings = {
-            filetypes = { "typescript", "typescriptreact", "javascript", "javascriptreact" },
+        ts_ls = {
+          on_attach = on_attach,
+          capabilities = capabilities,
+          init_options = {
+            plugins = { -- <!> Might be important <!>
+              {
+                name = "@vue/typescript-plugin",
+                location = "/usr/local/lib/node_modules/@vue/language-server",
+                languages = { "vue" },
+              },
+            },
           },
+          filetypes = { "typescript", "typescriptreact", "javascript", "javascriptreact" },
         },
+        volar = { setup = {} },
       },
       setup = {
         eslint = function()

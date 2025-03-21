@@ -1,11 +1,11 @@
-if [ -n "$DESKTOP_SESSION" ]; then
-    eval $(gnome-keyring-daemon --start)
-    export SSH_AUTH_SOCK
-fi
+# if [ -n "$DESKTOP_SESSION" ]; then
+#     eval $(gnome-keyring-daemon --start)
+#     export SSH_AUTH_SOCK
+# fi
 
 #screenfetch
-neofetch
-eval "$(starship init zsh)"
+uwufetch
+# eval "$(starship init zsh)"
 
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
@@ -143,10 +143,31 @@ alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs
 
 alias hdmi="xrandr --addmode HDMI-1-0 -s 2560x1440"
 zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_COUNT
+alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"
 
 # export NVM_DIR="$HOME/.nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 source /usr/share/nvm/init-nvm.sh
 
-alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"
+# eval export PATH="/run/user/1000/fnm_multishells/123254_1741794767792/bin":$PATH
+# export FNM_MULTISHELL_PATH="/run/user/1000/fnm_multishells/123254_1741794767792"
+# export FNM_VERSION_FILE_STRATEGY="local"
+# export FNM_DIR="/home/franck/.local/share/fnm"
+# export FNM_LOGLEVEL="info"
+# export FNM_NODE_DIST_MIRROR="https://nodejs.org/dist"
+# export FNM_COREPACK_ENABLED="false"
+# export FNM_RESOLVE_ENGINES="true"
+# export FNM_ARCH="x64"
+# autoload -U add-zsh-hook
+# _fnm_autoload_hook () {
+#     if [[ -f .node-version || -f .nvmrc || -f package.json ]]; then
+#     fnm use --silent-if-unchanged
+# fi
+#
+# }
+#
+# add-zsh-hook chpwd _fnm_autoload_hook \
+#     && _fnm_autoload_hook
+#
+# rehash

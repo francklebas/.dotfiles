@@ -11,7 +11,7 @@
 	brv= branch -v
 	add-commit = !git add -A && git commit
 [core]
-	editor = vim
+	editor = nvim
 	autocrlf = false
 [difftool "meld"]
 	cmd = '' \"$LOCAL\" \"$REMOTE\"

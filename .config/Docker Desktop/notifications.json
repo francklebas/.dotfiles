@@ -1,0 +1,49 @@
+{
+	"notifications": [
+		{
+			"guid": "72faa70f-185a-4ed4-ae13-843cf8e47361",
+			"timestamp": 1744612813000,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "How was your startup experience with Docker Desktop?",
+				"icon": "campaign",
+				"type": "feedback",
+				"actionText": "Give feedback",
+				"action": {
+					"action": "show-survey-dialog",
+					"params": {
+						"type": "startupComplete"
+					}
+				}
+			}
+		},
+		{
+			"guid": "a9a026f0-d0e0-48a2-8fc4-2ffc94fe215e",
+			"timestamp": 1747058803863,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"ephemeral": false,
+				"icon": "download",
+				"message": "Docker Desktop 4.41.2 is available.",
+				"actionText": "Download",
+				"action": {
+					"action": "update-available"
+				},
+				"type": "update"
+			}
+		},
+		{
+			"guid": "11c0bf56-fcfd-4979-b074-e7b7b562c748",
+			"timestamp": 1747987506506,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Cannot start Docker Compose application. Reason: compose [start] exit status 1.  Container usv3  Starting\n Container es  Starting\n Container redis  Starting\n Container screenshoter  Starting\n Container pm2  Starting\n Container object-storage  Starting\n Container db  Starting\n Container portail-stripe-1  Starting\n Container manager  Starting\n Container portail-stripe-1  Started\n Container manager  Started\n Container screenshoter  Started\n Container object-storage  Started\n Container usv3  Started\nError response from daemon: Ports are not available: exposing port TCP 0.0.0.0:9200 -> 127.0.0.1:0: listen tcp 0.0.0.0:9200: bind: address already in use\n",
+				"icon": "error",
+				"type": "error"
+			}
+		}
+	]
+}

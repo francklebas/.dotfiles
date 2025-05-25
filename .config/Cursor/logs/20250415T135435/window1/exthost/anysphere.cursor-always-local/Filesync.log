@@ -1,0 +1,299 @@
+2025-04-15 13:54:50.576 [error] Failed to check if file sync is enabled for user {}
+2025-04-15 13:54:50.576 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-15 13:54:50.576 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-15 13:54:50.576 [info] [registerEventListeners] Registering event listeners
+2025-04-15 13:54:51.374 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 13:54:51.520 [info] Fetched fsConfig in 145.39813099999992ms
+2025-04-15 13:54:51.520 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 13:54:52.258 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 13:54:52.738 [info] Fetched fsConfig in 479.97432200000003ms
+2025-04-15 13:54:52.738 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 13:54:52.739 [info] File sync enabled status: true
+2025-04-15 13:54:52.739 [info] Starting sync of visible tabs
+2025-04-15 13:54:52.739 [info] Synced all visible tabs in 0.08044200000040291ms
+2025-04-15 13:54:53.123 [info] Starting sync of visible tabs
+2025-04-15 13:54:53.123 [info] Synced all visible tabs in 0.4116680000006454ms
+2025-04-15 13:54:53.269 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 13:54:53.410 [info] Fetched fsConfig in 140.4761010000002ms
+2025-04-15 13:54:53.410 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 13:54:56.173 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 13:54:56.317 [info] Fetched fsConfig in 143.50356199999987ms
+2025-04-15 13:54:56.317 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 13:54:56.318 [info] File sync enabled status: true
+2025-04-15 13:54:56.318 [info] Starting sync of visible tabs
+2025-04-15 13:54:56.318 [info] Synced all visible tabs in 0.1298850000002858ms
+2025-04-15 13:54:56.735 [info] Starting sync of visible tabs
+2025-04-15 13:54:56.735 [info] Synced all visible tabs in 0.4246419999981299ms
+2025-04-15 13:54:56.879 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 13:54:57.019 [info] Fetched fsConfig in 139.31899500000145ms
+2025-04-15 13:54:57.019 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 13:55:03.012 [info] Starting sync of visible tabs
+2025-04-15 13:55:03.012 [info] Synced all visible tabs in 0.3297329999986687ms
+2025-04-15 13:55:03.425 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 13:55:03.570 [info] Fetched fsConfig in 144.81085200000234ms
+2025-04-15 13:55:03.570 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 15:15:28.411 [info] Uploaded file src/lib/indexedDB.ts modelVersion=4 in 392.9912139996886ms
+2025-04-15 15:15:28.413 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 423.22882299963385ms
+2025-04-15 15:15:28.415 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 452.383895999752ms
+2025-04-15 15:15:28.416 [info] Uploaded file src/lib/indexedDB.ts modelVersion=4 in 388.98143299948424ms
+2025-04-15 15:15:28.819 [info] Handled visible editors change in 5.093388999812305ms
+2025-04-15 15:15:41.612 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=3 in 144.68399399984628ms
+2025-04-15 15:15:41.614 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=3 in 143.26863799989223ms
+2025-04-15 15:15:41.620 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=3 in 142.07028299942613ms
+2025-04-15 15:15:54.508 [info] Synced file src/lib/indexedDB.ts modelVersion=5 in 257.6867900006473ms
+2025-04-15 15:15:54.888 [info] Synced file src/lib/indexedDB.ts modelVersion=5 in 139.06767799984664ms
+2025-04-15 15:15:55.195 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 15:15:55.337 [info] Fetched fsConfig in 141.6647770004347ms
+2025-04-15 15:15:55.337 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 15:15:55.338 [info] File sync enabled status: true
+2025-04-15 15:15:55.338 [info] Starting sync of visible tabs
+2025-04-15 15:15:55.338 [info] Synced all visible tabs in 0.3276289999485016ms
+2025-04-15 15:16:01.532 [info] Uploaded file src/App.tsx modelVersion=2 in 144.00661399960518ms
+2025-04-15 15:16:01.533 [info] Uploaded file src/App.tsx modelVersion=2 in 138.78849900048226ms
+2025-04-15 15:16:11.959 [info] Handled visible editors change in 0.9083670005202293ms
+2025-04-15 15:16:12.375 [info] Uploaded file src/App.tsx modelVersion=1 in 149.7729740003124ms
+2025-04-15 15:16:12.376 [info] Handled visible editors change in 337.7072769999504ms
+2025-04-15 15:16:18.207 [info] Handled visible editors change in 0.55649199988693ms
+2025-04-15 15:16:18.548 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=1 in 141.36661300063133ms
+2025-04-15 15:16:18.549 [info] Handled visible editors change in 301.96106399968266ms
+2025-04-15 15:16:38.587 [info] Handled visible editors change in 0.47261299937963486ms
+2025-04-15 15:20:01.948 [info] Handled visible editors change in 0.3883739998564124ms
+2025-04-15 15:20:01.952 [info] Handled visible editors change in 0.3756809998303652ms
+2025-04-15 15:20:02.001 [info] Handled visible editors change in 0.47104999981820583ms
+2025-04-15 15:20:02.003 [info] Handled visible editors change in 0.3624249994754791ms
+2025-04-15 15:20:07.769 [info] Handled visible editors change in 0.5041129998862743ms
+2025-04-15 15:20:07.775 [info] Handled visible editors change in 0.3594990000128746ms
+2025-04-15 15:20:19.460 [info] Handled visible editors change in 0.32356199994683266ms
+2025-04-15 15:20:19.470 [info] Handled visible editors change in 0.3238019999116659ms
+2025-04-15 15:20:20.165 [info] Handled visible editors change in 0.2674259999766946ms
+2025-04-15 15:20:20.172 [info] Handled visible editors change in 0.2865409990772605ms
+2025-04-15 15:20:25.386 [info] Handled visible editors change in 0.3273789994418621ms
+2025-04-15 15:20:25.398 [info] Handled visible editors change in 0.5034710001200438ms
+2025-04-15 15:20:25.887 [info] Handled visible editors change in 0.5529749998822808ms
+2025-04-15 15:20:25.896 [info] Handled visible editors change in 0.25539299938827753ms
+2025-04-15 15:24:06.193 [info] Uploaded file src/pages/editor.tsx modelVersion=2 in 445.77974200062454ms
+2025-04-15 15:24:06.202 [info] Uploaded file src/pages/editor.tsx modelVersion=2 in 457.4157490003854ms
+2025-04-15 15:24:55.516 [info] Handled visible editors change in 1.4943350004032254ms
+2025-04-15 15:24:55.924 [info] Uploaded file src/pages/editor.tsx modelVersion=1 in 144.59156899992377ms
+2025-04-15 15:24:55.924 [info] Handled visible editors change in 396.24042600020766ms
+2025-04-15 15:24:57.315 [info] Synced file src/pages/editor.tsx modelVersion=3 in 146.09605299960822ms
+2025-04-15 15:24:57.566 [info] Synced file src/pages/editor.tsx modelVersion=3 in 138.0554940002039ms
+2025-04-15 15:24:58.066 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 15:24:58.234 [info] Fetched fsConfig in 167.92073999997228ms
+2025-04-15 15:24:58.234 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 15:24:58.234 [info] File sync enabled status: true
+2025-04-15 15:24:58.234 [info] Starting sync of visible tabs
+2025-04-15 15:24:58.235 [info] Synced all visible tabs in 0.23645699955523014ms
+2025-04-15 15:26:15.283 [info] Synced file src/pages/editor.tsx modelVersion=4 in 227.17515200003982ms
+2025-04-15 15:26:15.568 [info] Synced file src/pages/editor.tsx modelVersion=4 in 143.92134199943393ms
+2025-04-15 15:26:15.956 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 15:26:16.101 [info] Fetched fsConfig in 144.7031500004232ms
+2025-04-15 15:26:16.101 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 15:26:16.101 [info] File sync enabled status: true
+2025-04-15 15:26:16.101 [info] Starting sync of visible tabs
+2025-04-15 15:26:16.101 [info] Synced all visible tabs in 0.2843780005350709ms
+2025-04-15 15:27:47.196 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 443.6141189998016ms
+2025-04-15 15:27:47.198 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 441.3599070003256ms
+2025-04-15 15:28:01.408 [info] Synced file src/pages/editor.tsx modelVersion=5 in 143.2862919997424ms
+2025-04-15 15:28:01.754 [info] Synced file src/pages/editor.tsx modelVersion=5 in 136.51743599958718ms
+2025-04-15 15:28:02.210 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 15:28:02.355 [info] Fetched fsConfig in 144.1974649997428ms
+2025-04-15 15:28:02.355 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 15:28:02.355 [info] File sync enabled status: true
+2025-04-15 15:28:02.355 [info] Starting sync of visible tabs
+2025-04-15 15:28:02.355 [info] Synced all visible tabs in 0.2555440003052354ms
+2025-04-15 15:30:36.366 [info] Synced file src/pages/editor.tsx modelVersion=6 in 240.44283299986273ms
+2025-04-15 15:30:36.682 [info] Synced file src/pages/editor.tsx modelVersion=6 in 145.73260600026697ms
+2025-04-15 15:30:37.113 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 15:30:37.259 [info] Fetched fsConfig in 145.34614599961787ms
+2025-04-15 15:30:37.259 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 15:30:37.259 [info] File sync enabled status: true
+2025-04-15 15:30:37.259 [info] Starting sync of visible tabs
+2025-04-15 15:30:37.259 [info] Synced all visible tabs in 0.20628000050783157ms
+2025-04-15 15:31:42.986 [info] Synced file src/pages/editor.tsx modelVersion=7 in 222.66079800017178ms
+2025-04-15 15:31:43.237 [info] Synced file src/pages/editor.tsx modelVersion=7 in 139.39870300050825ms
+2025-04-15 15:31:43.706 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 15:31:43.888 [info] Fetched fsConfig in 182.0404310002923ms
+2025-04-15 15:31:43.888 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 15:31:43.889 [info] File sync enabled status: true
+2025-04-15 15:31:43.889 [info] Starting sync of visible tabs
+2025-04-15 15:31:43.889 [info] Synced all visible tabs in 0.30159000027924776ms
+2025-04-15 15:31:48.943 [info] Handled visible editors change in 0.4944739993661642ms
+2025-04-15 15:31:48.950 [info] Handled visible editors change in 0.7286469992250204ms
+2025-04-15 15:31:54.385 [info] Uploaded file src/components/NewNoteButton.tsx modelVersion=2 in 139.09911699965596ms
+2025-04-15 15:31:54.386 [info] Uploaded file src/components/NewNoteButton.tsx modelVersion=2 in 142.626884999685ms
+2025-04-15 15:33:59.767 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 432.53268099948764ms
+2025-04-15 15:33:59.769 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 436.57841800060123ms
+2025-04-15 15:33:59.770 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 210.9680550005287ms
+2025-04-15 15:33:59.771 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 214.2013369994238ms
+2025-04-15 15:37:12.852 [info] Uploaded file src/pages/editor.tsx modelVersion=8 in 454.1693919999525ms
+2025-04-15 15:37:12.861 [info] Uploaded file src/pages/editor.tsx modelVersion=8 in 465.70420700032264ms
+2025-04-15 15:37:12.862 [info] Uploaded file src/pages/editor.tsx modelVersion=8 in 266.8830140000209ms
+2025-04-15 15:37:12.870 [info] Uploaded file src/pages/editor.tsx modelVersion=8 in 271.3596670003608ms
+2025-04-15 15:38:42.446 [info] Synced file src/pages/editor.tsx modelVersion=9 in 460.63127700053155ms
+2025-04-15 15:39:14.416 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 142.2619260000065ms
+2025-04-15 15:39:14.418 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 146.60711999982595ms
+2025-04-15 15:41:06.991 [info] Synced file src/pages/editor.tsx modelVersion=10 in 680.5318979993463ms
+2025-04-15 15:42:05.656 [info] Synced file src/pages/editor.tsx modelVersion=11 in 144.84128199983388ms
+2025-04-15 15:43:07.969 [info] Uploaded file src/lib/indexedDB.ts modelVersion=3 in 412.2607300002128ms
+2025-04-15 15:43:07.972 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 464.38581500016153ms
+2025-04-15 15:43:07.976 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 465.8457450000569ms
+2025-04-15 15:43:08.832 [warning] Failed to sync changes for src/lib/indexedDB.ts, version=3, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 2889, but expected size is: 2804
+2025-04-15 15:43:09.000 [warning] Failed to sync changes for src/lib/indexedDB.ts, version=3, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 2889, but expected size is: 2804
+2025-04-15 15:43:09.181 [warning] Failed to sync changes for src/lib/indexedDB.ts, version=3, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 2889, but expected size is: 2804
+2025-04-15 15:43:09.182 [error] Failed to sync changes for src/lib/indexedDB.ts, version=3, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 2889, but expected size is: 2804
+2025-04-15 15:43:09.326 [info] Uploaded file src/lib/indexedDB.ts modelVersion=3 in 144.10328599996865ms
+2025-04-15 15:43:13.780 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=2 in 147.57000899966806ms
+2025-04-15 15:43:13.781 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=2 in 146.53179800044745ms
+2025-04-15 15:43:50.767 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 139.3975010002032ms
+2025-04-15 15:43:50.793 [info] Uploaded file src/lib/indexedDB.ts modelVersion=3 in 142.401991000399ms
+2025-04-15 15:44:13.142 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 143.10929800011218ms
+2025-04-15 15:44:13.143 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 145.8414629995823ms
+2025-04-15 15:46:20.760 [info] Uploaded file src/lib/indexedDB.ts modelVersion=1 in 566.8440140001476ms
+2025-04-15 15:46:20.768 [info] Handled visible editors change in 751.2523750001565ms
+2025-04-15 15:52:29.786 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 465.3551500001922ms
+2025-04-15 15:52:29.795 [info] Uploaded file src/lib/indexedDB.ts modelVersion=2 in 476.19363799970597ms
+2025-04-15 15:52:31.256 [info] Synced file src/lib/indexedDB.ts modelVersion=3 in 141.55520599987358ms
+2025-04-15 15:52:32.346 [info] Synced file src/lib/indexedDB.ts modelVersion=4 in 140.50571999978274ms
+2025-04-15 15:52:32.728 [info] Synced file src/lib/indexedDB.ts modelVersion=4 in 142.47069799993187ms
+2025-04-15 15:52:40.454 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 145.02117399964482ms
+2025-04-15 15:52:40.455 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=2 in 144.2098389994353ms
+2025-04-15 15:52:41.010 [info] Synced file src/components/NoteEditor.tsx modelVersion=3 in 137.05023199971765ms
+2025-04-15 15:52:41.348 [info] Synced file src/components/NoteEditor.tsx modelVersion=4 in 143.042740999721ms
+2025-04-15 15:52:41.616 [info] Synced file src/components/NoteEditor.tsx modelVersion=5 in 140.79436600022018ms
+2025-04-15 15:52:41.895 [info] Synced file src/components/NoteEditor.tsx modelVersion=6 in 140.66836800053716ms
+2025-04-15 15:52:42.177 [info] Synced file src/components/NoteEditor.tsx modelVersion=7 in 138.30358400009573ms
+2025-04-15 15:52:42.540 [info] Synced file src/components/NoteEditor.tsx modelVersion=9 in 142.69681700039655ms
+2025-04-15 15:52:42.814 [info] Synced file src/components/NoteEditor.tsx modelVersion=9 in 139.56809599976987ms
+2025-04-15 15:54:41.811 [info] Synced file src/lib/indexedDB.ts modelVersion=5 in 436.7618270004168ms
+2025-04-15 15:54:42.020 [info] Synced file src/lib/indexedDB.ts modelVersion=6 in 147.41780900023878ms
+2025-04-15 15:56:42.471 [info] Synced file src/lib/indexedDB.ts modelVersion=7 in 438.9029580000788ms
+2025-04-15 15:56:54.503 [info] Uploaded file src/pages/editor.tsx modelVersion=12 in 145.77047200035304ms
+2025-04-15 15:56:54.504 [info] Uploaded file src/pages/editor.tsx modelVersion=12 in 144.2775969998911ms
+2025-04-15 16:01:15.301 [info] Synced file src/lib/indexedDB.ts modelVersion=8 in 470.09326500073075ms
+2025-04-15 16:01:19.260 [info] Synced file src/lib/indexedDB.ts modelVersion=9 in 135.71847200021148ms
+2025-04-15 16:01:22.507 [info] Synced file src/lib/indexedDB.ts modelVersion=10 in 143.34136500023305ms
+2025-04-15 16:01:23.431 [info] Synced file src/lib/indexedDB.ts modelVersion=11 in 140.0406600004062ms
+2025-04-15 16:01:24.560 [info] Synced file src/lib/indexedDB.ts modelVersion=12 in 144.2767449999228ms
+2025-04-15 16:01:26.101 [info] Synced file src/lib/indexedDB.ts modelVersion=13 in 144.2419200008735ms
+2025-04-15 16:01:26.409 [info] Synced file src/lib/indexedDB.ts modelVersion=14 in 138.58834299910814ms
+2025-04-15 16:01:26.716 [info] Synced file src/lib/indexedDB.ts modelVersion=15 in 147.01751200016588ms
+2025-04-15 16:01:27.580 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:01:27.722 [info] Fetched fsConfig in 142.2568739997223ms
+2025-04-15 16:01:27.722 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:01:27.723 [info] File sync enabled status: true
+2025-04-15 16:01:27.723 [info] Starting sync of visible tabs
+2025-04-15 16:01:27.723 [info] Synced all visible tabs in 0.1735390005633235ms
+2025-04-15 16:03:00.544 [info] Handled visible editors change in 0.7811590004712343ms
+2025-04-15 16:07:11.671 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=1 in 492.8561740005389ms
+2025-04-15 16:07:11.672 [info] Handled visible editors change in 765.1374450000003ms
+2025-04-15 16:07:21.497 [info] Handled visible editors change in 0.6160559998825192ms
+2025-04-15 16:07:21.817 [info] Uploaded file src/lib/indexedDB.ts modelVersion=15 in 157.97044300008565ms
+2025-04-15 16:07:21.817 [info] Handled visible editors change in 276.2404270004481ms
+2025-04-15 16:09:21.649 [info] Uploaded file src/pages/editor.tsx modelVersion=13 in 450.57903700042516ms
+2025-04-15 16:09:21.652 [info] Uploaded file src/pages/editor.tsx modelVersion=13 in 189.0267570000142ms
+2025-04-15 16:09:21.676 [info] Uploaded file src/pages/editor.tsx modelVersion=13 in 478.5231499997899ms
+2025-04-15 16:09:21.677 [info] Uploaded file src/pages/editor.tsx modelVersion=13 in 189.74927600007504ms
+2025-04-15 16:13:49.589 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=2 in 456.84155300073326ms
+2025-04-15 16:13:49.591 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=2 in 314.61882199998945ms
+2025-04-15 16:13:49.591 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=2 in 462.78099699970335ms
+2025-04-15 16:13:49.592 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=2 in 318.16478599980474ms
+2025-04-15 16:15:38.554 [info] Handled visible editors change in 0.5185019988566637ms
+2025-04-15 16:15:39.421 [info] Uploaded file src/components/Sidebar.tsx modelVersion=1 in 501.9129200000316ms
+2025-04-15 16:15:39.422 [info] Handled visible editors change in 763.9722800012678ms
+2025-04-15 16:17:46.315 [info] Handled visible editors change in 0.6457930002361536ms
+2025-04-15 16:17:46.847 [info] Uploaded file src/App.tsx modelVersion=1 in 433.24085300043225ms
+2025-04-15 16:17:46.847 [info] Handled visible editors change in 466.79885399900377ms
+2025-04-15 16:17:55.061 [info] Synced file src/App.tsx modelVersion=2 in 140.06908299960196ms
+2025-04-15 16:17:55.840 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:17:55.912 [info] Synced file src/App.tsx modelVersion=3 in 140.40804499946535ms
+2025-04-15 16:17:55.984 [info] Fetched fsConfig in 143.12486699968576ms
+2025-04-15 16:17:55.984 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:17:55.984 [info] File sync enabled status: true
+2025-04-15 16:17:55.984 [info] Starting sync of visible tabs
+2025-04-15 16:17:56.120 [info] Uploaded file src/App.tsx modelVersion=4 in 134.32862500101328ms
+2025-04-15 16:17:56.120 [info] Synced all visible tabs in 135.91427700035274ms
+2025-04-15 16:17:56.247 [info] Synced file src/App.tsx modelVersion=4 in 137.81664900109172ms
+2025-04-15 16:17:58.646 [info] Synced file src/App.tsx modelVersion=9 in 137.97288500145078ms
+2025-04-15 16:17:59.931 [info] Synced file src/App.tsx modelVersion=10 in 156.47824800014496ms
+2025-04-15 16:18:01.061 [info] Synced file src/App.tsx modelVersion=11 in 143.82153700105846ms
+2025-04-15 16:18:01.821 [info] Synced file src/App.tsx modelVersion=12 in 154.3400100003928ms
+2025-04-15 16:18:02.933 [info] Synced file src/App.tsx modelVersion=13 in 143.73507300019264ms
+2025-04-15 16:18:07.763 [info] Handled visible editors change in 0.6909279990941286ms
+2025-04-15 16:18:07.800 [info] Handled visible editors change in 1.67633300088346ms
+2025-04-15 16:18:11.081 [info] Synced file src/components/Sidebar.tsx modelVersion=2 in 141.95505400002003ms
+2025-04-15 16:18:16.677 [info] Synced file src/components/Sidebar.tsx modelVersion=6 in 138.70180399902165ms
+2025-04-15 16:18:17.642 [info] Synced file src/components/Sidebar.tsx modelVersion=7 in 146.11571000143886ms
+2025-04-15 16:18:18.405 [info] Synced file src/components/Sidebar.tsx modelVersion=8 in 132.89269700087607ms
+2025-04-15 16:18:23.594 [info] Synced file src/components/Sidebar.tsx modelVersion=9 in 140.05027800053358ms
+2025-04-15 16:18:26.787 [info] Synced file src/components/Sidebar.tsx modelVersion=10 in 140.70214099995792ms
+2025-04-15 16:18:56.263 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:18:56.406 [info] Fetched fsConfig in 143.47352399863303ms
+2025-04-15 16:18:56.406 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:18:56.406 [info] File sync enabled status: true
+2025-04-15 16:18:56.406 [info] Starting sync of visible tabs
+2025-04-15 16:18:56.407 [info] Synced all visible tabs in 0.1486009992659092ms
+2025-04-15 16:19:01.156 [info] Synced file src/components/Sidebar.tsx modelVersion=11 in 141.17641999945045ms
+2025-04-15 16:19:01.917 [info] Synced file src/components/Sidebar.tsx modelVersion=15 in 138.21116200089455ms
+2025-04-15 16:20:49.323 [info] Synced file src/components/Sidebar.tsx modelVersion=16 in 194.26064500026405ms
+2025-04-15 16:20:49.904 [info] Synced file src/components/Sidebar.tsx modelVersion=17 in 150.3953540008515ms
+2025-04-15 16:20:50.041 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:20:50.185 [info] Fetched fsConfig in 143.9047189988196ms
+2025-04-15 16:20:50.185 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:20:50.185 [info] File sync enabled status: true
+2025-04-15 16:20:50.185 [info] Starting sync of visible tabs
+2025-04-15 16:20:50.185 [info] Synced all visible tabs in 0.16908999904990196ms
+2025-04-15 16:20:51.102 [info] Synced file src/components/Sidebar.tsx modelVersion=18 in 143.82903600111604ms
+2025-04-15 16:20:52.876 [info] Synced file src/components/Sidebar.tsx modelVersion=23 in 139.67920800112188ms
+2025-04-15 16:20:53.495 [info] Synced file src/components/Sidebar.tsx modelVersion=25 in 150.42004100047052ms
+2025-04-15 16:24:01.155 [info] Synced file src/components/Sidebar.tsx modelVersion=27 in 203.44463399983943ms
+2025-04-15 16:24:01.817 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:24:01.956 [info] Fetched fsConfig in 139.17771900072694ms
+2025-04-15 16:24:01.956 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:24:01.956 [info] File sync enabled status: true
+2025-04-15 16:24:01.956 [info] Starting sync of visible tabs
+2025-04-15 16:24:01.956 [info] Synced all visible tabs in 0.17034199833869934ms
+2025-04-15 16:24:11.572 [info] Synced file src/components/Sidebar.tsx modelVersion=29 in 143.60554300062358ms
+2025-04-15 16:24:12.622 [info] Synced file src/components/Sidebar.tsx modelVersion=31 in 141.38572499901056ms
+2025-04-15 16:24:29.156 [info] Handled visible editors change in 0.908288000151515ms
+2025-04-15 16:24:29.507 [info] Uploaded file src/stores/useNotesStore.ts modelVersion=2 in 161.09441899880767ms
+2025-04-15 16:24:29.507 [info] Handled visible editors change in 305.8981780000031ms
+2025-04-15 16:25:37.338 [info] Synced file src/stores/useNotesStore.ts modelVersion=4 in 237.20278800092638ms
+2025-04-15 16:25:38.008 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:25:38.129 [info] Synced file src/stores/useNotesStore.ts modelVersion=5 in 144.2060380000621ms
+2025-04-15 16:25:38.156 [info] Fetched fsConfig in 148.26103799976408ms
+2025-04-15 16:25:38.157 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:25:38.157 [info] File sync enabled status: true
+2025-04-15 16:25:38.157 [info] Starting sync of visible tabs
+2025-04-15 16:25:38.157 [info] Synced all visible tabs in 0.29707200080156326ms
+2025-04-15 16:25:39.144 [info] Synced file src/stores/useNotesStore.ts modelVersion=6 in 159.3739849999547ms
+2025-04-15 16:25:51.601 [info] Synced file src/stores/useNotesStore.ts modelVersion=9 in 144.15802799910307ms
+2025-04-15 16:25:52.769 [info] Synced file src/stores/useNotesStore.ts modelVersion=10 in 164.02351799979806ms
+2025-04-15 16:25:53.123 [info] Synced file src/stores/useNotesStore.ts modelVersion=10 in 152.60195799916983ms
+2025-04-15 16:25:54.104 [info] Synced file src/stores/useNotesStore.ts modelVersion=11 in 131.94886700063944ms
+2025-04-15 16:26:23.542 [info] Synced file src/stores/useNotesStore.ts modelVersion=14 in 145.55714399926364ms
+2025-04-15 16:26:25.150 [info] Synced file src/stores/useNotesStore.ts modelVersion=15 in 160.80759700015187ms
+2025-04-15 16:26:25.856 [info] Synced file src/stores/useNotesStore.ts modelVersion=20 in 144.10471799969673ms
+2025-04-15 16:26:26.202 [info] Synced file src/stores/useNotesStore.ts modelVersion=20 in 140.94230700097978ms
+2025-04-15 16:26:54.568 [info] Handled visible editors change in 0.5191420000046492ms
+2025-04-15 16:26:54.634 [info] Handled visible editors change in 1.1328429989516735ms
+2025-04-15 16:26:55.913 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:26:56.051 [info] Fetched fsConfig in 138.24810099974275ms
+2025-04-15 16:26:56.051 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:26:56.052 [info] File sync enabled status: true
+2025-04-15 16:26:56.052 [info] Starting sync of visible tabs
+2025-04-15 16:26:56.052 [info] Synced all visible tabs in 0.13424400053918362ms
+2025-04-15 16:26:57.873 [info] Synced file src/components/Sidebar.tsx modelVersion=32 in 139.58709399960935ms
+2025-04-15 16:27:45.995 [info] Handled visible editors change in 0.5030209999531507ms
+2025-04-15 16:27:46.427 [info] Uploaded file src/components/NoteEditor.tsx modelVersion=1 in 141.21338899992406ms
+2025-04-15 16:27:46.428 [info] Handled visible editors change in 359.4187690000981ms
+2025-04-15 16:29:01.511 [info] Synced file src/components/NoteEditor.tsx modelVersion=3 in 139.70253100059927ms
+2025-04-15 16:29:02.185 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-15 16:29:02.326 [info] Fetched fsConfig in 139.8983220010996ms
+2025-04-15 16:29:02.326 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-15 16:29:02.326 [info] File sync enabled status: true
+2025-04-15 16:29:02.326 [info] Starting sync of visible tabs
+2025-04-15 16:29:02.326 [info] Synced all visible tabs in 0.23444299958646297ms
+2025-04-15 16:29:03.659 [info] Synced file src/components/NoteEditor.tsx modelVersion=10 in 144.1440219990909ms
+2025-04-15 16:29:04.238 [info] Synced file src/components/NoteEditor.tsx modelVersion=13 in 140.03873800113797ms
+2025-04-15 16:29:04.503 [info] Synced file src/components/NoteEditor.tsx modelVersion=15 in 144.39360400103033ms

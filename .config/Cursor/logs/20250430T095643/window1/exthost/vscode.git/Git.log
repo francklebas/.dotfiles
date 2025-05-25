@@ -1,0 +1,56 @@
+2025-04-30 09:56:50.193 [info] [main] Log level: Info
+2025-04-30 09:56:50.193 [info] [main] Validating found git in: "git"
+2025-04-30 09:56:50.193 [info] [main] Using git "2.49.0" from "git"
+2025-04-30 09:56:50.193 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-30 09:56:50.193 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-30 09:56:50.193 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-30 09:56:50.198 [info] > git rev-parse --show-toplevel [7ms]
+2025-04-30 09:56:50.218 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2025-04-30 09:56:50.230 [info] [Model][openRepository] Opened repository: /home/franck/workspace/chadnotes-cursored/chatnotes
+2025-04-30 09:56:50.234 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-30 09:56:51.478 [info] > git config --get commit.template [1225ms]
+2025-04-30 09:56:51.542 [info] > git rev-parse --show-toplevel [68ms]
+2025-04-30 09:56:51.542 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-30 09:56:51.581 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-30 09:56:51.598 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-30 09:56:51.617 [info] > git show --textconv :package.json [56ms]
+2025-04-30 09:56:51.617 [info] > git ls-files --stage -- /home/franck/workspace/chadnotes-cursored/chatnotes/package.json [41ms]
+2025-04-30 09:56:51.641 [info] > git rev-parse --show-toplevel [25ms]
+2025-04-30 09:56:51.641 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-30 09:56:51.641 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [43ms]
+2025-04-30 09:56:51.704 [info] > git status -z -uall [48ms]
+2025-04-30 09:56:51.706 [info] > git cat-file -s 9b6612aa45cf8fbe7e414e97c33c63a0cc06c2ac [70ms]
+2025-04-30 09:56:51.712 [info] > git rev-parse --show-toplevel [17ms]
+2025-04-30 09:56:51.712 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-30 09:56:51.713 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [41ms]
+2025-04-30 09:56:51.783 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [49ms]
+2025-04-30 09:56:51.807 [info] > git config --local branch.main.vscode-merge-base [10ms]
+2025-04-30 09:56:51.807 [warning] [Git][config] git config failed: Failed to execute git
+2025-04-30 09:56:51.825 [info] > git config --get commit.template [48ms]
+2025-04-30 09:56:51.825 [info] > git rev-parse --show-toplevel [66ms]
+2025-04-30 09:56:51.825 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-30 09:56:51.849 [info] > git reflog main --grep-reflog=branch: Created from *. [24ms]
+2025-04-30 09:56:51.880 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-30 09:56:51.901 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2025-04-30 09:56:51.929 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [68ms]
+2025-04-30 09:56:51.930 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-04-30 09:56:51.930 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-04-30 09:56:51.952 [info] > git status -z -uall [37ms]
+2025-04-30 09:56:51.952 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2025-04-30 09:56:52.004 [info] > git check-ignore -v -z --stdin [4ms]
+2025-04-30 09:57:00.156 [info] > git config --global user.name [5ms]
+2025-04-30 09:57:00.188 [info] > git config --global user.email [5ms]
+2025-04-30 09:57:00.188 [info] [main] Stored git author name in global state: Franck LEBAS <franck.lebas@betao.se>
+2025-04-30 09:57:16.630 [info] [main] Log level: Info
+2025-04-30 09:57:16.630 [info] [main] Validating found git in: "git"
+2025-04-30 09:57:16.630 [info] [main] Using git "2.49.0" from "git"
+2025-04-30 09:57:16.630 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-30 09:57:16.630 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-30 09:57:26.638 [info] > git config --global user.name [6ms]
+2025-04-30 09:57:26.669 [info] > git config --global user.email [6ms]
+2025-04-30 09:57:26.669 [info] [main] Stored git author name in global state: Franck LEBAS <franck.lebas@betao.se>

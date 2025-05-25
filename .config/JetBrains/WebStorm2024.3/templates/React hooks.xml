@@ -1,0 +1,6 @@
+<templateSet group="React hooks">
+  <template name="useMemo" value="const $cachedValue$ = useMemo(() =&gt; {&#10;&#9;$END$&#10;}, []);" description="const cachedValue = useMemo(() =&gt; {}, [])" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="cachedValue" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+-- local keymap = vim.keymap.set
+--
+-- keymap("n", "<leader>fw", function()
+--   require("telescope.builtin").live_grep({
+--     default_text = vim.fn.expand("<cword>"),
+--   })
+-- end, { desc = "Find Word Under Cursor" })

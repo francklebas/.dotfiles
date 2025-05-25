@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="vbase-scss" value="&lt;template&gt;&#10;  &lt;div&gt;ComponentName&lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;&#10;export default {&#10;  name: 'ComponentName',&#10;  components: {},&#10;  props: {}&#10;};&#10;&lt;/script&gt;&#10;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;@import 'styles/base-vars.scss';&#10;&lt;/style&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

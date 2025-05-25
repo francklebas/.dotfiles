@@ -1,0 +1,84 @@
+2025-04-21 16:19:56.852 [info] Using the Electron fetcher.
+2025-04-21 16:19:56.852 [info] Initializing Git extension service.
+2025-04-21 16:19:56.852 [info] Successfully activated the vscode.git extension.
+2025-04-21 16:19:56.852 [info] Enablement state of the vscode.git extension: true.
+2025-04-21 16:19:56.852 [info] Successfully registered Git commit message provider.
+2025-04-21 16:19:57.056 [info] Logged in as francklebas
+2025-04-21 16:19:58.054 [info] Got Copilot token for francklebas
+2025-04-21 16:19:58.265 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 16:19:58.265 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-04-21 16:19:58.289 [info] Registering default platform agent...
+2025-04-21 16:19:58.804 [info] Fetched model metadata in 631ms 09265b42-c56f-44af-aa3a-84658e51132a
+2025-04-21 16:19:58.820 [info] activationBlocker from 'languageModelAccess' took for 783ms
+2025-04-21 16:49:59.528 [info] Logged in as francklebas
+2025-04-21 16:50:00.273 [info] Got Copilot token for francklebas
+2025-04-21 16:50:00.284 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 17:20:00.320 [info] Logged in as francklebas
+2025-04-21 17:20:01.116 [info] Got Copilot token for francklebas
+2025-04-21 17:20:01.135 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 17:50:01.173 [info] Logged in as francklebas
+2025-04-21 17:50:01.852 [info] Got Copilot token for francklebas
+2025-04-21 17:50:01.871 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 18:20:01.911 [info] Logged in as francklebas
+2025-04-21 18:20:02.692 [info] Got Copilot token for francklebas
+2025-04-21 18:20:02.712 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 18:50:02.755 [info] Logged in as francklebas
+2025-04-21 18:50:03.610 [info] Got Copilot token for francklebas
+2025-04-21 18:50:03.630 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 19:20:03.673 [info] Logged in as francklebas
+2025-04-21 19:20:04.413 [info] Got Copilot token for francklebas
+2025-04-21 19:20:04.427 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 19:50:04.473 [info] Logged in as francklebas
+2025-04-21 19:50:05.255 [info] Got Copilot token for francklebas
+2025-04-21 19:50:05.271 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 20:20:05.314 [info] Logged in as francklebas
+2025-04-21 20:20:06.104 [info] Got Copilot token for francklebas
+2025-04-21 20:20:06.120 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 20:50:06.165 [info] Logged in as francklebas
+2025-04-21 20:50:06.882 [info] Got Copilot token for francklebas
+2025-04-21 20:50:06.902 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 21:20:06.960 [info] Logged in as francklebas
+2025-04-21 21:20:07.745 [info] Got Copilot token for francklebas
+2025-04-21 21:20:07.765 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 21:50:07.809 [info] Logged in as francklebas
+2025-04-21 21:50:08.526 [info] Got Copilot token for francklebas
+2025-04-21 21:50:08.543 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 22:20:08.591 [info] Logged in as francklebas
+2025-04-21 22:20:09.414 [info] Got Copilot token for francklebas
+2025-04-21 22:20:09.429 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-21 22:50:09.475 [info] Logged in as francklebas
+2025-04-21 22:50:10.274 [info] Got Copilot token for francklebas
+2025-04-21 22:50:10.293 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 07:25:15.997 [info] Logged in as francklebas
+2025-04-22 07:25:16.699 [info] Got Copilot token for francklebas
+2025-04-22 07:25:16.717 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 07:55:16.780 [info] Logged in as francklebas
+2025-04-22 07:55:17.507 [info] Got Copilot token for francklebas
+2025-04-22 07:55:17.523 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 08:25:17.592 [info] Logged in as francklebas
+2025-04-22 08:25:18.291 [info] Got Copilot token for francklebas
+2025-04-22 08:25:18.304 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 08:55:18.368 [info] Logged in as francklebas
+2025-04-22 08:55:19.077 [info] Got Copilot token for francklebas
+2025-04-22 08:55:19.110 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 09:25:19.223 [info] Logged in as francklebas
+2025-04-22 09:25:20.001 [info] Got Copilot token for francklebas
+2025-04-22 09:25:20.019 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 09:55:20.095 [info] Logged in as francklebas
+2025-04-22 09:55:20.928 [info] Got Copilot token for francklebas
+2025-04-22 09:55:20.943 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 10:25:21.021 [info] Logged in as francklebas
+2025-04-22 10:25:21.764 [info] Got Copilot token for francklebas
+2025-04-22 10:25:21.779 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 10:55:21.879 [info] Logged in as francklebas
+2025-04-22 10:55:22.610 [info] Got Copilot token for francklebas
+2025-04-22 10:55:22.644 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 11:25:22.729 [info] Logged in as francklebas
+2025-04-22 11:25:23.427 [info] Got Copilot token for francklebas
+2025-04-22 11:25:23.442 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 11:55:23.514 [info] Logged in as francklebas
+2025-04-22 11:55:24.489 [info] Got Copilot token for francklebas
+2025-04-22 11:55:24.508 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat
+2025-04-22 12:25:24.653 [info] Logged in as francklebas
+2025-04-22 12:25:25.453 [info] Got Copilot token for francklebas
+2025-04-22 12:25:25.468 [info] copilot token chat_enabled: true, sku: copilot_for_business_seat

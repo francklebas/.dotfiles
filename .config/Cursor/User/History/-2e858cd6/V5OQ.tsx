@@ -1,0 +1,135 @@
+import { useRef, useEffect } from "react";
+import { useEditor, EditorContent } from "@tiptap/react";
+import StarterKit from "@tiptap/starter-kit";
+import { marked } from "marked";
+import DOMPurify from "dompurify";
+import "@/styles/tiptap.css";
+import { Note } from "@/stores/useNotesStore";
+
+import type { EditorView } from "@tiptap/pm/view";
+
+interface NoteEditorProps {
+  note: Note;
+  onUpdate: (content: string, title: string) => void;
+}
+
+export default function NoteEditor({ note, onUpdate }: NoteEditorProps) {
+  const titleRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    if (note.title === "") {
+      titleRef.current?.focus();
+    }
+  }, [note.id]);
+
+  const editor = useEditor({
+    extensions: [StarterKit],
+    content: note.content,
+    editorProps: {
+      attributes: {
+        class: "prose prose-neutral focus:outline-none max-w-none min-h-[60vh] px-4 py-6",
+      },
+      handlePaste: (_view: EditorView, event: ClipboardEvent) => {
+        const clipboardData = event.clipboardData;
+        if (!clipboardData) return false;
+
+        const text = clipboardData.getData("text/plain");
+        if (!text) return false;
+
+        const markdownRegex = /(\*\*[\w\s]+\*\*|__[\w\s]+__|#{1,6}\s[\w\s]+|```[\s\S]*```|\[[\w\s]+\]\(https?:\/\/[^\s]+\)|\*\s[\w\s]+|\d\.\s[\w\s]+|-\s[\w\s]+)/;
+
+        if (markdownRegex.test(text)) {
+          event.preventDefault();
+
+          // Gestion du retour mixte de marked.parse
+          const result = marked.parse(text);
+
+          const processContent = (parsedContent: string) => {
+            const html = DOMPurify.sanitize(parsedContent);
+            if (editor) {
+              editor.commands.deleteSelection();
+              editor.commands.insertContent(html);
+            }
+          };
+
+          if (result instanceof Promise) {
+            result.then(processContent).catch((error: Error) => {
+              console.error("Erreur lors de la conversion markdown:", error);
+            });
+          } else {
+            processContent(result);
+          }
+
+          return true;
+        }
+
+        return false;
+      }
+    },
+    onCreate: ({ editor }) => {
+      if (note.title === "") {
+        // On attend que le contenu soit chargé avant de sélectionner le titre
+        setTimeout(() => {
+          let headingPos = -1;
+          
+          // Trouver le premier nœud de type 'heading'
+          editor.state.doc.descendants((node, pos) => {
+            if (node.type.name === 'heading') {
+              headingPos = pos;
+              return true; // Arrêter la recherche
+            }
+            return false;
+          });
+
+          if (headingPos !== -1) {
+            // Sélectionner le contenu du titre
+            const from = headingPos + 1; // +1 pour passer le caractère de début du nœud
+            const to = from + "Nouvelle note".length;
+            editor.commands.setTextSelection({ from, to });
+            editor.commands.focus();
+          }
+        }, 0);
+      }
+    },
+    onUpdate: ({ editor }) => {
+      const html = editor.getHTML();
+
+      // extraire le titre depuis le premier <h1>
+      const doc = new DOMParser().parseFromString(html, "text/html");
+      const rawTitle = doc.querySelector("h1")?.textContent?.trim();
+      const title = rawTitle && rawTitle.length > 0 ? rawTitle : "Sans titre";
+
+      onUpdate(html, title);
+    },
+  });
+
+  // Mise à jour du contenu quand il change
+  useEffect(() => {
+    if (editor && note.content !== editor.getHTML()) {
+      editor.commands.setContent(note.content);
+    }
+  }, [note.content, editor]);
+
+  // Nettoyage de l'éditeur au démontage
+  useEffect(() => {
+    return () => {
+      editor?.destroy();
+    };
+  }, [editor]);
+
+  if (!editor) return <div className="loading">Chargement de l'éditeur...</div>;
+
+  return (
+    <div className="flex flex-col h-full">
+      <input
+        ref={titleRef}
+        type="text"
+        value={note.title}
+        onChange={(e) => onUpdate(note.content, e.target.value)}
+        className="w-full p-2 text-2xl font-bold border-b border-gray-200 focus:outline-none focus:border-blue-500"
+        placeholder="Titre de la note"
+      />
+      <EditorContent editor={editor} className="flex-1 overflow-y-auto p-4" />
+    </div>
+  );
+}

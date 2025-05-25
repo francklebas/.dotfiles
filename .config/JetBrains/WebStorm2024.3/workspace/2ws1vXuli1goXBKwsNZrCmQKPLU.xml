@@ -1,0 +1,883 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="sb-back" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="sbk@127.0.0.1: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="sbk@127.0.0.1: DSN" type="27e358d6:DataSourceNode" />
+        <item name="sbk: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="sbk@127.0.0.1: DSN" type="27e358d6:DataSourceNode" />
+        <item name="sbk: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="sbk@127.0.0.1: DSN" type="27e358d6:DataSourceNode" />
+        <item name="sbk: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 7 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="12ggkklpftxj" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/middleware/auth_middleware.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="528">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"auth_middleware.ts","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/models/user.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1152">
+              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"user.ts","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/controllers/auth_controller.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="3720">
+              <caret line="157" column="28" selection-start-line="157" selection-start-column="28" selection-end-line="157" selection-end-column="28" />
+              <folding>
+                <element signature="e#38#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"auth_controller.ts","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/start/routes.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="456">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"routes.ts","foregroundColor":-5524801,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"f44747"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"2"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-106,1,10,-109,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,114,111,117,116,101,115,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/config/auth.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="648">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"auth.ts","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/models/access_token.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="96">
+              <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"access_token.ts","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 48,
+      "lastUsed": 1746952213626
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 2,
+      "lastUsed": 1746862142356
+    },
+    "JavaScript": {
+      "usageCount": 1,
+      "lastUsed": 1746820030123
+    },
+    "textmate": {
+      "usageCount": 2,
+      "lastUsed": 1746862142632
+    },
+    "JSON": {
+      "usageCount": 4,
+      "lastUsed": 1746862142350
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1746862142364
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1746863003199
+    },
+    "Database Element": {
+      "usageCount": 1,
+      "lastUsed": 1746863038100
+    },
+    "UML": {
+      "usageCount": 1,
+      "lastUsed": 1746863710059
+    },
+    "EditorConfig": {
+      "usageCount": 1,
+      "lastUsed": 1746865571683
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DB_NAME</find>
+      <find>export default await Env.create(new URL('../', import.meta.url)</find>
+      <find>DB_DATABASE</find>
+      <find>make:m</find>
+      <find>BaseSchema</find>
+      <find>JwtGuard</find>
+      <find>SessionController</find>
+      <find>access_tokens</find>
+      <find>@adonisjs/auth</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/config</dir>
+      <dir>$PROJECT_DIR$/start</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/franck/workspace/sb-back/compose.yml&quot;,
+    &quot;/home/franck/workspace/sb-back/start/env.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/.env&quot;,
+    &quot;/home/franck/workspace/sb-back/config/database.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/app/models/block.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/app/models/application.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/app/models/field.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/package.json&quot;,
+    &quot;/home/franck/workspace/sb-back/config/auth.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/app/middleware/auth_middleware.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/app/models/access_token.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/app/models/user.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/app/controllers/auth_controller.ts&quot;,
+    &quot;/home/franck/workspace/sb-back/start/routes.ts&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="EditorConfig">
+      <summary usageCount="1" lastUsage="1746865571683" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1746862142350" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1746820030123" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1746863003199" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1746862142356" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="48" lastUsage="1746952213626" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="2" lastUsage="1746862142632" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1746862142364" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sb-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/sb-back}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sb-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/sb-back}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/sb-back/sbk}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sb-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/sb-back}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/sb-back/start}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sb-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="sb-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Database Consoles" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="sb-back" />
+            <item name="sb-back" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="sb-back" />
+              <item name="dir{file:///home/franck/workspace/sb-back}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/franck/workspace/sb-back/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="app" />
+                <item name="dir{file:///home/franck/workspace/sb-back/app}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bin" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="bin" />
+                <item name="dir{file:///home/franck/workspace/sb-back/bin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="config" />
+                <item name="dir{file:///home/franck/workspace/sb-back/config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/database" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="database" />
+                <item name="dir{file:///home/franck/workspace/sb-back/database}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/franck/workspace/sb-back/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/sbk" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="sbk" />
+                <item name="dir{file:///home/franck/workspace/sb-back/sbk}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/sbk/.idea" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text=".idea" />
+                  <item name="dir{file:///home/franck/workspace/sb-back/sbk/.idea}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/sbk/dist" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="dist" />
+                  <item name="dir{file:///home/franck/workspace/sb-back/sbk/dist}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/start" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="start" />
+                <item name="dir{file:///home/franck/workspace/sb-back/start}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/start/env.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="env.ts" />
+                  <item name="env.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/start/kernel.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="kernel.ts" />
+                  <item name="kernel.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/start/routes.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="routes.ts" />
+                  <item name="routes.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tests" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="tests" />
+                <item name="dir{file:///home/franck/workspace/sb-back/tests}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env.example" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".env.example" />
+                <item name=".env.example" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierrc" />
+                <item name=".prettierrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ace.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="ace.js" />
+                <item name="ace.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/adonisrc.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="adonisrc.ts" />
+                <item name="adonisrc.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/compose.yml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="compose.yml" />
+                <item name="compose.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/eslint.config.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="eslint.config.js" />
+                <item name="eslint.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/consoles/db" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Database Consoles" />
+                <item name="Database Consoles" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/consoles/db/2d03ad8b-8d0b-42d3-913e-e651cc645741" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/providers/postgresql.svg" iconPlugin="com.mallowigi" isLeaf="true" text="sbk@127.0.0.1" />
+                  <item name="dir{file:///home/franck/.config/JetBrains/WebStorm2024.3/consoles/db/2d03ad8b-8d0b-42d3-913e-e651cc645741}" type="18b656a9:ScratchTreeStructureProvider$MyRootNode$1$1" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Extensions" />
+                <item name="Extensions" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.test:w" />
+      <element setting="npm.dev" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09549418" />
+      <window_info id="Commit" order="1" weight="0.09549418" />
+      <window_info id="Welcome to GitHub Copilot" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.29296875" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.29296875" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32990056" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3300872" />
+      <window_info anchor="right" id="AIAssistant" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3300872" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="6" weight="0.3300872" />
+      <window_info anchor="right" id="adonis" order="7" side_tool="true" />
+      <unified_weights bottom="0.29296875" left="0.09549418" right="0.3300872" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09549418" />
+      <window_info id="Commit" order="1" weight="0.09549418" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3860085" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.9293324" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32990056" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3300872" />
+      <window_info anchor="right" id="AIAssistant" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.3300872" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.3301887" />
+      <window_info anchor="right" id="adonis" order="7" side_tool="true" />
+      <unified_weights bottom="0.9293324" left="0.09549418" right="0.3300872" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>GitHub Copilot Chat</value>
+      <value>Database</value>
+      <value>Notifications</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4390" y="405" width="800" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1746863002721">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4390" y="405" width="800" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746863002721" />
+    <state x="4478" y="502" width="624" height="493" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1746863647458">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4478" y="502" width="624" height="493" key="DUMP_DIALOG_DIMENSION_KEY/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746863647458" />
+    <state x="3573" y="502" width="424" height="493" key="FileChooserDialogImpl" timestamp="1746952235461">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3573" y="502" width="424" height="493" key="FileChooserDialogImpl/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746952235461" />
+    <state width="3358" height="370" key="GridCell.Tab.0.bottom" timestamp="1746884268756">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="370" key="GridCell.Tab.0.bottom/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746884268756" />
+    <state width="3358" height="370" key="GridCell.Tab.0.center" timestamp="1746884268756">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="370" key="GridCell.Tab.0.center/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746884268756" />
+    <state width="3358" height="370" key="GridCell.Tab.0.left" timestamp="1746884268756">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="370" key="GridCell.Tab.0.left/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746884268756" />
+    <state width="3358" height="370" key="GridCell.Tab.0.right" timestamp="1746884268756">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="370" key="GridCell.Tab.0.right/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746884268756" />
+    <state x="4600" y="469" width="379" height="558" key="RollbackChangesDialog" timestamp="1746869139531">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4600" y="469" width="379" height="558" key="RollbackChangesDialog/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746869139531" />
+    <state x="3287" y="379" key="SettingsEditor" timestamp="1746863815884">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3287" y="379" key="SettingsEditor/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746863815883" />
+    <state x="3523" y="452" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1746869651510">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3523" y="452" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746869651510" />
+    <state x="4131" y="236" width="1011" height="875" key="find.popup" timestamp="1746868945249">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4131" y="236" width="1011" height="875" key="find.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746868945249" />
+    <state x="4455" y="348" width="699" height="701" key="search.everywhere.popup" timestamp="1746869534335">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4455" y="348" width="699" height="701" key="search.everywhere.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746869534335" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/pg-protocol/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/field.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/application.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/block.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/env.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/knex/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="2396" column="4" selection-start-line="2396" selection-start-column="4" selection-end-line="2396" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@adonisjs/lucid/build/src/schema/main.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adonisrc.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2d03ad8b-8d0b-42d3-913e-e651cc645741/console.sql" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/1746820913703_create_users_table.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2d03ad8b-8d0b-42d3-913e-e651cc645741/database/sbk/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1746863037443" presentationMode="TABLE" projectRestartId="22e8a16b-5be9-4958-b4e8-ea0edfff062a" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/2d03ad8b-8d0b-42d3-913e-e651cc645741">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bodyparser.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cors.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/hash.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/logger.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/bootstrap.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/user_service.ts" />
+    <entry file="file://$PROJECT_DIR$/app/services/auth_service.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@adonisjs/auth/build/modules/access_tokens_guard/main.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/auth_controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="157" column="28" selection-start-line="157" selection-start-column="28" selection-end-line="157" selection-end-column="28" />
+          <folding>
+            <element signature="e#38#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/access_token.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/middleware/auth_middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

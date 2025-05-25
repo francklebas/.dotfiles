@@ -1,0 +1,291 @@
+2025-04-30 09:58:58.561 [info] Extension host with pid 563414 started
+2025-04-30 09:58:58.590 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-30 09:58:58.600 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-30 09:58:58.681 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-30 09:58:58.804 [info] Eager extensions activated
+2025-04-30 09:58:58.821 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 09:58:59.014 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 09:58:59.214 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 09:58:59.279 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 09:58:59.486 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 09:58:59.495 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 09:59:57.830 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-30 09:59:57.851 [info] Extension host with pid 563414 exiting with code 0
+2025-04-30 09:59:59.917 [info] Extension host with pid 564350 started
+2025-04-30 09:59:59.917 [info] Skipping acquiring lock for /home/franck/.config/Cursor/User/workspaceStorage/d9decf1fb9cbd0f535adfb3455b6f665.
+2025-04-30 09:59:59.934 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-30 09:59:59.947 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-30 10:00:00.022 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-30 10:00:00.114 [info] Eager extensions activated
+2025-04-30 10:00:00.144 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:00:00.336 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:00:00.537 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:00:00.598 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:00:00.765 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:00:00.771 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:01:41.488 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-30 10:01:49.851 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-04-30 10:02:03.493 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:vue'
+2025-04-30 10:02:46.869 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:02:46.892 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:02:46.923 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:02:46.979 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:02:47.881 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-04-30 10:03:42.713 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-30 10:03:42.739 [info] Extension host with pid 564350 exiting with code 0
+2025-04-30 10:03:45.191 [info] Extension host with pid 566731 started
+2025-04-30 10:03:45.204 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-30 10:03:45.212 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-30 10:03:45.270 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-30 10:03:45.366 [info] Eager extensions activated
+2025-04-30 10:03:45.398 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:03:45.564 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:03:45.730 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:03:45.796 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:03:45.960 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:03:45.964 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:04:31.127 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-30 10:04:31.143 [info] Extension host with pid 566731 exiting with code 0
+2025-04-30 10:04:33.647 [info] Extension host with pid 567256 started
+2025-04-30 10:04:33.647 [info] Skipping acquiring lock for /home/franck/.config/Cursor/User/workspaceStorage/d9decf1fb9cbd0f535adfb3455b6f665.
+2025-04-30 10:04:33.727 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-30 10:04:33.771 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-30 10:04:33.895 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-30 10:04:34.797 [info] Eager extensions activated
+2025-04-30 10:04:34.838 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:vue'
+2025-04-30 10:04:34.901 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-30 10:04:34.919 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-04-30 10:04:34.996 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-04-30 10:04:35.056 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:04:35.072 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:04:35.090 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:04:35.154 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 10:04:35.195 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:04:35.493 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:04:35.744 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:04:35.823 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:04:36.099 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:04:36.108 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 10:06:59.103 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-04-30 10:07:44.803 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2025-04-30 10:22:22.633 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-30 11:02:09.476 [error] [Vue.volar] provider FAILED
+2025-04-30 11:02:09.477 [error] Error: Illegal argument: range
+	at Rt (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1189)
+	at new SU (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:40996)
+	at ye (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:38:582)
+	at o (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:37:21016)
+	at Object.yE [as map] (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:37:21102)
+	at Object.ge [as asColorInformations] (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:38:666)
+	at /home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:41:76148
+	at async NQ.provideColors (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1174396)
+2025-04-30 11:03:49.084 [error] [Vue.volar] provider FAILED
+2025-04-30 11:03:49.084 [error] Error: Illegal argument: range
+	at Rt (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1189)
+	at new SU (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:40996)
+	at ye (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:38:582)
+	at o (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:37:21016)
+	at Object.yE [as map] (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:37:21102)
+	at Object.ge [as asColorInformations] (/home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:38:666)
+	at /home/franck/.cursor/extensions/vue.volar-2.2.10/dist/client.js:41:76148
+	at async NQ.provideColors (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1174396)
+2025-04-30 16:55:03.386 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-30 16:55:03.439 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at L3.N [as value] (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:978108)
+	at C.B (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-30 16:55:03.439 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at set hasGitHubRepositories (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:328629)
+	at /tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:329588
+	at L3.value (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1096223)
+	at C.B (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-30 16:55:03.442 [info] Extension host with pid 567256 exiting with code 0
+2025-04-30 16:55:07.444 [info] Extension host with pid 734830 started
+2025-04-30 16:55:07.458 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-30 16:55:07.466 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-30 16:55:07.526 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-30 16:55:07.617 [info] Eager extensions activated
+2025-04-30 16:55:07.641 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:55:07.815 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:55:07.997 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:55:08.056 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:55:08.224 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:55:08.229 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:56:23.621 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-30 16:56:23.639 [info] Extension host with pid 734830 exiting with code 0
+2025-04-30 16:56:25.876 [info] Extension host with pid 735582 started
+2025-04-30 16:56:25.876 [info] Skipping acquiring lock for /home/franck/.config/Cursor/User/workspaceStorage/88bb028c3fc954cc095be622345b2ae9.
+2025-04-30 16:56:25.900 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-30 16:56:25.908 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-30 16:56:25.971 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-30 16:56:26.054 [info] Eager extensions activated
+2025-04-30 16:56:26.082 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:56:26.254 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:56:26.430 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:56:26.489 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:56:26.643 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 16:56:26.649 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-30 17:03:30.760 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 17:03:30.783 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 17:03:30.812 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 17:03:30.900 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-04-30 17:03:30.949 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-30 17:03:37.785 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-30 17:04:12.890 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:vue'
+2025-04-30 17:04:17.529 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-04-30 17:05:23.289 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-04-30 17:05:30.286 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-30 17:09:10.684 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2025-04-30 17:23:01.905 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-04-30 17:23:36.967 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4889
+2025-04-30 17:23:46.027 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4889
+2025-04-30 17:27:15.196 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4889
+2025-04-30 17:27:17.118 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4889
+2025-04-30 17:27:23.327 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4890
+2025-04-30 17:27:28.590 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4890
+2025-04-30 17:29:50.937 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-01 10:15:13.397 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-01 10:15:13.470 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at L3.N [as value] (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:978108)
+	at C.B (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-05-01 10:15:13.470 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at set hasGitHubRepositories (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:328629)
+	at /tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:329588
+	at L3.value (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1096223)
+	at C.B (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursortBONFR/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-05-01 10:15:13.473 [info] Extension host with pid 735582 exiting with code 0

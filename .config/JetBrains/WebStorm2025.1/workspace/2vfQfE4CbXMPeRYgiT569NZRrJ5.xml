@@ -1,0 +1,694 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="chadnotes" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1fday9gdfxyvp">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/editor.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="95">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"editor.tsx","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/components/NoteEditor.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="528">
+              <caret line="70" column="68" selection-start-line="70" selection-start-column="68" selection-end-line="70" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"NoteEditor.tsx","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/components/Sidebar.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="288">
+              <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Sidebar.tsx","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "CSS": {
+      "usageCount": 4,
+      "lastUsed": 1744538361867
+    },
+    "TypeScript JSX": {
+      "usageCount": 6,
+      "lastUsed": 1744538973587
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1744533751399
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Editor.module.css</find>
+      <find />
+      <find>titleText</find>
+      <find>getTitleFromContent</find>
+      <find>onUpdate: ({ editor }) =&gt; {</find>
+      <find>onUpdate</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/pages</dir>
+      <dir>$PROJECT_DIR$/src/components</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/franck/chadnotes/src/App.tsx",
+    "/home/franck/chadnotes/src/components/Sidebar.tsx",
+    "/home/franck/chadnotes/src/components/NoteEditor.tsx",
+    "/home/franck/chadnotes/src/pages/editor.tsx"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="4" lastUsage="1744538361867" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1744533751400" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="6" lastUsage="1744538973587" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chadnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/chadnotes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chadnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/chadnotes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/chadnotes/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chadnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/chadnotes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/chadnotes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/chadnotes/src/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chadnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/chadnotes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/chadnotes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/chadnotes/src/pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chadnotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/chadnotes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/chadnotes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/chadnotes/src/styles}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="chadnotes" />
+            <item name="chadnotes" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="chadnotes" />
+              <item name="dir{file:///home/franck/chadnotes}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/franck/chadnotes/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/__tests__" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="__tests__" />
+                <item name="dir{file:///home/franck/chadnotes/__tests__}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/franck/chadnotes/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="public" />
+                <item name="dir{file:///home/franck/chadnotes/public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="src" />
+                <item name="dir{file:///home/franck/chadnotes/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/assets" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="assets" />
+                  <item name="dir{file:///home/franck/chadnotes/src/assets}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/components" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="components" />
+                  <item name="dir{file:///home/franck/chadnotes/src/components}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/Layout.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="Layout.tsx" />
+                    <item name="Layout.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/NewNoteButton.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="NewNoteButton.tsx" />
+                    <item name="NewNoteButton.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/NoteEditor.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="NoteEditor.tsx" />
+                    <item name="NoteEditor.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/PrivateRoute.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="PrivateRoute.tsx" />
+                    <item name="PrivateRoute.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/Sidebar.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="Sidebar.tsx" />
+                    <item name="Sidebar.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/extensions" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="extensions" />
+                  <item name="dir{file:///home/franck/chadnotes/src/extensions}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/lib" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="lib" />
+                  <item name="dir{file:///home/franck/chadnotes/src/lib}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/pages" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="pages" />
+                  <item name="dir{file:///home/franck/chadnotes/src/pages}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/editor.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="editor.tsx" />
+                    <item name="editor.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/home.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="home.tsx" />
+                    <item name="home.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/settings.tsx" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="settings.tsx" />
+                    <item name="settings.tsx" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/stores" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="stores" />
+                  <item name="dir{file:///home/franck/chadnotes/src/stores}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/styles" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="styles" />
+                  <item name="dir{file:///home/franck/chadnotes/src/styles}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/styles/tiptap.css" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="tiptap.css" />
+                    <item name="tiptap.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/App.tsx" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="App.tsx" />
+                  <item name="App.tsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/index.css" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="index.css" />
+                  <item name="index.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main.tsx" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="main.tsx" />
+                  <item name="main.tsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/routes.tsx" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="routes.tsx" />
+                  <item name="routes.tsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/types.d.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="types.d.ts" />
+                  <item name="types.d.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/vite-env.d.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="vite-env.d.ts" />
+                  <item name="vite-env.d.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitlab-ci.yml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitlab-ci.yml" />
+                <item name=".gitlab-ci.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierrc" />
+                <item name=".prettierrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Architecture.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Architecture.md" />
+                <item name="Architecture.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/components.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="components.json" />
+                <item name="components.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/eslint.config.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="eslint.config.js" />
+                <item name="eslint.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/FONCTIONNEL.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="FONCTIONNEL.md" />
+                <item name="FONCTIONNEL.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.html" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="index.html" />
+                <item name="index.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/MILESTONES.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="MILESTONES.md" />
+                <item name="MILESTONES.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.app.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.app.json" />
+                <item name="tsconfig.app.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.node.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.node.json" />
+                <item name="tsconfig.node.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vite.config.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="vite.config.ts" />
+                <item name="vite.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/yarn.lock" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="yarn.lock" />
+                <item name="yarn.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5690000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32857144" />
+      <window_info id="Commit" order="1" weight="0.32857144" />
+      <window_info id="Merge Requests" order="2" weight="0.2867647" />
+      <window_info id="Welcome to GitHub Copilot" order="2" show_stripe_button="false" weight="0.2867647" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.32990056" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32990056" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32990056" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="4" visible="true" weight="0.40989012" />
+      <unified_weights bottom="0.32990056" left="0.32857144" right="0.40989012" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Problems View</value>
+      <value>GitHub Copilot Chat</value>
+      <value>Find</value>
+      <value>Project</value>
+      <value>Merge Requests</value>
+      <value>Welcome to GitHub Copilot</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="498" height="478" key="SwitcherDM" timestamp="1744537239268">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="498" height="478" key="SwitcherDM/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1744537239268" />
+    <state x="3352" y="466" width="800" height="562" key="Vcs.Push.Dialog.v2" timestamp="1744540027788">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3352" y="466" width="800" height="562" key="Vcs.Push.Dialog.v2/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1744540027788" />
+    <state x="3590" y="452" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1744539861352">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3590" y="452" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1744539861352" />
+    <state x="3503" y="169" width="646" height="560" key="find.popup" timestamp="1744539793528">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3503" y="169" width="646" height="560" key="find.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1744539793528" />
+    <state x="3417" y="348" width="699" height="701" key="search.everywhere.popup" timestamp="1744539845998">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3417" y="348" width="699" height="701" key="search.everywhere.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1744539845998" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Editor.module.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/tiptap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Sidebar.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/NoteEditor.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="70" column="68" selection-start-line="70" selection-start-column="68" selection-end-line="70" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/editor.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

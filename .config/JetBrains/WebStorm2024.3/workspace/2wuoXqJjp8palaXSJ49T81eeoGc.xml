@@ -1,0 +1,742 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="sbk" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="37tth5wcgwuy0" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;TypeScript&quot;: {
+      &quot;usageCount&quot;: 112,
+      &quot;lastUsed&quot;: 1747134361662
+    },
+    &quot;Markdown&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1746900865609
+    },
+    &quot;DIFF&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1746952258604
+    },
+    &quot;AUTO_DETECTED&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1746953806598
+    },
+    &quot;JSON&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1746954452810
+    },
+    &quot;textmate&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1746955176332
+    },
+    &quot;.env file&quot;: {
+      &quot;usageCount&quot;: 4,
+      &quot;lastUsed&quot;: 1747134237053
+    },
+    &quot;YAML&quot;: {
+      &quot;usageCount&quot;: 4,
+      &quot;lastUsed&quot;: 1747128722541
+    },
+    &quot;Dockerfile&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1747128351344
+    },
+    &quot;SQL&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1747130182367
+    },
+    &quot;UML&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1747130196862
+    }
+  }
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DatabaseModule</find>
+      <find />
+      <find>.local</find>
+      <find>env</find>
+      <find>signup.dto</find>
+      <find>CreateFiledDto</find>
+      <find>Dto</find>
+      <find>Webapp</find>
+      <find>block.blockFields</find>
+      <find>block_fields</find>
+      <find>createUser</find>
+      <find>constru</find>
+      <find>SupabaseService</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Application</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/supabase</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/src/auth/dto</dir>
+      <dir>$PROJECT_DIR$/src/field/dto</dir>
+      <dir>$PROJECT_DIR$/src/models</dir>
+      <dir>$PROJECT_DIR$/src/user</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/franck/workspace/sbk-back/src/guards/auth.guard.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/decorators/current-user.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/decorators/current-user.decorator.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/auth/auth.controller.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/.env.local&quot;,
+    &quot;/home/franck/workspace/sbk-back/package.json&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/auth/auth.service.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/auth/auth.middleware.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/main.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/auth/dto/signup.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/auth/dto/login.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/webapp/dto/create-webapp.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/block/dto/create-block.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/field/dto/create-field.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/webapp/webapp.module.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/webapp/webapp.controller.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/webapp/webapp.service.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/webapp/dto/update-webapp.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/block/block.module.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/block/dto/update-block.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/field/field.module.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/user/entities/user.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/application/entities/application.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/field/entities/field.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/block/entities/block.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/models/story.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/models/user.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/models/field.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/models/block-field.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/models/block.entity.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/compose.yml&quot;,
+    &quot;/home/franck/workspace/sbk-back/docker/Dockerfile&quot;,
+    &quot;/home/franck/workspace/sbk-back/Dockerfile&quot;,
+    &quot;/home/franck/workspace/sbk-back/docker-compose.yml&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/user/user.controller.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/application/application.controller.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/application/dto/application.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/application/application.service.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/field/dto/field.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/story/dtos/story.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/block/block.controller.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/block/block.service.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/block/dto/block.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/field/field.controller.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/field/field.service.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/user/dto/user.dto.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/user/user.service.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/user/user.module.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/app.module.ts&quot;,
+    &quot;/home/franck/workspace/sbk-back/.env&quot;,
+    &quot;/home/franck/workspace/sbk-back/src/supabase/supabase.service.ts&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="1" lastUsage="1747128351344" />
+    </language>
+    <language id="DotEnv">
+      <summary usageCount="4" lastUsage="1747134237053" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1746954452810" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1746900865612" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1747130182367" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="112" lastUsage="1747134361662" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1746955176332" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="4" lastUsage="1747128722541" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Docker.Unnamed" />
+      <element setting="npm.start:dev" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.docker.runtimes.DockerServerRuntime@a75000f9" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.docker.runtimes.DockerServerRuntime@a75000f9" type="f13cf2da:ServiceModel$ServiceNode" />
+                <item name="com.intellij.docker.runtimes.ComposeApplicationRuntime@ef6a3923" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="postgres@127.0.0.1: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="postgres@127.0.0.1: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29394000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.501032" visible="true" weight="0.13299419" />
+      <window_info id="Commit" order="1" weight="0.1297965" />
+      <window_info id="npm" order="2" sideWeight="0.498968" side_tool="true" weight="0.32662764" />
+      <window_info id="Welcome to GitHub Copilot" order="3" show_stripe_button="false" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.1850142" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.28870738" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.32990056" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.28870738" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.3303779" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.330303" />
+      <window_info anchor="right" id="Hierarchy" order="7" weight="0.32994187" />
+      <window_info anchor="right" id="RestfulBox" order="8" />
+      <unified_weights bottom="0.28870738" left="0.13299419" right="0.3303779" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Terminal</value>
+      <value>Services</value>
+      <value>GitHub Copilot Chat</value>
+      <value>npm</value>
+      <value>Hierarchy</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4390" y="405" width="800" height="686" key="#Docker" timestamp="1747128543111">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4390" y="405" width="800" height="686" key="#Docker/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747128543111" />
+    <state x="3928" y="313" width="800" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1747130182035">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3928" y="313" width="800" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747130182034" />
+    <state x="4528" y="493" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1747129826295">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4528" y="493" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747129826295" />
+    <state x="3610" y="627" width="282" height="290" key="DockerComposeFileDialog" timestamp="1747128490170">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3610" y="627" width="282" height="290" key="DockerComposeFileDialog/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747128490170" />
+    <state x="4578" y="502" width="424" height="493" key="FileChooserDialogImpl" timestamp="1747128486209">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4578" y="502" width="424" height="493" key="FileChooserDialogImpl/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747128486209" />
+    <state width="3358" height="364" key="GridCell.Tab.0.bottom" timestamp="1747163646684">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="364" key="GridCell.Tab.0.bottom/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747163646684" />
+    <state width="3358" height="364" key="GridCell.Tab.0.center" timestamp="1747163646684">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="364" key="GridCell.Tab.0.center/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747163646684" />
+    <state width="3358" height="364" key="GridCell.Tab.0.left" timestamp="1747163646684">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="364" key="GridCell.Tab.0.left/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747163646684" />
+    <state width="3358" height="364" key="GridCell.Tab.0.right" timestamp="1747163646684">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3358" height="364" key="GridCell.Tab.0.right/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747163646684" />
+    <state width="264" height="491" key="HiddenNamespacesPopup" timestamp="1747130271289">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="264" height="491" key="HiddenNamespacesPopup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747130271289" />
+    <state x="4291" y="379" width="1001" height="739" key="SettingsEditor" timestamp="1746963408472">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4291" y="379" width="1001" height="739" key="SettingsEditor/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746963408472" />
+    <state x="4390" y="480" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1746952368483">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4390" y="480" width="800" height="537" key="Vcs.Push.Dialog.v2/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1746952368483" />
+    <state x="4528" y="452" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1747134187617">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4528" y="452" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747134187617" />
+    <state x="3072" y="32" width="2901" height="945" key="dock-window-1" timestamp="1747128755846">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3072" y="32" width="2901" height="945" key="dock-window-1/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747128755846" />
+    <state x="4131" y="236" width="731" height="622" key="find.popup" timestamp="1747133209453">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4131" y="236" width="731" height="622" key="find.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747133209453" />
+    <state x="4455" y="348" width="699" height="701" key="search.everywhere.popup" timestamp="1747134177105">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4455" y="348" width="699" height="701" key="search.everywhere.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1747134177105" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/@supabase/supabase-js/src/SupabaseClient.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorators/current-user.decorator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#22#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategies/supabase.auth.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/dto/signup.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#17#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/dto/login.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+          <folding>
+            <element signature="e#16#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/dto/create-webapp.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="13" lean-forward="true" selection-start-column="29" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/field/dto/create-field.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/dto/update-webapp.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/application.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/field/field.controller.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/field/field.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/application.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block/dto/create-block.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block/dto/update-block.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block/block.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block/block.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/story.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#30#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/application.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <element signature="e#36#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/user.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/field.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#30#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/block-field.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#36#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/block.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#30#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/dto/create-user.dto.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/dto/update-user.dto.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/dto/application.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/field/dto/field.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/dtos/story.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/story/story.module.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block/dto/block.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/application.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block/block.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/field/field.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/field/field.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/dto/user.dto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6f6ef0d0-7f1e-48f0-ace9-184e9a2944a3">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6f6ef0d0-7f1e-48f0-ace9-184e9a2944a3/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/user.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/user.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/supabase/supabase.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@nestjs/config/dist/config.service.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" column="58" lean-forward="true" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.developement">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="72" lean-forward="true" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

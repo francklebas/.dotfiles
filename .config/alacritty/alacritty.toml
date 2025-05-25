@@ -1,6 +1,6 @@
-#import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
-#import = ["/home/franck/.config/alacritty/rosepine.toml"]
-import = ["/home/franck/.config/alacritty/catppuccin-mocha.toml"]
+#general.import = ["/home/franck/.config/alacritty/solarized_osaka.toml"]
+#general.import = ["/home/franck/.config/alacritty/rosepine.toml"]
+general.import = ["/home/franck/.config/alacritty/catppuccin-mocha.toml"]
 
 [env]
 TERM = "xterm-256color"

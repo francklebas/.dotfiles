@@ -1,0 +1,744 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz4lcy9lZGl0X3Bvc3QvZWRpdFBvc3QvZw==</entry>
+        <entry encoding="base64">JXMvJzwsJz4vbW92ZUFydGljbGUvZw==</entry>
+        <entry encoding="base64">JXMvbW92ZV9hcnRpY2xlL21vdmVBcnRpY2xlL2c=</entry>
+        <entry encoding="base64">JzwsJz4lcy9jYW5jZWxfbW92aW5nX2FydGljbGUvY2FuY2VsTW92aW5nQXJ0aWNsZS9n</entry>
+        <entry encoding="base64">JzwsJz4lcy9zZXRfZGVzdGluYXRpb25faW5kZXhfYXJ0aWNsZS9zZXREZXN0aW5hdGlvbkluZGV4QXJ0aWNsZS9n</entry>
+        <entry encoding="base64">JXMvY3JlYXRlX3Bvc3QvY3JlYXRlUG9zdC9n</entry>
+        <entry encoding="base64">JXMvZm9udC0uKjsvL2c=</entry>
+        <entry encoding="base64">JXMvbGluZS0uKjsvL2c=</entry>
+        <entry encoding="base64">JXMvbGluZS0uKjouKjsvL2c=</entry>
+        <entry encoding="base64">JzwsJz4lcy8kbWFpbi1ncmVlbi8kZ3JlZW4tNTAwL2c=</entry>
+        <entry encoding="base64">JzwsJz4lcy8kYm9keS1jb2xvci8kZ3JheS02MDAvZw==</entry>
+        <entry encoding="base64">JXMvc2VhcmNoLXJlc3VsdHMvc2VhcmNoLWxpc3QvZw==</entry>
+        <entry encoding="base64">Onc=</entry>
+        <entry encoding="base64">JzwsJz4lcy9pbml0X3NpZGVfY2hhcHRlcl9uYXYvaW5pdFNpZGVDaGFwdGVyTmF2L2c=</entry>
+        <entry encoding="base64">JXMvZWRpdF9wbw==</entry>
+        <entry encoding="base64">c2V0IHJudQ==</entry>
+        <entry encoding="base64">bHc=</entry>
+        <entry encoding="base64">JXMvd2hpdGUvY29sb3JzXC4kd2hpdGUvZw==</entry>
+        <entry encoding="base64">dyE=</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">JXMvZW52L0Vudi9n</entry>
+        <entry encoding="base64">d2E=</entry>
+        <entry encoding="base64">O3c=</entry>
+        <entry encoding="base64">JXMvXCsvL2c=</entry>
+        <entry encoding="base64">JXMvKy8vL2c=</entry>
+        <entry encoding="base64">JXMvKy8vZw==</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">dzo=</entry>
+        <entry encoding="base64">PXc=</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">JXMvXC9cLyBmb250LS4qLy9n</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-search>
+        <entry encoding="base64">XCs=</entry>
+        <entry encoding="base64">Kw==</entry>
+        <entry encoding="base64">XDxzdXBhYmFzZVw+</entry>
+        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50UGFnZVw+</entry>
+        <entry encoding="base64">cGluaWE=</entry>
+        <entry encoding="base64">YzExNjQwODQtMWJmYy00NjkwLWJhMWYtYjc3YzZkZTE0M2Ri</entry>
+        <entry encoding="base64">XDxyZWZcPg==</entry>
+        <entry encoding="base64">XDxwYWdlc1N0b3JlXD4=</entry>
+        <entry encoding="base64">XDx1c2VQYWdlc1N0b3JlXD4=</entry>
+        <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">aWQ6</entry>
+        <entry encoding="base64">XDxjdXJyZW50UGFnZUlkXD4=</entry>
+        <entry encoding="base64">YWRkRmllbGRUb1BhZ2U=</entry>
+        <entry encoding="base64">dXVpZA==</entry>
+        <entry encoding="base64">XDxGaWVsZEJ1aWxkZXJcPg==</entry>
+        <entry encoding="base64">aW1wb3J0IHs=</entry>
+        <entry encoding="base64">YWRkQ29udGVudFRvUGFnZQ==</entry>
+        <entry encoding="base64">XDxhZGRDb250ZW50QmxvY2tcPg==</entry>
+        <entry encoding="base64">XDxnZXREZWZhdWx0UHJvcHNGb3JCbG9ja1R5cGVcPg==</entry>
+        <entry encoding="base64">XDxibG9ja1R5cGVzXD4=</entry>
+        <entry encoding="base64">XDxuZXdUaXRsZVw+</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxhZGRGaWVsZFw+</entry>
+        <entry encoding="base64">XDx1c2VQYWdlU3RvcmVcPg==</entry>
+        <entry encoding="base64">XDx1c2VBcHBTdG9yZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVQYWdlXD4=</entry>
+        <entry encoding="base64">XDxmaWVsZHNUeXBlc1w+</entry>
+        <entry encoding="base64">JQ==</entry>
+        <entry encoding="base64">XDxGaWVsZFw+</entry>
+        <entry encoding="base64">XDx1c2VGaWVsZHNTdG9yZVw+</entry>
+        <entry encoding="base64">ZmllbGRz</entry>
+        <entry encoding="base64">di1mb3I=</entry>
+        <entry encoding="base64">XDxmaWVsZFw+</entry>
+        <entry encoding="base64">Y29uc29sZQ==</entry>
+        <entry encoding="base64">dGxkcg==</entry>
+        <entry encoding="base64">dGxkci1yYXRpbmc=</entry>
+        <entry encoding="base64">dGxkci1zdGFycw==</entry>
+        <entry encoding="base64">dGxkci1jYXJkLWRlc2t0b3A=</entry>
+        <entry encoding="base64">dGxkci1yZXZpZXctY291bnQ=</entry>
+        <entry encoding="base64">Zm9udC1zaXpl</entry>
+        <entry encoding="base64">Zm9udC0=</entry>
+        <entry encoding="base64">cm91dGVy</entry>
+        <entry encoding="base64">TW9kaWZ5U3RlcEFkZHJlc3Nlc05ldw==</entry>
+        <entry encoding="base64">bHAt</entry>
+        <entry encoding="base64">aDM=</entry>
+        <entry encoding="base64">XC9cLyBmb250LS4q</entry>
+        <entry encoding="base64">aXNTZWFyY2g=</entry>
+        <entry encoding="base64">ZC1ub25l</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="portail-c7d2889c">
+      <jump line="33" column="21" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/kb-article-card/KbArticleControls.vue" protocol="file" />
+      <jump line="25" column="51" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/kb-article-card/KbArticleControls.vue" protocol="file" />
+      <jump line="651" column="22" filename="$USER_HOME$/workspace/portail/frontends/landing/src/stores/kb.js" protocol="file" />
+      <jump line="358" column="27" filename="$USER_HOME$/workspace/portail/frontends/landing/src/stores/kb.js" protocol="file" />
+      <jump line="21" column="18" filename="$USER_HOME$/workspace/portail/frontends/landing/src/stores/kb.js" protocol="file" />
+      <jump line="11" column="34" filename="$USER_HOME$/workspace/portail/frontends/landing/src/stores/kb.js" protocol="file" />
+      <jump line="49" column="4" filename="$USER_HOME$/workspace/portail/frontends/landing/src/stores/kb.js" protocol="file" />
+      <jump line="650" column="4" filename="$USER_HOME$/workspace/portail/frontends/landing/src/stores/kb.js" protocol="file" />
+      <jump line="40" column="3" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/kb-article-card/KbArticleControls.vue" protocol="file" />
+      <jump line="38" column="17" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/kb-article-card/KbArticleControls.vue" protocol="file" />
+      <jump line="58" column="19" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/atoms/kb/KbCategoryCard.vue" protocol="file" />
+      <jump line="130" column="9" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/atoms/kb/KbCategoryCard.vue" protocol="file" />
+      <jump line="147" column="11" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/atoms/kb/KbCategoryCard.vue" protocol="file" />
+      <jump line="151" column="37" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/atoms/kb/KbCategoryCard.vue" protocol="file" />
+      <jump line="154" column="11" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/atoms/kb/KbCategoryCard.vue" protocol="file" />
+      <jump line="129" column="17" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/atoms/kb/KbCategoryCard.vue" protocol="file" />
+      <jump line="127" column="9" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/atoms/kb/KbCategoryCard.vue" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/bloks/layout/LpCardWithCta.vue" protocol="file" />
+      <jump line="33" column="9" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/bloks/layout/LpCardWithCta.vue" protocol="file" />
+      <jump line="36" column="12" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/bloks/layout/LpCardWithCta.vue" protocol="file" />
+      <jump line="34" column="8" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/bloks/layout/LpCardWithCta.vue" protocol="file" />
+      <jump line="4" column="9" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/bloks/layout/LpCard.vue" protocol="file" />
+      <jump line="0" column="9" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/bloks/layout/LpCard.vue" protocol="file" />
+      <jump line="852" column="23" filename="$USER_HOME$/workspace/portail/frontends/landing/types/storyblok.d.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/utils/tinymce-config.js" protocol="file" />
+      <jump line="18" column="38" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="517" column="3" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="434" column="24" filename="$USER_HOME$/workspace/portail/frontends/landing/src/utils/tinymce-config.js" protocol="file" />
+      <jump line="432" column="27" filename="$USER_HOME$/workspace/portail/frontends/landing/src/utils/tinymce-config.js" protocol="file" />
+      <jump line="518" column="23" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="556" column="19" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="439" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/utils/tinymce-config.js" protocol="file" />
+      <jump line="548" column="19" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="423" column="32" filename="$USER_HOME$/workspace/portail/frontends/landing/src/utils/tinymce-config.js" protocol="file" />
+      <jump line="424" column="34" filename="$USER_HOME$/workspace/portail/frontends/landing/src/utils/tinymce-config.js" protocol="file" />
+      <jump line="431" column="42" filename="$USER_HOME$/workspace/portail/frontends/landing/src/utils/tinymce-config.js" protocol="file" />
+      <jump line="23" column="13" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="25" column="19" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="44" column="2" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="22" column="12" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="475" column="8" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="531" column="6" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="560" column="21" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="553" column="6" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/router/index.ts" protocol="file" />
+      <jump line="43" column="19" filename="$USER_HOME$/workspace/portail/frontends/landing/src/router/index.ts" protocol="file" />
+      <jump line="35" column="23" filename="$USER_HOME$/workspace/portail/frontends/landing/src/router/index.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/package.json" protocol="file" />
+      <jump line="82" column="9" filename="$USER_HOME$/workspace/portail/frontends/landing/package.json" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/router/index.ts" protocol="file" />
+      <jump line="88" column="20" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/KnowledgeBaseCategory.vue" protocol="file" />
+      <jump line="50" column="5" filename="$USER_HOME$/workspace/portail/frontends/landing/src/router/index.ts" protocol="file" />
+      <jump line="39" column="31" filename="$USER_HOME$/workspace/portail/frontends/landing/src/router/index.ts" protocol="file" />
+      <jump line="6" column="92" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbCategoryContentV2.vue" protocol="file" />
+      <jump line="66" column="20" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/KnowledgeBaseCategory.vue" protocol="file" />
+      <jump line="42" column="6" filename="$USER_HOME$/workspace/portail/frontends/landing/src/router/index.ts" protocol="file" />
+      <jump line="124" column="54" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbPost.vue" protocol="file" />
+      <jump line="121" column="28" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbPost.vue" protocol="file" />
+      <jump line="581" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="63" column="2" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="156" column="13" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="109" column="2" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="41" column="10" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="42" column="37" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="58" column="17" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="57" column="6" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="67" column="2" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="159" column="35" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="173" column="20" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="172" column="22" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="186" column="4" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="178" column="20" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="43" column="31" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="3" column="2" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-css-vars.scss" protocol="file" />
+      <jump line="16" column="9" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbCategoryContentV2.vue" protocol="file" />
+      <jump line="91" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/KnowledgeBaseCategory.vue" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/KnowledgeBaseCategory.vue" protocol="file" />
+      <jump line="18" column="10" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbCategoryContentV2.vue" protocol="file" />
+      <jump line="17" column="71" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbCategoryContentV2.vue" protocol="file" />
+      <jump line="20" column="6" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbCategoryContentV2.vue" protocol="file" />
+      <jump line="105" column="15" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="8" column="20" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/KnowledgeBaseCategory.vue" protocol="file" />
+      <jump line="38" column="37" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="13" column="8" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbHeaderCategory.vue" protocol="file" />
+      <jump line="127" column="27" filename="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbPost.vue" protocol="file" />
+      <jump line="31" column="23" filename="$USER_HOME$/workspace/portail/frontends/landing/src/App.vue" protocol="file" />
+      <jump line="29" column="35" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="14" column="33" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-css-vars.scss" protocol="file" />
+      <jump line="13" column="6" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-css-vars.scss" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-css-vars.scss" protocol="file" />
+      <jump line="37" column="1" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="41" column="7" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="15" column="7" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="16" column="14" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" protocol="file" />
+      <jump line="42" column="18" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="521" column="2" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+      <jump line="605" column="0" filename="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" protocol="file" />
+    </project>
+    <project id="chadnotes-782a6a6c">
+      <jump line="0" column="0" filename="$USER_HOME$/chadnotes/README.md" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="21" column="60" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="20" column="65" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="25" column="32" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="28" column="38" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="16" column="28" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="43" column="23" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="63" column="23" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="69" column="68" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="47" column="8" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="68" column="9" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="37" column="7" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="26" column="8" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="35" column="58" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="36" column="57" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="22" column="6" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="48" column="5" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="38" column="8" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="18" column="11" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="15" column="28" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="32" column="32" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="29" column="99" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="31" column="38" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/chadnotes/src/styles/tiptap.css" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/chadnotes/src/App.css" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/chadnotes/src/App.tsx" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/chadnotes/src/index.css" protocol="file" />
+      <jump line="3" column="10" filename="$USER_HOME$/chadnotes/src/main.tsx" protocol="file" />
+      <jump line="5" column="24" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="27" column="31" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="65" column="30" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/chadnotes/src/components/Sidebar.tsx" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/chadnotes/src/components/Sidebar.tsx" protocol="file" />
+      <jump line="22" column="29" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="19" column="14" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="44" column="28" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="52" column="0" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="60" column="12" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="62" column="19" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="61" column="6" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="49" column="17" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="7" column="11" filename="$USER_HOME$/chadnotes/src/components/Sidebar.tsx" protocol="file" />
+      <jump line="14" column="72" filename="$USER_HOME$/chadnotes/src/components/Sidebar.tsx" protocol="file" />
+      <jump line="32" column="35" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="18" column="48" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="25" column="16" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="78" column="8" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="73" column="12" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="67" column="10" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="66" column="7" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="74" column="11" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="11" column="42" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="70" column="68" filename="$USER_HOME$/chadnotes/src/components/NoteEditor.tsx" protocol="file" />
+      <jump line="23" column="17" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="66" column="0" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="62" column="31" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="68" column="0" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+      <jump line="71" column="1" filename="$USER_HOME$/chadnotes/src/pages/editor.tsx" protocol="file" />
+    </project>
+    <project id="sb-de960336">
+      <jump line="10" column="15" filename="$USER_HOME$/workspace/sb/tsconfig.json" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/sb/vite.config.ts" protocol="file" />
+      <jump line="11" column="14" filename="$USER_HOME$/workspace/sb/src/types/field.ts" protocol="file" />
+      <jump line="9" column="3" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="11" column="28" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="1" column="38" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="5" column="20" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="6" column="4" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="7" column="15" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="12" column="23" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="3" column="17" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="4" column="4" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="8" column="12" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="10" column="11" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="5" column="37" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="4" column="31" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="3" column="15" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="2" column="43" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="8" column="6" filename="$USER_HOME$/workspace/sb/src/store/usePagesStore.ts" protocol="file" />
+      <jump line="9" column="10" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/sb/src/types/store.ts" protocol="file" />
+      <jump line="8" column="13" filename="$USER_HOME$/workspace/sb/src/store/useFieldsStore.ts" protocol="file" />
+      <jump line="5" column="18" filename="$USER_HOME$/workspace/sb/src/store/useFieldsStore.ts" protocol="file" />
+      <jump line="18" column="13" filename="$USER_HOME$/workspace/sb/src/components/content/BuilderPanel.vue" protocol="file" />
+      <jump line="116" column="13" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="3" column="52" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="2" column="62" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="6" column="6" filename="$USER_HOME$/workspace/sb/src/store/useFieldsStore.ts" protocol="file" />
+      <jump line="3" column="13" filename="$USER_HOME$/workspace/sb/src/store/useFieldsStore.ts" protocol="file" />
+      <jump line="7" column="12" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="90" column="18" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="6" column="6" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="85" column="15" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="0" column="13" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="8" column="18" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="113" column="27" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="15" column="18" filename="$USER_HOME$/workspace/sb/src/types/field.ts" protocol="file" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="57" column="4" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="49" column="4" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="38" column="4" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="22" column="4" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="12" column="4" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="63" column="18" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="111" column="52" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="107" column="26" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="34" column="50" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="38" column="47" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="42" column="16" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="41" column="13" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="45" column="13" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="48" column="5" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="44" column="15" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="31" column="5" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="23" column="5" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="22" column="7" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="19" column="6" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="39" column="23" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="34" column="20" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="29" column="25" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="31" column="15" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="35" column="20" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="32" column="4" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="37" column="12" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="50" column="19" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="34" column="19" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="39" column="22" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="40" column="28" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="37" column="19" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="33" column="2" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="12" column="10" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="32" column="7" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="56" column="14" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="36" column="12" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="36" column="36" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="33" column="6" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+      <jump line="4" column="14" filename="$USER_HOME$/workspace/sb/src/mocks/pages.mock.ts" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="30" column="2" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="7" column="19" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="29" column="20" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="30" column="3" filename="$USER_HOME$/workspace/sb/src/mocks/fields.mock.ts" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sb/src/components/content/ContentPreview.vue" protocol="file" />
+      <jump line="8" column="8" filename="$USER_HOME$/workspace/sb/src/components/content/ContentPreview.vue" protocol="file" />
+      <jump line="0" column="16" filename="$USER_HOME$/workspace/sb/src/types/page.ts" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/sb/src/types/supabase.d.ts" protocol="file" />
+      <jump line="7" column="17" filename="$USER_HOME$/workspace/sb/src/App.vue" protocol="file" />
+      <jump line="242" column="24" filename="/usr/lib/node_modules_22/yarn/lib/config.js" protocol="file" />
+      <jump line="30" column="10" filename="/usr/lib/node_modules_22/yarn/lib/util/promise.js" protocol="file" />
+      <jump line="34" column="6" filename="/usr/lib/node_modules_22/yarn/lib/util/promise.js" protocol="file" />
+      <jump line="1024" column="8" filename="/usr/lib/node_modules_22/yarn/lib/util/fs.js" protocol="file" />
+      <jump line="105" column="13" filename="$USER_HOME$/workspace/sb/src/components/content/FieldBuilder.vue" protocol="file" />
+      <jump line="13" column="8" filename="$USER_HOME$/workspace/sb/vite.config.ts" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sb/src/App.vue" protocol="file" />
+      <jump line="35" column="8" filename="$USER_HOME$/workspace/sb/src/store/useAppStore.ts" protocol="file" />
+    </project>
+    <project id="sb-back-4c81b51e">
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="15" column="42" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="4" column="27" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="3" column="13" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="2" column="18" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="8" column="44" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="5" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="16" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="3" column="11" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="16" column="34" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="5" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="4" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="15" column="20" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="17" column="20" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="20" column="35" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="19" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="17" column="34" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="5" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="15" column="22" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="6" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="17" column="35" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="6" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/application.ts" protocol="file" />
+      <jump line="19" column="24" filename="$USER_HOME$/workspace/sb-back/app/models/block.ts" protocol="file" />
+      <jump line="16" column="37" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="10" column="41" filename="$USER_HOME$/workspace/sb-back/node_modules/pg-protocol/dist/index.js" protocol="file" />
+      <jump line="10" column="28" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/field.ts" protocol="file" />
+      <jump line="23" column="8" filename="$USER_HOME$/workspace/sb-back/config/database.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/database/migrations/1746820913703_create_users_table.ts" protocol="file" />
+      <jump line="2345" column="12" filename="$USER_HOME$/workspace/sb-back/node_modules/knex/types/index.d.ts" protocol="file" />
+      <jump line="2396" column="4" filename="$USER_HOME$/workspace/sb-back/node_modules/knex/types/index.d.ts" protocol="file" />
+      <jump line="28" column="27" filename="$USER_HOME$/workspace/sb-back/node_modules/@adonisjs/lucid/build/src/schema/main.d.ts" protocol="file" />
+      <jump line="9" column="34" filename="$USER_HOME$/workspace/sb-back/database/migrations/1746820913703_create_users_table.ts" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sb-back/adonisrc.ts" protocol="file" />
+      <jump line="29" column="4" filename="$USER_HOME$/workspace/sb-back/adonisrc.ts" protocol="file" />
+      <jump line="51" column="12" filename="$USER_HOME$/workspace/sb-back/adonisrc.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/package.json" protocol="file" />
+      <jump line="11" column="39" filename="$USER_HOME$/workspace/sb-back/package.json" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/.editorconfig" protocol="file" />
+      <jump line="12" column="14" filename="$USER_HOME$/workspace/sb-back/.env" protocol="file" />
+      <jump line="14" column="20" filename="$USER_HOME$/workspace/sb-back/.env" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/sb-back/.env" protocol="file" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2d03ad8b-8d0b-42d3-913e-e651cc645741/console.sql" protocol="file" />
+      <jump line="15" column="21" filename="$USER_HOME$/workspace/sb-back/database/migrations/1746820913703_create_users_table.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/app/middleware/auth_middleware.ts" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/sb-back/start/routes.ts" protocol="file" />
+      <jump line="10" column="43" filename="$USER_HOME$/workspace/sb-back/config/auth.ts" protocol="file" />
+      <jump line="1" column="26" filename="$USER_HOME$/workspace/sb-back/config/auth.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/config/bodyparser.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/config/cors.ts" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/sb-back/config/database.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/config/hash.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/config/logger.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/config/app.ts" protocol="file" />
+      <jump line="12" column="20" filename="$USER_HOME$/workspace/sb-back/app/middleware/auth_middleware.ts" protocol="file" />
+      <jump line="23" column="2" filename="$USER_HOME$/workspace/sb-back/app/middleware/auth_middleware.ts" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/sb-back/app/middleware/auth_middleware.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/app/services/user_service.ts" protocol="file" />
+      <jump line="1" column="18" filename="$USER_HOME$/workspace/sb-back/app/services/user_service.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/app/services/auth_service.ts" protocol="file" />
+      <jump line="35" column="43" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="3" column="61" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="42" column="2" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="9" column="30" filename="$USER_HOME$/workspace/sb-back/config/auth.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/config/auth.ts" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/sb-back/config/auth.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="38" column="1" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="5" column="56" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/node_modules/@adonisjs/auth/build/modules/access_tokens_guard/main.d.ts" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="41" column="1" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="9" column="1" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="7" column="23" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="10" column="1" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="8" column="43" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="4" column="63" filename="$USER_HOME$/workspace/sb-back/app/models/access_token.ts" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="13" column="1" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="37" column="2" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="48" column="21" filename="$USER_HOME$/workspace/sb-back/app/models/user.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/app/controllers/auth_controller.ts" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/sb-back/app/controllers/auth_controller.ts" protocol="file" />
+      <jump line="161" column="7" filename="$USER_HOME$/workspace/sb-back/app/controllers/auth_controller.ts" protocol="file" />
+      <jump line="162" column="0" filename="$USER_HOME$/workspace/sb-back/app/controllers/auth_controller.ts" protocol="file" />
+      <jump line="169" column="1" filename="$USER_HOME$/workspace/sb-back/app/controllers/auth_controller.ts" protocol="file" />
+      <jump line="45" column="28" filename="$USER_HOME$/workspace/sb-back/app/controllers/auth_controller.ts" protocol="file" />
+      <jump line="157" column="28" filename="$USER_HOME$/workspace/sb-back/app/controllers/auth_controller.ts" protocol="file" />
+      <jump line="18" column="24" filename="$USER_HOME$/workspace/sb-back/start/routes.ts" protocol="file" />
+    </project>
+    <project id="sbk-1c5d0f8b">
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sb-back/sbk/README.md" protocol="file" />
+      <jump line="8" column="9" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.module.ts" protocol="file" />
+      <jump line="8" column="2" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.module.ts" protocol="file" />
+      <jump line="10" column="14" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.module.ts" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.module.ts" protocol="file" />
+      <jump line="10" column="14" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.module.ts" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.module.ts" protocol="file" />
+      <jump line="10" column="14" filename="$USER_HOME$/workspace/sb-back/sbk/src/user/user.module.ts" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/sb-back/sbk/src/user/user.module.ts" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/sb-back/sbk/src/user/user.module.ts" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sb-back/sbk/src/user/user.module.ts" protocol="file" />
+      <jump line="4" column="9" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.module.ts" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.module.ts" protocol="file" />
+      <jump line="9" column="13" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.service.ts" protocol="file" />
+      <jump line="24" column="19" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.service.ts" protocol="file" />
+      <jump line="11" column="32" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.controller.ts" protocol="file" />
+      <jump line="12" column="18" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.service.ts" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.service.ts" protocol="file" />
+      <jump line="7" column="27" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.repositories.ts" protocol="file" />
+      <jump line="5" column="20" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.repositories.ts" protocol="file" />
+      <jump line="9" column="1" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.repositories.ts" protocol="file" />
+      <jump line="8" column="3" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.repositories.ts" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.repositories.ts" protocol="file" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/sb-back/sbk/src/block/block.repositories.ts" protocol="file" />
+      <jump line="4" column="55" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.module.ts" protocol="file" />
+      <jump line="3" column="13" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.providers.ts" protocol="file" />
+      <jump line="5" column="18" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.providers.ts" protocol="file" />
+      <jump line="9" column="1" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.providers.ts" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.providers.ts" protocol="file" />
+      <jump line="9" column="24" filename="$USER_HOME$/workspace/sb-back/sbk/src/field/field.module.ts" protocol="file" />
+    </project>
+    <project id="sbk-back-aa96f3bf">
+      <jump line="21" column="37" filename="$USER_HOME$/workspace/sbk-back/src/field/field.controller.ts" protocol="file" />
+      <jump line="26" column="36" filename="$USER_HOME$/workspace/sbk-back/src/field/field.controller.ts" protocol="file" />
+      <jump line="39" column="4" filename="$USER_HOME$/workspace/sbk-back/src/field/field.controller.ts" protocol="file" />
+      <jump line="24" column="38" filename="$USER_HOME$/workspace/sbk-back/src/field/field.controller.ts" protocol="file" />
+      <jump line="28" column="3" filename="$USER_HOME$/workspace/sbk-back/src/field/field.controller.ts" protocol="file" />
+      <jump line="10" column="15" filename="$USER_HOME$/workspace/sbk-back/src/user/entities/user.entity.ts" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/sbk-back/src/user/entities/user.entity.ts" protocol="file" />
+      <jump line="50" column="1" filename="$USER_HOME$/workspace/sbk-back/src/application/entities/application.entity.ts" protocol="file" />
+      <jump line="42" column="22" filename="$USER_HOME$/workspace/sbk-back/src/application/entities/application.entity.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/src/field/entities/field.entity.ts" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sbk-back/src/field/entities/field.entity.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/src/block/entities/block.entity.ts" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/block-field.entity.ts" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/story.entity.ts" protocol="file" />
+      <jump line="42" column="22" filename="$USER_HOME$/workspace/sbk-back/src/models/application.entity.ts" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/field.entity.ts" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/user.entity.ts" protocol="file" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/user.entity.ts" protocol="file" />
+      <jump line="33" column="26" filename="$USER_HOME$/workspace/sbk-back/src/models/user.entity.ts" protocol="file" />
+      <jump line="25" column="14" filename="$USER_HOME$/workspace/sbk-back/src/models/user.entity.ts" protocol="file" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/block.entity.ts" protocol="file" />
+      <jump line="49" column="18" filename="$USER_HOME$/workspace/sbk-back/src/models/block.entity.ts" protocol="file" />
+      <jump line="44" column="10" filename="$USER_HOME$/workspace/sbk-back/src/models/block.entity.ts" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/field.entity.ts" protocol="file" />
+      <jump line="31" column="18" filename="$USER_HOME$/workspace/sbk-back/src/models/field.entity.ts" protocol="file" />
+      <jump line="32" column="2" filename="$USER_HOME$/workspace/sbk-back/src/models/field.entity.ts" protocol="file" />
+      <jump line="27" column="19" filename="$USER_HOME$/workspace/sbk-back/src/models/field.entity.ts" protocol="file" />
+      <jump line="21" column="43" filename="$USER_HOME$/workspace/sbk-back/src/models/block-field.entity.ts" protocol="file" />
+      <jump line="48" column="18" filename="$USER_HOME$/workspace/sbk-back/src/models/block.entity.ts" protocol="file" />
+      <jump line="47" column="13" filename="$USER_HOME$/workspace/sbk-back/src/models/block.entity.ts" protocol="file" />
+      <jump line="53" column="42" filename="$USER_HOME$/workspace/sbk-back/src/models/block.entity.ts" protocol="file" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/sbk-back/src/models/block.entity.ts" protocol="file" />
+      <jump line="38" column="26" filename="$USER_HOME$/workspace/sbk-back/compose.yml" protocol="file" />
+      <jump line="63" column="15" filename="$USER_HOME$/workspace/sbk-back/compose.yml" protocol="file" />
+      <jump line="13" column="25" filename="$USER_HOME$/workspace/sbk-back/compose.yml" protocol="file" />
+      <jump line="0" column="17" filename="$USER_HOME$/workspace/sbk-back/Dockerfile" protocol="file" />
+      <jump line="13" column="25" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="45" column="26" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="20" column="17" filename="$USER_HOME$/workspace/sbk-back/Dockerfile" protocol="file" />
+      <jump line="25" column="1" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="26" column="21" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="27" column="21" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="31" column="9" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="34" column="29" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="63" column="3" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="18" column="4" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/src/user/dto/create-user.dto.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/src/user/dto/update-user.dto.ts" protocol="file" />
+      <jump line="50" column="33" filename="$USER_HOME$/workspace/sbk-back/docker-compose.yml" protocol="file" />
+      <jump line="13" column="22" filename="$USER_HOME$/workspace/sbk-back/src/application/application.controller.ts" protocol="file" />
+      <jump line="23" column="1" filename="$USER_HOME$/workspace/sbk-back/src/application/dto/application.dto.ts" protocol="file" />
+      <jump line="0" column="29" filename="$USER_HOME$/workspace/sbk-back/src/application/dto/application.dto.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/src/field/dto/field.dto.ts" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sbk-back/src/field/dto/field.dto.ts" protocol="file" />
+      <jump line="27" column="1" filename="$USER_HOME$/workspace/sbk-back/src/story/dtos/story.dto.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/src/story/story.module.ts" protocol="file" />
+      <jump line="34" column="1" filename="$USER_HOME$/workspace/sbk-back/src/block/dto/block.dto.ts" protocol="file" />
+      <jump line="12" column="16" filename="$USER_HOME$/workspace/sbk-back/src/block/dto/block.dto.ts" protocol="file" />
+      <jump line="39" column="35" filename="$USER_HOME$/workspace/sbk-back/src/application/application.controller.ts" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/sbk-back/src/block/block.controller.ts" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/sbk-back/src/field/field.service.ts" protocol="file" />
+      <jump line="27" column="3" filename="$USER_HOME$/workspace/sbk-back/src/field/field.controller.ts" protocol="file" />
+      <jump line="19" column="1" filename="$USER_HOME$/workspace/sbk-back/src/user/dto/user.dto.ts" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/sbk-back/src/user/dto/user.dto.ts" protocol="file" />
+      <jump line="9" column="15" filename="$USER_HOME$/workspace/sbk-back/src/user/dto/user.dto.ts" protocol="file" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6f6ef0d0-7f1e-48f0-ace9-184e9a2944a3/console.sql" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/workspace/sbk-back/src/user/user.controller.ts" protocol="file" />
+      <jump line="18" column="29" filename="$USER_HOME$/workspace/sbk-back/src/user/user.controller.ts" protocol="file" />
+      <jump line="12" column="37" filename="$USER_HOME$/workspace/sbk-back/src/user/user.service.ts" protocol="file" />
+      <jump line="7" column="2" filename="$USER_HOME$/workspace/sbk-back/src/auth/auth.service.ts" protocol="file" />
+      <jump line="11" column="4" filename="$USER_HOME$/workspace/sbk-back/src/user/user.service.ts" protocol="file" />
+      <jump line="14" column="24" filename="$USER_HOME$/workspace/sbk-back/src/user/user.service.ts" protocol="file" />
+      <jump line="36" column="37" filename="$USER_HOME$/workspace/sbk-back/src/app.module.ts" protocol="file" />
+      <jump line="8" column="44" filename="$USER_HOME$/workspace/sbk-back/src/user/user.service.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/src/user/user.module.ts" protocol="file" />
+      <jump line="10" column="59" filename="$USER_HOME$/workspace/sbk-back/src/user/user.module.ts" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/sbk-back/src/user/user.module.ts" protocol="file" />
+      <jump line="3" column="7" filename="$USER_HOME$/workspace/sbk-back/.env" protocol="file" />
+      <jump line="24" column="2" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="13" column="5" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="11" column="2" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="10" column="2" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="20" column="44" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="25" column="21" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="4" column="19" filename="$USER_HOME$/workspace/sbk-back/.env" protocol="file" />
+      <jump line="16" column="61" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="15" column="57" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="38" column="45" filename="$USER_HOME$/workspace/sbk-back/src/app.module.ts" protocol="file" />
+      <jump line="32" column="5" filename="$USER_HOME$/workspace/sbk-back/src/app.module.ts" protocol="file" />
+      <jump line="27" column="3" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sbk-back/.env.developement" protocol="file" />
+      <jump line="17" column="41" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="19" column="5" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="12" column="31" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="9" column="43" filename="$USER_HOME$/workspace/sbk-back/src/supabase/supabase.service.ts" protocol="file" />
+      <jump line="24" column="21" filename="$USER_HOME$/workspace/sbk-back/node_modules/@nestjs/config/dist/config.service.d.ts" protocol="file" />
+      <jump line="31" column="58" filename="$USER_HOME$/workspace/sbk-back/src/app.module.ts" protocol="file" />
+      <jump line="0" column="18" filename="$USER_HOME$/workspace/sbk-back/.env" protocol="file" />
+      <jump line="4" column="72" filename="$USER_HOME$/workspace/sbk-back/.env.developement" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/shared/landing-educademy/form/EducademyInfoStatic.vue" timestamp="1747916880415">
+        <mark key="&quot;" line="117" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbCategoryContentV2.vue" timestamp="1747914121765">
+        <mark key="&quot;" line="0" column="1" />
+        <mark key="'" line="16" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-prose.scss" timestamp="1748001755668">
+        <mark key="&quot;" line="37" column="1" />
+        <mark key="'" line="105" column="15" />
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/styles/global-css-vars.scss" timestamp="1748001752840">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/molecules/KbCategoryModal.vue" timestamp="1747913817650">
+        <mark key="&quot;" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbHeaderCategory.vue" timestamp="1747917038167">
+        <mark key="&quot;" line="13" column="31" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/playwright/yarn.lock" timestamp="1748001349512">
+        <mark key="&quot;" line="36" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/App.vue" timestamp="1748001374802">
+        <mark key="&quot;" line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/kb-article-card/KbArticleCardContent.vue" timestamp="1748001350998">
+        <mark key="&quot;" line="74" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/usv3/nuxt.config.ts" timestamp="1748001348312">
+        <mark key="&quot;" line="88" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1747913785496">
+        <mark key="&quot;" line="0" column="6" />
+        <mark key="[" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/usv3/utils/icons/index.ts" timestamp="1748001347990">
+        <mark key="&quot;" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbPostChapterNav.vue" timestamp="1747912091757">
+        <mark key="&quot;" line="175" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/molecules/frontpage/HeaderFrontPage.vue" timestamp="1747917011386">
+        <mark key="&quot;" line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/KnowledgeBaseCategory.vue" timestamp="1747914088094">
+        <mark key="&quot;" line="6" column="41" />
+        <mark key="'" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/styles/kb-prose.scss" timestamp="1748002890848">
+        <mark key="&quot;" line="547" column="25" />
+        <mark key="'" line="521" column="2" />
+        <mark key="[" line="605" column="0" />
+        <mark key="]" line="605" column="0" />
+        <mark key="." line="605" column="0" />
+      </file>
+      <file name="/" timestamp="1748002707422">
+        <mark key="&quot;" line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/components/kb/KbPost.vue" timestamp="1747913816802">
+        <mark key="&quot;" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/usv3/styles/global.scss" timestamp="1748001350242">
+        <mark key="&quot;" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/portail/frontends/landing/src/pages/TypographyPlayground.vue" timestamp="1747917013653">
+        <mark key="&quot;" line="52" column="22" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">NDg=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">Mzk=</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">ZC1ub25l</text>
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">LnRsZHItY2FyZCB7CiAgICBib3JkZXItcmFkaXVzOiAyNHB4OwogICAgYm9yZGVyOiAwLjZweCBzb2xpZCBjb2xvcnMuJGdyYXktMzAwOwogICAgYmFja2dyb3VuZDogY29sb3JzLiR3aGl0ZTsKICAgIGJveC1zaGFkb3c6IDBweCAxcHggMnB4IDBweCByZ2JhKDUyLCA2NCwgODQsIDAuMDUpOwogICAgbWFyZ2luOiAyNHB4IGF1dG87CgogICAgLy8gTW9iaWxlIHZlcnNpb24KICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwogICAgYWxpZ24taXRlbXM6IGZsZXgtc3RhcnQ7CgogICAgLnRsZHItdGl0bGUgewogICAgICBmb250LXdlaWdodDogNTAwOwogICAgICBtYXJnaW4tdG9wOiAwICFpbXBvcnRhbnQ7IC8vIGltcG9ydGFudCBpcyByZXF1aXJlZCB0byBwcmV2ZW50IG92ZXJyaWRpbmcgYnkgdGhlIEtCIHN0eWxlcwogICAgICBtYXJnaW4tYm90dG9tOiAwICFpbXBvcnRhbnQ7IC8vIGltcG9ydGFudCBpcyByZXF1aXJlZCB0byBwcmV2ZW50IG92ZXJyaWRpbmcgYnkgdGhlIEtCIHN0eWxlcwogICAgfQoKICAgIC50bGRyLWRpdmlkZXIgewogICAgICBiYWNrZ3JvdW5kOiBjb2xvcnMuJGdyYXktMjAwOwogICAgICB3aWR0aDogMTAwJTsKICAgICAgaGVpZ2h0OiAxcHg7CiAgICAgIG1hcmdpbjogMTZweCAwIDEycHg7CiAgICB9CgogICAgLnRsZHItcmF0aW5nIHsKICAgICAgZGlzcGxheTogZmxleDsKICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAgbWFyZ2luOiAxMnB4IDAgMTZweDsKICAgIH0KCiAgICAudGxkci1zdGFycyB7CiAgICAgIGNvbG9yOiBjb2xvcnMuJHllbGxvdy00MDA7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKCiAgICAgIC5zdGFyIHsKICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoQC9hc3NldHMvaWNvbnMvc3Rhci5zdmcpIG5vLXJlcGVhdCBjZW50ZXI7CiAgICAgICAgd2lkdGg6IDE5cHg7CiAgICAgICAgaGVpZ2h0OiAxOXB4OwogICAgICB9CiAgICB9CgogICAgLnRsZHItcmV2aWV3LWNvdW50IHsKICAgICAgbWFyZ2luLWxlZnQ6IDZweDsKICAgICAgY29sb3I6IGNvbG9ycy4kZ3JheS03MDA7CiAgICB9CgogICAgLnRsZHItY2FyZC1yaWdodCB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBmbGV4LWdyb3c6IDE7CiAgICAgIG1hcmdpbi10b3A6IDMycHg7CiAgICB9CgogICAgLnRsZHItY3RhIHsKICAgICAgd2lkdGg6IDEwMCU7CiAgICB9CgogICAgQGluY2x1ZGUgYnNwLm1lZGlhLWJyZWFrcG9pbnQtdXAobGcpIHsKICAgICAgZmxleC1kaXJlY3Rpb246IHJvdzsKICAgICAgZ2FwOiA0MHB4OwogICAgICB3aWR0aDogNTQwcHg7CgogICAgICAudGxkci1jYXJkLWxlZnQgewogICAgICAgIG1pbi13aWR0aDogMjg0cHg7CiAgICAgIH0KCiAgICAgIC50bGRyLXJhdGluZyB7CiAgICAgICAgbWFyZ2luOiAxMnB4IDAgMjBweDsKICAgICAgfQoKICAgICAgLnRsZHItZGl2aWRlciB7CiAgICAgICAgbWFyZ2luOiA4cHggMCAxMnB4OwogICAgICB9CgogICAgICAudGxkci1jYXJkLXJpZ2h0IHsKICAgICAgICB3aWR0aDogYXV0bzsKICAgICAgICBmbGV4LWdyb3c6IDE7CiAgICAgICAgbWFyZ2luLXRvcDogMDsKICAgICAgfQoKICAgICAgLnRsZHItY3RhIHsKICAgICAgICB3aWR0aDogYXV0bzsKICAgICAgfQogICAgfQogIH0=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgPC9zZWN0aW9uPgo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgPHNlY3Rpb24gdi1pZj0iZGF0YSIgY2xhc3M9ImQtZmxleCBmbGV4LWNvbHVtbiBhbGlnbi1pdGVtcy1jZW50ZXJ0ZXh0LWNlbnRlciI+Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">PGRpdiBjbGFzcz0ia2ItY2F0ZWdvcnktdGl0bGUgZC1ub25lIGQtbWQtYmxvY2siPgogICAgICAgICAgPGgyIGNsYXNzPSJ0ZXh0LWg0IHRleHQtZ3JheS05MDAgZm9udC1ib2xkIj4KICAgICAgICAgICAge3sgZGF0YS50aXRsZSB9fQogICAgICAgICAgPC9oMj4KCiAgICAgICAgICA8cCBjbGFzcz0idGV4dC1ncmF5LTcwMCB0ZXh0LW1kIGZvbnQtcmVndWxhciI+CiAgICAgICAgICAgIHt7IGRhdGEuc2hvcnRfZGVzY3JpcHRpb24gfX0KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIEBpbmNsdWRlIGJhc2Uta2ItaGVhZGVyKDIycHgsIDMxcHgpOwo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIG1hcmdpbjogMjRweCBhdXRvOwo=</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA6IAo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">ZC1ub25l</last-search>
+      <last-substitute encoding="base64">XC9cLyBmb250LS4q</last-substitute>
+      <last-offset encoding="base64" />
+      <last-replace encoding="base64" />
+      <last-pattern encoding="base64">ZC1ub25l</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

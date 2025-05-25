@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.6144.0.6880.2880@192dpi" x="6600" y="456" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog.6144.0.6880.2880@192dpi" x="8396" y="968" />
+    <size key="find.popup.6144.0.6880.2880@192dpi" width="1292" height="1120" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog.6144.0.6880.2880@192dpi" width="2374" height="1008" />
+    <size key="GridCell.Tab.0.left.6144.0.6880.2880@192dpi" width="2584" height="364" />
+    <size key="GridCell.Tab.0.center.6144.0.6880.2880@192dpi" width="2584" height="364" />
+    <size key="GridCell.Tab.0.right.6144.0.6880.2880@192dpi" width="2584" height="364" />
+    <size key="GridCell.Tab.0.bottom.6144.0.6880.2880@192dpi" width="2584" height="364" />
+    <size key="GridCell.Tab.1.left.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.1.center.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.1.right.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.1.bottom.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.2.left.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.2.center.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.2.right.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.2.bottom.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.3.left.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.3.center.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.3.right.6144.0.6880.2880@192dpi" width="6716" height="866" />
+    <size key="GridCell.Tab.3.bottom.6144.0.6880.2880@192dpi" width="6716" height="866" />
+  </component>
+  <component name="WindowManager">
+    <frame x="3072" y="32" width="3440" height="1408" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="554" y="1312" width="424" height="495" key="FileChooserDialogImpl" timestamp="1744288154362">
+      <screen x="0" y="1152" width="1536" height="864" />
+    </state>
+    <state x="554" y="1312" width="424" height="495" key="FileChooserDialogImpl/3072.0.3440.1440/0.1152.1536.864" timestamp="1744288154362" />
+    <state width="648" height="127" key="ShowUsagesActions.dimensionServiceKey" timestamp="1748180902315">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="648" height="127" key="ShowUsagesActions.dimensionServiceKey/3072.0.3440.1440/0.1152.1536.864" timestamp="1748180902315" />
+    <state width="300" height="524" key="manage.recent.projects.popup" timestamp="1746794296924">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="300" height="524" key="manage.recent.projects.popup/3072.0.3440.1440/0.1152.1536.864" timestamp="1746794296924" />
+  </component>
+</application>

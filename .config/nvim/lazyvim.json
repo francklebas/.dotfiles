@@ -1,12 +1,26 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.coding.codeium",
-    "lazyvim.plugins.extras.formatting.prettier",
-    "lazyvim.plugins.extras.linting.eslint"
+    "lazyvim.plugins.extras.ai.copilot",
+    "lazyvim.plugins.extras.ai.copilot-chat",
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.editor.fzf",
+    "lazyvim.plugins.extras.editor.refactoring",
+    "lazyvim.plugins.extras.editor.telescope",
+    "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.lang.json",
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lang.svelte",
+    "lazyvim.plugins.extras.lang.tailwind",
+    "lazyvim.plugins.extras.lang.vue",
+    "lazyvim.plugins.extras.lang.yaml",
+    "lazyvim.plugins.extras.linting.eslint",
+    "lazyvim.plugins.extras.ui.dashboard-nvim",
+    "lazyvim.plugins.extras.ui.treesitter-context",
+    "lazyvim.plugins.extras.vscode"
   ],
+  "install_version": 8,
   "news": {
-    "NEWS.md": "6520",
-    "doc/news.txt": "24450"
+    "NEWS.md": "10960"
   },
-  "version": 6
+  "version": 8
 }

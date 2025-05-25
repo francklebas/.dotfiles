@@ -1,0 +1,138 @@
+2025-04-30 09:56:51.848 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-30 09:56:51.848 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-30 09:56:51.848 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-30 09:56:51.848 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-30 09:56:51.848 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-30 09:56:51.848 [info] Using existing keys for an index
+2025-04-30 09:56:51.848 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-04-30 09:56:51.848 [info] Using existing keys for an index
+2025-04-30 09:56:51.848 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-04-30 09:56:51.848 [info] Setting global status from status tracker: synced
+2025-04-30 09:56:51.848 [info] Doing a startup handshake.
+2025-04-30 09:56:52.022 [info] Finished computing merkle tree in 20.267531999999846 ms.
+2025-04-30 09:56:52.023 [info] Doing the initial handshake with hash: ab08a09543e3c07db9ff27ac5bd6659e6518efe72cb36de96d458063a1591787
+2025-04-30 09:56:52.028 [info] Computed simhash vector of length: 256
+2025-04-30 09:56:52.028 [info] Path key hash: 4dce81be76d803994a9abbe86f3099165cf61786332a49bc8fdecf60539346a8
+2025-04-30 09:56:52.028 [info] Handshake start
+2025-04-30 09:56:52.845 [info] Handshake timing: 819.7073739999996, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"74eea6fe-85aa-418c-933a-0040fe9baf4f","status":"STATUS_OUT_OF_SYNC"}]}
+2025-04-30 09:56:52.845 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"74eea6fe-85aa-418c-933a-0040fe9baf4f","status":"STATUS_OUT_OF_SYNC"}]}
+2025-04-30 09:56:52.845 [info] Starting fast remote sync.
+2025-04-30 09:56:52.849 [info] Total num embeddable files: 28
+2025-04-30 09:56:52.850 [info] Root hash: ab08a09543e3c07db9ff27ac5bd6659e6518efe72cb36de96d458063a1591787
+2025-04-30 09:56:52.850 [info] In the out of sync case.
+2025-04-30 09:56:52.851 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:53.050 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:53.252 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:53.355 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-30 09:56:53.355 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-30 09:56:53.358 [info] multiCodebaseIndexingJob dispose
+2025-04-30 09:56:53.358 [info] Aborting indexing job.
+2025-04-30 09:56:53.359 [info] Using existing keys for an index
+2025-04-30 09:56:53.359 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-04-30 09:56:53.360 [warning] [canceled] This operation was aborted
+2025-04-30 09:56:53.363 [info] Setting global status from status tracker: synced
+2025-04-30 09:56:53.363 [info] Doing a startup handshake.
+2025-04-30 09:56:53.395 [info] Finished computing merkle tree in 5.506537000000208 ms.
+2025-04-30 09:56:53.395 [info] Doing the initial handshake with hash: ab08a09543e3c07db9ff27ac5bd6659e6518efe72cb36de96d458063a1591787
+2025-04-30 09:56:53.397 [info] Computed simhash vector of length: 256
+2025-04-30 09:56:53.397 [info] Path key hash: 4dce81be76d803994a9abbe86f3099165cf61786332a49bc8fdecf60539346a8
+2025-04-30 09:56:53.397 [info] Handshake start
+2025-04-30 09:56:53.451 [info] Indexing job successfully done or aborted.
+2025-04-30 09:56:54.074 [info] Handshake timing: 678.4624919999997, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"74eea6fe-85aa-418c-933a-0040fe9baf4f","status":"STATUS_OUT_OF_SYNC"}]}
+2025-04-30 09:56:54.075 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"74eea6fe-85aa-418c-933a-0040fe9baf4f","status":"STATUS_OUT_OF_SYNC"}]}
+2025-04-30 09:56:54.075 [info] Starting fast remote sync.
+2025-04-30 09:56:54.082 [info] Total num embeddable files: 28
+2025-04-30 09:56:54.086 [info] Root hash: ab08a09543e3c07db9ff27ac5bd6659e6518efe72cb36de96d458063a1591787
+2025-04-30 09:56:54.086 [info] In the out of sync case.
+2025-04-30 09:56:54.087 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:54.287 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:54.490 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:54.689 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:54.901 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:55.099 [info] Waiting on semaphore to be released 1
+2025-04-30 09:56:55.300 [info] setting numJobsToGo to 14
+2025-04-30 09:56:55.301 [info] [startSync]: numJobs: 14
+2025-04-30 09:56:55.305 [info] Uploading 14 files.
+2025-04-30 09:56:55.309 [info] Total number of files to embed: 28
+2025-04-30 09:56:55.309 [info] Not aborted
+2025-04-30 09:56:55.309 [info] Starting while loop.
+2025-04-30 09:56:55.309 [info] fileQueue.length: 14
+2025-04-30 09:56:55.309 [info] fileQueue.length: 13
+2025-04-30 09:56:55.309 [info] fileQueue.length: 12
+2025-04-30 09:56:55.309 [info] Waiting for jobs to finish. currentIndexingJobs.length: 2 concurrentUploads.current: 2 fileQueue.length: 12
+2025-04-30 09:56:56.838 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/App.tsx
+2025-04-30 09:56:56.838 [info] fileQueue.length: 11
+2025-04-30 09:56:56.838 [info] fileQueue.length: 10
+2025-04-30 09:56:56.838 [info] Waiting for jobs to finish. currentIndexingJobs.length: 3 concurrentUploads.current: 3 fileQueue.length: 10
+2025-04-30 09:56:57.855 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/components/Layout.tsx
+2025-04-30 09:56:57.856 [info] fileQueue.length: 9
+2025-04-30 09:56:57.856 [info] fileQueue.length: 8
+2025-04-30 09:56:57.856 [info] Waiting for jobs to finish. currentIndexingJobs.length: 4 concurrentUploads.current: 4 fileQueue.length: 8
+2025-04-30 09:56:59.559 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/components/README.md
+2025-04-30 09:56:59.560 [info] fileQueue.length: 7
+2025-04-30 09:56:59.560 [info] fileQueue.length: 6
+2025-04-30 09:56:59.560 [info] Waiting for jobs to finish. currentIndexingJobs.length: 5 concurrentUploads.current: 5 fileQueue.length: 6
+2025-04-30 09:56:59.567 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/components/MarkdownEditor.tsx
+2025-04-30 09:56:59.567 [info] fileQueue.length: 5
+2025-04-30 09:56:59.567 [info] fileQueue.length: 4
+2025-04-30 09:56:59.567 [info] Waiting for jobs to finish. currentIndexingJobs.length: 6 concurrentUploads.current: 6 fileQueue.length: 4
+2025-04-30 09:57:01.671 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/hooks/README.md
+2025-04-30 09:57:01.671 [info] fileQueue.length: 3
+2025-04-30 09:57:01.671 [info] fileQueue.length: 2
+2025-04-30 09:57:01.671 [info] Waiting for jobs to finish. currentIndexingJobs.length: 7 concurrentUploads.current: 7 fileQueue.length: 2
+2025-04-30 09:57:01.681 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/config/README.md
+2025-04-30 09:57:01.682 [info] fileQueue.length: 1
+2025-04-30 09:57:01.682 [info] fileQueue.length: 0
+2025-04-30 09:57:01.682 [info] Waiting for jobs to finish. currentIndexingJobs.length: 8 concurrentUploads.current: 8 fileQueue.length: 0
+2025-04-30 09:57:03.467 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/store/README.md
+2025-04-30 09:57:03.467 [info] Waiting for jobs to finish. currentIndexingJobs.length: 7 concurrentUploads.current: 9 fileQueue.length: 0
+2025-04-30 09:57:05.411 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/assets/README.md
+2025-04-30 09:57:05.411 [info] Waiting for jobs to finish. currentIndexingJobs.length: 6 concurrentUploads.current: 10 fileQueue.length: 0
+2025-04-30 09:57:05.493 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/pages/README.md
+2025-04-30 09:57:05.493 [info] Waiting for jobs to finish. currentIndexingJobs.length: 5 concurrentUploads.current: 11 fileQueue.length: 0
+2025-04-30 09:57:05.641 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/services/README.md
+2025-04-30 09:57:05.641 [info] Waiting for jobs to finish. currentIndexingJobs.length: 4 concurrentUploads.current: 12 fileQueue.length: 0
+2025-04-30 09:57:06.507 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/types/README.md
+2025-04-30 09:57:06.507 [info] Waiting for jobs to finish. currentIndexingJobs.length: 3 concurrentUploads.current: 13 fileQueue.length: 0
+2025-04-30 09:57:07.566 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/utils/README.md
+2025-04-30 09:57:07.566 [info] Waiting for jobs to finish. currentIndexingJobs.length: 2 concurrentUploads.current: 14 fileQueue.length: 0
+2025-04-30 09:57:07.626 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/store/notesStore.ts
+2025-04-30 09:57:07.626 [info] Waiting for jobs to finish. currentIndexingJobs.length: 1 concurrentUploads.current: 15 fileQueue.length: 0
+2025-04-30 09:57:11.152 [info] Completed job successfully: 74eea6fe-85aa-418c-933a-0040fe9baf4f ./chatnotes/src/styles/README.md
+2025-04-30 09:57:11.153 [info] Waiting for jobs to finish. currentIndexingJobs.length: 0 concurrentUploads.current: 16 fileQueue.length: 0
+2025-04-30 09:57:11.317 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-04-30 09:57:11.734 [info] Finished indexing repository.
+2025-04-30 09:57:11.734 [info] Indexing job successfully done or aborted.
+2025-04-30 09:57:14.120 [info] multiCodebaseIndexingJob dispose
+2025-04-30 09:57:14.120 [info] Aborting indexing job.
+2025-04-30 09:57:17.274 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-30 09:57:17.274 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-30 09:57:17.274 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-30 09:57:17.274 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-30 09:57:17.274 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-30 09:57:17.486 [error] NoWorkspaceUriError
+2025-04-30 09:57:18.418 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-30 09:57:18.418 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-30 09:57:18.418 [error] NoWorkspaceUriError

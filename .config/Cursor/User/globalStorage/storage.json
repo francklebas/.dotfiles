@@ -1,0 +1,85 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.macMachineId": "c38c91374ca24c29520024376408ee78199f71d4154e96e1b59024719e326826",
+    "telemetry.machineId": "d5bc88704b7299ff42d314828c6c80bda25620b6c8ede88298db5001857453b3",
+    "telemetry.devDeviceId": "15be85cb-83b8-4e2e-b409-c5a2744a9119",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/franck/workspace/gig-ott"
+            },
+            {
+                "folderUri": "file:///home/franck/workspace/gig-focus-flow"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1745999834683"
+            },
+            {
+                "backupFolder": "1746000222936"
+            },
+            {
+                "backupFolder": "1746024905559"
+            }
+        ]
+    },
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/franck/chadnotes": "__default__profile__",
+            "file:///home/franck/workspace/chadnotes-cursored": "__default__profile__",
+            "file:///home/franck/workspace/gig-ott": "__default__profile__",
+            "file:///home/franck/workspace/gig-focus-flow": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1745999834683": "__default__profile__",
+            "1746000222936": "__default__profile__",
+            "1746024905559": "__default__profile__"
+        }
+    },
+    "windowControlHeight": 50,
+    "theme": "vs-dark",
+    "themeBackground": "#1a1a1a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(204, 204, 204, 0.87)",
+            "background": "#1a1a1a",
+            "editorBackground": "#1a1a1a",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/franck/workspace/gig-focus-flow",
+            "backupPath": "/home/franck/.config/Cursor/Backups/f2d4a1edb296720769d5406eb4bced83",
+            "uiState": {
+                "mode": 1,
+                "x": 1536,
+                "y": 32,
+                "width": 1418,
+                "height": 1408,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    }
+}

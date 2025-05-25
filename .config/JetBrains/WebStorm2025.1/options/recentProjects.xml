@@ -1,0 +1,121 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/chadnotes">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chadnotes – editor.tsx" projectWorkspaceId="2vfQfE4CbXMPeRYgiT569NZRrJ5">
+              <option name="activationTimestamp" value="1744613098414" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.26053.12" />
+              <option name="buildTimestamp" value="1741764660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="3072" y="32" width="1365" height="1408" extendedState="4" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1744533749562" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sb-back">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sb-back – routes.ts" projectWorkspaceId="2ws1vXuli1goXBKwsNZrCmQKPLU">
+              <option name="activationTimestamp" value="1746952235496" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.26053.12" />
+              <option name="buildTimestamp" value="1741764660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="3072" y="32" width="3440" height="1408" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1746952164029" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sbk-back">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sbk-back – .env.developement" projectWorkspaceId="2wuoXqJjp8palaXSJ49T81eeoGc">
+              <option name="activationTimestamp" value="1747163646584" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.26053.12" />
+              <option name="buildTimestamp" value="1741764660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="4092" y="32" width="1400" height="1408" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1747126901599" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sb-back/sbk">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sbk" projectWorkspaceId="2wuoXqJjp8palaXSJ49T81eeoGc">
+              <option name="activationTimestamp" value="1746952161921" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.26053.12" />
+              <option name="buildTimestamp" value="1741764660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="3072" y="32" width="3440" height="1408" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1747163648377" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sb">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sb – useAppStore.ts" projectWorkspaceId="2wrKZXXXuoWkeiIcgBq8TeDfTCf">
+              <option name="activationTimestamp" value="1747749193798" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.26053.12" />
+              <option name="buildTimestamp" value="1741764660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="3072" y="32" width="1720" height="1408" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1747656155598" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/portail">
+          <value>
+            <RecentProjectMetaInfo frameTitle="portail – What's New in WebStorm" projectWorkspaceId="2vXL7BkbAZeDsNrBolavqf6jLF6">
+              <option name="activationTimestamp" value="1748088550225" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.26053.12" />
+              <option name="buildTimestamp" value="1741764660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="3072" y="32" width="3440" height="1408" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1747749199928" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/caffe-stockholm">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2xXdrepZaSIkXGDjXVJY7PcW1gI">
+              <option name="activationTimestamp" value="1748182412178" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-251.25410.117" />
+              <option name="buildTimestamp" value="1746610620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1748088551499" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/workspace/caffe-stockholm" />
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace" />
+  </component>
+</application>

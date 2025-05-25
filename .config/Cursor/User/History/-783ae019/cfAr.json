@@ -1,0 +1,7 @@
+{
+    "window.commandCenter": 1,
+    "cursor.composer.shouldChimeAfterChatFinishes": true,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    }
+}

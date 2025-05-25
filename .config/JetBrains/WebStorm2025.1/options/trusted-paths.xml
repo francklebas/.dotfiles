@@ -1,0 +1,23 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/chadnotes" value="true" />
+        <entry key="$USER_HOME$/workspace/caffe-stockholm" value="true" />
+        <entry key="$USER_HOME$/workspace/portail" value="true" />
+        <entry key="$USER_HOME$/workspace/sb" value="true" />
+        <entry key="$USER_HOME$/workspace/sb-back" value="true" />
+        <entry key="$USER_HOME$/workspace/sb-back/sbk" value="true" />
+        <entry key="$USER_HOME$/workspace/sbk-back" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/workspace" />
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

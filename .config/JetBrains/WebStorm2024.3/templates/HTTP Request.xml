@@ -1,0 +1,24 @@
+<templateSet group="HTTP Request">
+  <template name="ptr" value="POST http://$HOST$/$PATH$&#10;Content-Type: $HEADER_VALUE$&#10;&#10;$BODY$&#10;&#10;###" description="POST http://example.com/add..." toReformat="true" toShortenFQNames="false">
+    <variable name="HOST" expression="" defaultValue="&quot;localhost:80&quot;" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="&quot;api/item&quot;" alwaysStopAt="true" />
+    <variable name="HEADER_VALUE" expression="" defaultValue="&quot;application/json&quot;" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="&quot;{}&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="gqlr" value="GRAPHQL $SCHEME$://$HOST$/$URL_PATH$&#10;&#10;query {&#10;    greetings&#10;}&#10;&#10;{&#10;  &quot;$VAR_NAME$&quot;: &quot;$VAR_VALUE$&quot;&#10;}&#10;&#10;###" description="GraphQL Request" toReformat="false" toShortenFQNames="true">
+    <variable name="SCHEME" expression="enum(&quot;http&quot;, &quot;https&quot;, &quot;ws&quot;, &quot;wss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="HOST" expression="" defaultValue="&quot;localhost:80&quot;" alwaysStopAt="true" />
+    <variable name="URL_PATH" expression="" defaultValue="&quot;graphql&quot;" alwaysStopAt="true" />
+    <variable name="VAR_NAME" expression="" defaultValue="&quot;varName&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="&quot;varValue&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="var" value="$COMMA_BEFORE$&quot;$VAR_NAME$&quot;: &quot;$VAR_VALUE$&quot;$COMMA_AFTER$" description="Environment variable" toReformat="true" toShortenFQNames="false">
+    <variable name="COMMA_BEFORE" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <variable name="VAR_NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="COMMA_AFTER" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>

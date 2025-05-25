@@ -1,0 +1,195 @@
+2025-04-15 13:52:03.974 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-15 13:52:03.974 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-15 13:52:03.974 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-15 13:52:04.082 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2025-04-15 13:52:16.270 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:16.270 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:16.270 [error] NoWorkspaceUriError
+2025-04-15 13:52:16.464 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:16.464 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:16.465 [error] NoWorkspaceUriError
+2025-04-15 13:52:16.659 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:16.659 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:16.659 [error] NoWorkspaceUriError
+2025-04-15 13:52:16.843 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:16.843 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:16.843 [error] NoWorkspaceUriError
+2025-04-15 13:52:17.047 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:17.047 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:17.047 [error] NoWorkspaceUriError
+2025-04-15 13:52:17.477 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:17.477 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:17.477 [error] NoWorkspaceUriError
+2025-04-15 13:52:17.713 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:17.713 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:17.713 [error] NoWorkspaceUriError
+2025-04-15 13:52:17.962 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:17.962 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:17.962 [error] NoWorkspaceUriError
+2025-04-15 13:52:18.329 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:18.329 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:18.330 [error] NoWorkspaceUriError
+2025-04-15 13:52:19.508 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:52:19.511 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:52:19.511 [error] NoWorkspaceUriError
+2025-04-15 13:53:53.073 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:53:53.073 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:53:53.073 [error] Error getting repo info: Unable to parse GitHub repository from git config
+2025-04-15 13:53:53.073 [error] Error: Unable to parse GitHub repository from git config
+	at A.GitProvider.getRepoInfo (/tmp/.mount_CursorArGB4U/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:4:1274076)
+2025-04-15 13:53:53.073 [info] Making keys for a new index
+2025-04-15 13:53:53.074 [info] Using the default key from the server for a new index
+2025-04-15 13:53:53.074 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-04-15 13:53:53.132 [info] Doing a startup handshake.
+2025-04-15 13:53:53.986 [info] Finished computing merkle tree in 223.87845500000003 ms.
+2025-04-15 13:53:54.034 [info] Doing the initial handshake with hash: 166b5ff7733ca0211001157f45e6191b25fc3b56b4dd020872b47b646b6d5611
+2025-04-15 13:53:54.091 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/franck/.config/Cursor/User/workspaceStorage/94bbb7fdecc9ea4529be8aed0f4445fe/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2025-04-15 13:53:54.103 [info] Computed simhash vector of length: 256
+2025-04-15 13:53:54.103 [info] Path key hash: 4dce81be76d803994a9abbe86f3099165cf61786332a49bc8fdecf60539346a8
+2025-04-15 13:53:54.103 [info] Handshake start
+2025-04-15 13:53:54.892 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-04-15 13:53:54.892 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-04-15 13:53:54.896 [info] multiCodebaseIndexingJob dispose
+2025-04-15 13:53:54.896 [info] Aborting indexing job.
+2025-04-15 13:53:54.896 [info] Using existing keys for an index
+2025-04-15 13:53:54.896 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-04-15 13:53:54.897 [info] Indexing job successfully done or aborted.
+2025-04-15 13:53:54.901 [info] Doing a startup handshake.
+2025-04-15 13:53:54.928 [info] Finished computing merkle tree in 18.43794700000035 ms.
+2025-04-15 13:53:54.929 [info] Doing the initial handshake with hash: 166b5ff7733ca0211001157f45e6191b25fc3b56b4dd020872b47b646b6d5611
+2025-04-15 13:53:54.935 [info] Computed simhash vector of length: 256
+2025-04-15 13:53:54.935 [info] Path key hash: 4dce81be76d803994a9abbe86f3099165cf61786332a49bc8fdecf60539346a8
+2025-04-15 13:53:54.935 [info] Handshake start
+2025-04-15 13:53:55.583 [info] Handshake timing: 649.8634380000003, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"48748961-6eef-4f02-9714-f164bde58950","status":"STATUS_EMPTY"}]}
+2025-04-15 13:53:55.583 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"48748961-6eef-4f02-9714-f164bde58950","status":"STATUS_EMPTY"}]}
+2025-04-15 13:53:55.584 [info] Starting fast remote sync.
+2025-04-15 13:53:55.606 [info] Total num embeddable files: 35
+2025-04-15 13:53:55.609 [info] Root hash: 166b5ff7733ca0211001157f45e6191b25fc3b56b4dd020872b47b646b6d5611
+2025-04-15 13:53:55.610 [info] Starting repository upload from scratch.
+2025-04-15 13:53:55.612 [info] Uploading 35 files.
+2025-04-15 13:53:55.616 [info] Total number of files to embed: 35
+2025-04-15 13:53:55.616 [info] Not aborted
+2025-04-15 13:53:55.616 [info] Starting while loop.
+2025-04-15 13:53:55.616 [info] fileQueue.length: 35
+2025-04-15 13:53:55.616 [info] fileQueue.length: 34
+2025-04-15 13:53:55.616 [info] fileQueue.length: 33
+2025-04-15 13:53:55.616 [info] Waiting for jobs to finish. currentIndexingJobs.length: 2 concurrentUploads.current: 2 fileQueue.length: 33
+2025-04-15 13:53:56.205 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./package.json
+2025-04-15 13:53:56.205 [info] fileQueue.length: 32
+2025-04-15 13:53:56.206 [info] fileQueue.length: 31
+2025-04-15 13:53:56.206 [info] Waiting for jobs to finish. currentIndexingJobs.length: 3 concurrentUploads.current: 3 fileQueue.length: 31
+2025-04-15 13:53:57.222 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./FONCTIONNEL.md
+2025-04-15 13:53:57.222 [info] fileQueue.length: 30
+2025-04-15 13:53:57.222 [info] fileQueue.length: 29
+2025-04-15 13:53:57.222 [info] Waiting for jobs to finish. currentIndexingJobs.length: 4 concurrentUploads.current: 4 fileQueue.length: 29
+2025-04-15 13:53:57.273 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./MILESTONES.md
+2025-04-15 13:53:57.273 [info] fileQueue.length: 28
+2025-04-15 13:53:57.273 [info] fileQueue.length: 27
+2025-04-15 13:53:57.273 [info] Waiting for jobs to finish. currentIndexingJobs.length: 5 concurrentUploads.current: 5 fileQueue.length: 27
+2025-04-15 13:53:58.274 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./components.json
+2025-04-15 13:53:58.274 [info] fileQueue.length: 26
+2025-04-15 13:53:58.274 [info] fileQueue.length: 25
+2025-04-15 13:53:58.274 [info] Waiting for jobs to finish. currentIndexingJobs.length: 6 concurrentUploads.current: 6 fileQueue.length: 25
+2025-04-15 13:53:58.279 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./tsconfig.json
+2025-04-15 13:53:58.279 [info] fileQueue.length: 24
+2025-04-15 13:53:58.279 [info] fileQueue.length: 23
+2025-04-15 13:53:58.279 [info] Waiting for jobs to finish. currentIndexingJobs.length: 7 concurrentUploads.current: 7 fileQueue.length: 23
+2025-04-15 13:53:58.280 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./vite.config.ts
+2025-04-15 13:53:58.280 [info] fileQueue.length: 22
+2025-04-15 13:53:58.280 [info] fileQueue.length: 21
+2025-04-15 13:53:58.280 [info] Waiting for jobs to finish. currentIndexingJobs.length: 8 concurrentUploads.current: 8 fileQueue.length: 21
+2025-04-15 13:53:59.405 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./.prettierrc
+2025-04-15 13:53:59.406 [info] fileQueue.length: 20
+2025-04-15 13:53:59.406 [info] fileQueue.length: 19
+2025-04-15 13:53:59.406 [info] Waiting for jobs to finish. currentIndexingJobs.length: 9 concurrentUploads.current: 9 fileQueue.length: 19
+2025-04-15 13:53:59.411 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./README.md
+2025-04-15 13:53:59.412 [info] fileQueue.length: 18
+2025-04-15 13:53:59.412 [info] fileQueue.length: 17
+2025-04-15 13:53:59.412 [info] Waiting for jobs to finish. currentIndexingJobs.length: 10 concurrentUploads.current: 10 fileQueue.length: 17
+2025-04-15 13:53:59.415 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./tsconfig.node.json
+2025-04-15 13:53:59.415 [info] fileQueue.length: 16
+2025-04-15 13:53:59.415 [info] fileQueue.length: 15
+2025-04-15 13:53:59.415 [info] Waiting for jobs to finish. currentIndexingJobs.length: 11 concurrentUploads.current: 11 fileQueue.length: 15
+2025-04-15 13:53:59.418 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./eslint.config.js
+2025-04-15 13:53:59.418 [info] fileQueue.length: 14
+2025-04-15 13:53:59.418 [info] fileQueue.length: 13
+2025-04-15 13:53:59.418 [info] Waiting for jobs to finish. currentIndexingJobs.length: 12 concurrentUploads.current: 12 fileQueue.length: 13
+2025-04-15 13:53:59.518 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./.gitlab-ci.yml
+2025-04-15 13:53:59.518 [info] fileQueue.length: 12
+2025-04-15 13:53:59.518 [info] fileQueue.length: 11
+2025-04-15 13:53:59.518 [info] Waiting for jobs to finish. currentIndexingJobs.length: 13 concurrentUploads.current: 13 fileQueue.length: 11
+2025-04-15 13:53:59.597 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./tsconfig.app.json
+2025-04-15 13:53:59.597 [info] fileQueue.length: 10
+2025-04-15 13:53:59.597 [info] fileQueue.length: 9
+2025-04-15 13:53:59.597 [info] Waiting for jobs to finish. currentIndexingJobs.length: 14 concurrentUploads.current: 14 fileQueue.length: 9
+2025-04-15 13:53:59.682 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./.gitignore
+2025-04-15 13:53:59.682 [info] fileQueue.length: 8
+2025-04-15 13:53:59.682 [info] fileQueue.length: 7
+2025-04-15 13:53:59.682 [info] Waiting for jobs to finish. currentIndexingJobs.length: 15 concurrentUploads.current: 15 fileQueue.length: 7
+2025-04-15 13:54:00.258 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./index.html
+2025-04-15 13:54:00.258 [info] fileQueue.length: 6
+2025-04-15 13:54:00.258 [info] fileQueue.length: 5
+2025-04-15 13:54:00.258 [info] Waiting for jobs to finish. currentIndexingJobs.length: 16 concurrentUploads.current: 16 fileQueue.length: 5
+2025-04-15 13:54:00.261 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./__tests__/smoke.spec.tsx
+2025-04-15 13:54:00.261 [info] fileQueue.length: 4
+2025-04-15 13:54:00.261 [info] fileQueue.length: 3
+2025-04-15 13:54:00.262 [info] Waiting for jobs to finish. currentIndexingJobs.length: 17 concurrentUploads.current: 17 fileQueue.length: 3
+2025-04-15 13:54:00.265 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/stores/useSyncStore.ts
+2025-04-15 13:54:00.265 [info] fileQueue.length: 2
+2025-04-15 13:54:00.265 [info] fileQueue.length: 1
+2025-04-15 13:54:00.265 [info] Waiting for jobs to finish. currentIndexingJobs.length: 18 concurrentUploads.current: 18 fileQueue.length: 1
+2025-04-15 13:54:00.301 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/index.css
+2025-04-15 13:54:00.301 [info] fileQueue.length: 0
+2025-04-15 13:54:00.301 [info] Waiting for jobs to finish. currentIndexingJobs.length: 18 concurrentUploads.current: 19 fileQueue.length: 0
+2025-04-15 13:54:00.333 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/components/NewNoteButton.tsx
+2025-04-15 13:54:00.333 [info] Waiting for jobs to finish. currentIndexingJobs.length: 17 concurrentUploads.current: 20 fileQueue.length: 0
+2025-04-15 13:54:00.335 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/components/Layout.tsx
+2025-04-15 13:54:00.335 [info] Waiting for jobs to finish. currentIndexingJobs.length: 16 concurrentUploads.current: 21 fileQueue.length: 0
+2025-04-15 13:54:00.481 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/types.d.ts
+2025-04-15 13:54:00.481 [info] Waiting for jobs to finish. currentIndexingJobs.length: 15 concurrentUploads.current: 22 fileQueue.length: 0
+2025-04-15 13:54:00.601 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/routes.tsx
+2025-04-15 13:54:00.601 [info] Waiting for jobs to finish. currentIndexingJobs.length: 14 concurrentUploads.current: 23 fileQueue.length: 0
+2025-04-15 13:54:00.735 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/components/NoteEditor.tsx
+2025-04-15 13:54:00.735 [info] Waiting for jobs to finish. currentIndexingJobs.length: 13 concurrentUploads.current: 24 fileQueue.length: 0
+2025-04-15 13:54:00.785 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/stores/useNotesStore.ts
+2025-04-15 13:54:00.785 [info] Waiting for jobs to finish. currentIndexingJobs.length: 12 concurrentUploads.current: 25 fileQueue.length: 0
+2025-04-15 13:54:00.795 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/App.tsx
+2025-04-15 13:54:00.795 [info] Waiting for jobs to finish. currentIndexingJobs.length: 11 concurrentUploads.current: 26 fileQueue.length: 0
+2025-04-15 13:54:00.823 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/styles/tiptap.css
+2025-04-15 13:54:00.823 [info] Waiting for jobs to finish. currentIndexingJobs.length: 10 concurrentUploads.current: 27 fileQueue.length: 0
+2025-04-15 13:54:01.217 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/lib/utils.ts
+2025-04-15 13:54:01.217 [info] Waiting for jobs to finish. currentIndexingJobs.length: 9 concurrentUploads.current: 28 fileQueue.length: 0
+2025-04-15 13:54:01.242 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/stores/usePrefsStore.ts
+2025-04-15 13:54:01.242 [info] Waiting for jobs to finish. currentIndexingJobs.length: 8 concurrentUploads.current: 29 fileQueue.length: 0
+2025-04-15 13:54:01.283 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/main.tsx
+2025-04-15 13:54:01.283 [info] Waiting for jobs to finish. currentIndexingJobs.length: 7 concurrentUploads.current: 30 fileQueue.length: 0
+2025-04-15 13:54:01.318 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/components/Sidebar.tsx
+2025-04-15 13:54:01.318 [info] Waiting for jobs to finish. currentIndexingJobs.length: 6 concurrentUploads.current: 31 fileQueue.length: 0
+2025-04-15 13:54:01.391 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./Architecture.md
+2025-04-15 13:54:01.391 [info] Waiting for jobs to finish. currentIndexingJobs.length: 5 concurrentUploads.current: 32 fileQueue.length: 0
+2025-04-15 13:54:01.469 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/pages/editor.tsx
+2025-04-15 13:54:01.469 [info] Waiting for jobs to finish. currentIndexingJobs.length: 4 concurrentUploads.current: 33 fileQueue.length: 0
+2025-04-15 13:54:01.770 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/pages/settings.tsx
+2025-04-15 13:54:01.770 [info] Waiting for jobs to finish. currentIndexingJobs.length: 3 concurrentUploads.current: 34 fileQueue.length: 0
+2025-04-15 13:54:02.213 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/vite-env.d.ts
+2025-04-15 13:54:02.213 [info] Waiting for jobs to finish. currentIndexingJobs.length: 2 concurrentUploads.current: 35 fileQueue.length: 0
+2025-04-15 13:54:02.215 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/pages/home.tsx
+2025-04-15 13:54:02.215 [info] Waiting for jobs to finish. currentIndexingJobs.length: 1 concurrentUploads.current: 36 fileQueue.length: 0
+2025-04-15 13:54:03.228 [info] Completed job successfully: 48748961-6eef-4f02-9714-f164bde58950 ./src/components/PrivateRoute.tsx
+2025-04-15 13:54:03.228 [info] Waiting for jobs to finish. currentIndexingJobs.length: 0 concurrentUploads.current: 37 fileQueue.length: 0
+2025-04-15 13:54:03.397 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-04-15 13:54:03.606 [info] Finished indexing repository.
+2025-04-15 13:54:03.606 [info] Indexing job successfully done or aborted.
+2025-04-15 13:54:19.074 [info] multiCodebaseIndexingJob dispose
+2025-04-15 13:54:19.074 [info] Aborting indexing job.

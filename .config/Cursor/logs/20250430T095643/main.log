@@ -1,0 +1,9 @@
+2025-04-30 09:56:43.879 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/d5bc88704b7299ff42d314828c6c80bda25620b6c8ede88298db5001857453b3/stable
+2025-04-30 09:56:43.879 [info] update#setState idle
+2025-04-30 09:56:46.806 [error] vscode-file: Refused to load resource /tmp/.mount_CursorbQiMpr/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_CursorbQiMpr/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-04-30 09:57:13.831 [info] update#setState checking for updates
+2025-04-30 09:57:13.975 [info] update#setState ready
+2025-04-30 09:57:14.124 [info] Extension host with pid 560026 exited with code: 0, signal: unknown.
+2025-04-30 09:57:14.255 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 560028]: crashed with code 15 and reason 'killed'
+2025-04-30 09:57:37.742 [info] Extension host with pid 561433 exited with code: 0, signal: unknown.
+2025-04-30 09:57:37.809 [info] update#quitAndInstall(): starting updater with command /tmp/.mount_CursoryV1IoW/usr/share/cursor/resources/appimageupdatetool.AppImage -u "zsync|https://downloads.cursor.com/production/0781e811de386a0c5bcb07ceb259df8ff8246a52/linux/x64/Cursor-0.49.6-x86_64.AppImage.zsync" -O "/home/franck/Downloads/Cursor-0.48.8-x86_64.AppImage"; /home/franck/Downloads/Cursor-0.48.8-x86_64.AppImage &

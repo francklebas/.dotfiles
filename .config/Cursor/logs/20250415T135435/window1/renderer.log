@@ -1,0 +1,45 @@
+2025-04-15 13:54:38.741 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.741 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.742 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.742 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.744 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.744 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.745 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.745 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-15 13:54:38.810 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-15 13:54:38.811 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-15 13:54:38.811 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-15 13:54:38.811 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-15 13:54:38.812 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-15 13:54:40.275 [info] Started local extension host with pid 1772213.
+2025-04-15 13:54:44.147 [warning] No search provider registered for scheme: file, waiting
+2025-04-15 13:54:46.039 [error] [Extension Host] (node:1772213) ExperimentalWarning: Use `importAttributes` instead of `importAssertions`
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-04-15 13:54:46.497 [info] [perf] Render performance baseline is 82ms
+2025-04-15 16:18:30.616 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at WI.deltaDecorations (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:364:4065)
+    at oEi.clearPrediction (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4992:315)
+    at qae.value (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4992:3221)
+    at M.B (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:748)
+    at M.C (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:818)
+    at M.fire (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:882)
+    at qae.value (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:368:15753)
+    at M.B (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:748)
+    at M.fire (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:967)
+    at O6n.r (vscode-file://vscode-app/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:364:29759) Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-04-15 16:25:51.207 [error] [Extension Host] Error in processModelChangesLoop: Error: secondRemovedRange.startLineNumber !== secondAddedRange.startLineNumber
+	at u (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:211637)
+	at a.processModelChangesLoop (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:204073)
+	at a.processModelChangesLoopWithTimeout (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:202805)
+	at a.processModelChange (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:205279)
+	at m (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:268973)
+	at async t.formatDiffHistory (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:272166)
+	at async Promise.allSettled (index 0)
+	at async nGt.$getEverythingAllLocalProviderRunCommand (file:///tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:973825)
+2025-04-15 16:25:52.356 [error] [Extension Host] Error: Start of the range is outside the file.
+	at o (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:218408)
+	at t.changeModel (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:219592)
+	at t.formatDiffHistory (/tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:4:271960)
+	at async Promise.allSettled (index 0)
+	at async nGt.$getEverythingAllLocalProviderRunCommand (file:///tmp/.mount_CursorQyBBvO/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:973825)

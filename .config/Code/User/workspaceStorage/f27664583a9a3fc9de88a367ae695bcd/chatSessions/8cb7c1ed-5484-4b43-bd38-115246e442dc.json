@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "requesterUsername": "francklebas",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/183521396",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "8cb7c1ed-5484-4b43-bd38-115246e442dc",
+  "creationDate": 1745245161146,
+  "isImported": false,
+  "lastMessageDate": 1745245161146
+}

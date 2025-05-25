@@ -1,0 +1,16 @@
+{
+	"telemetryDisabled": false,
+	"cliId": "ee7e020f-390d-4877-bc0c-4449345e6ca8",
+	"userId": "682e219405c8bdd180385dd2",
+	"users": {
+		"682e219405c8bdd180385dd2": {
+			"id": "682e219405c8bdd180385dd2",
+			"name": null,
+			"email": "franck.lebas@betao.se",
+			"auth": {
+				"token": "nfc_vNUTwEuxBscE89T9JmfQFKkngnQBXLQc578f",
+				"github": {}
+			}
+		}
+	}
+}

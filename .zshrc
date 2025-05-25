@@ -4,7 +4,7 @@
 # fi
 
 #screenfetch
-uwufetch
+fastfetch
 # eval "$(starship init zsh)"
 
 # If you come from bash you might have to change your $PATH.
@@ -110,6 +110,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export DOTFILES_DIR="$HOME/.dotfiles"
+export PATH="${PATH}:${HOME}/.local/share/JetBrains/Toolbox/scripts"
 export PATH="${PATH}:${HOME}/.local/bin/"
 export PATH="${PATH}:${HOME}/.config/bin/"
 
@@ -126,6 +127,9 @@ export DENO_INSTALL="/home/franck/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
 export PATH="$HOME/.config/bin/i3-backlight:$PATH"
 
+alias strom="/home/franck/.local/share/JetBrains/Toolbox/scripts"
+# alias docker=podman
+# alias pdc="podman-compose -f docker-compose.local.yml"
 alias pdc="docker compose -f docker-compose.local.yml"
 alias pdl="pdc logs -f --tail 100 $1"
 alias pdrl="pdc restart $1 && pdc logs -f --tail 100 $1"
@@ -145,10 +149,10 @@ alias hdmi="xrandr --addmode HDMI-1-0 -s 2560x1440"
 zmodload zsh/parameter  # Needed to access jobstates variable for STARSHIP_JOBS_COUNT
 alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"
 
-# export NVM_DIR="$HOME/.nvm"
-# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-# [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-source /usr/share/nvm/init-nvm.sh
+export NVM_DIR="$HOME/.nvm"
+ [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+ [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+#source /usr/share/nvm/init-nvm.sh
 
 # eval export PATH="/run/user/1000/fnm_multishells/123254_1741794767792/bin":$PATH
 # export FNM_MULTISHELL_PATH="/run/user/1000/fnm_multishells/123254_1741794767792"
@@ -171,3 +175,4 @@ source /usr/share/nvm/init-nvm.sh
 #     && _fnm_autoload_hook
 #
 # rehash
+alias pssl="local-ssl-proxy --source 8080 --target 80 --cert $HOME/portail-certs/localhost.pem --key $HOME/portail-certs/localhost-key.pem"

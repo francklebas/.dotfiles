@@ -1,0 +1,45 @@
+<application>
+  <component name="ui-state">
+    <option name="templatesTreeState">
+      <TreeState>
+        <myExpandedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" />
+            <item name="General" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" />
+            <item name="Suspicious" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="SQL" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="SQL" type="cbb8eebc:String" />
+            <item name="Common" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="SQL" type="cbb8eebc:String" />
+            <item name="Common" type="cbb8eebc:String" />
+            <item name="Contexts" type="cbb8eebc:String" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="XML/HTML" type="cbb8eebc:String" />
+          </array>
+        </myExpandedPaths>
+      </TreeState>
+    </option>
+    <option name="scopeType" value="PROJECT" />
+    <option name="scopeDescriptor" value="" />
+  </component>
+</application>

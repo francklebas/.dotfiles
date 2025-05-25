@@ -1,0 +1,920 @@
+2025-04-30 09:58:59.596 [error] Failed to check if file sync is enabled for user {}
+2025-04-30 09:58:59.596 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 09:58:59.596 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 09:58:59.820 [info] [registerEventListeners] Registering event listeners
+2025-04-30 09:59:00.928 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 09:59:01.064 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 09:59:01.366 [info] Fetched fsConfig in 300.6728959999996ms
+2025-04-30 09:59:01.366 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 09:59:01.366 [info] File sync enabled status: true
+2025-04-30 09:59:01.366 [info] Starting sync of visible tabs
+2025-04-30 09:59:01.366 [info] Synced all visible tabs in 0.07561299999997573ms
+2025-04-30 09:59:01.372 [info] Fetched fsConfig in 443.7033419999998ms
+2025-04-30 09:59:01.372 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 09:59:01.925 [info] Starting sync of visible tabs
+2025-04-30 09:59:01.925 [info] Synced all visible tabs in 0.27394699999968ms
+2025-04-30 09:59:02.066 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 09:59:02.207 [info] Fetched fsConfig in 140.68558400000074ms
+2025-04-30 09:59:02.207 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:00:00.855 [error] Failed to check if file sync is enabled for user {}
+2025-04-30 10:00:00.855 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 10:00:00.855 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 10:00:01.165 [info] [registerEventListeners] Registering event listeners
+2025-04-30 10:00:02.191 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:00:02.232 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:00:02.592 [info] Fetched fsConfig in 399.8024059999998ms
+2025-04-30 10:00:02.592 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:00:02.598 [info] Fetched fsConfig in 366.5585900000001ms
+2025-04-30 10:00:02.598 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:00:02.599 [info] File sync enabled status: true
+2025-04-30 10:00:02.599 [info] Starting sync of visible tabs
+2025-04-30 10:00:02.599 [info] Synced all visible tabs in 0.0782680000002074ms
+2025-04-30 10:00:03.085 [info] Starting sync of visible tabs
+2025-04-30 10:00:03.085 [info] Synced all visible tabs in 0.28975699999955395ms
+2025-04-30 10:00:03.220 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:00:03.358 [info] Fetched fsConfig in 137.82649200000014ms
+2025-04-30 10:00:03.358 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:01:46.917 [info] Handled visible editors change in 1.0145579999953043ms
+2025-04-30 10:01:51.969 [info] Uploaded file main.js modelVersion=2 in 392.25813899999775ms
+2025-04-30 10:01:51.971 [info] Uploaded file main.js modelVersion=2 in 415.5544249999948ms
+2025-04-30 10:01:51.972 [info] Uploaded file main.js modelVersion=4 in 375.6021610000025ms
+2025-04-30 10:01:51.974 [info] Uploaded file main.js modelVersion=4 in 374.393247ms
+2025-04-30 10:01:57.965 [info] Uploaded file tailwind.config.js modelVersion=2 in 138.22284000000218ms
+2025-04-30 10:01:57.966 [info] Uploaded file tailwind.config.js modelVersion=2 in 143.17387700000836ms
+2025-04-30 10:01:57.999 [info] Uploaded file tailwind.config.js modelVersion=4 in 139.12182900001062ms
+2025-04-30 10:01:58.000 [info] Uploaded file tailwind.config.js modelVersion=4 in 138.84916400001384ms
+2025-04-30 10:01:59.749 [info] Handled visible editors change in 0.2872429999988526ms
+2025-04-30 10:02:06.827 [info] Uploaded file App.vue modelVersion=4 in 169.23528900000383ms
+2025-04-30 10:02:06.827 [info] Handled visible editors change in 400.00865600000543ms
+2025-04-30 10:03:07.278 [info] Uploaded file index.html modelVersion=4 in 385.4825830000045ms
+2025-04-30 10:03:07.284 [info] Uploaded file index.html modelVersion=2 in 402.79153599997517ms
+2025-04-30 10:03:07.285 [info] Uploaded file index.html modelVersion=2 in 447.9882600000128ms
+2025-04-30 10:03:07.285 [info] Uploaded file index.html modelVersion=4 in 394.31056800001534ms
+2025-04-30 10:03:12.106 [info] Uploaded file package.json modelVersion=2 in 139.80206499999622ms
+2025-04-30 10:03:12.107 [info] Uploaded file package.json modelVersion=2 in 138.3074300000153ms
+2025-04-30 10:03:12.134 [info] Uploaded file package.json modelVersion=4 in 142.8955310000165ms
+2025-04-30 10:03:12.136 [info] Uploaded file package.json modelVersion=4 in 141.23057499999413ms
+2025-04-30 10:03:46.044 [error] Failed to check if file sync is enabled for user {}
+2025-04-30 10:03:46.044 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 10:03:46.044 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 10:03:46.284 [info] [registerEventListeners] Registering event listeners
+2025-04-30 10:03:47.413 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:03:47.481 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:03:47.851 [info] Fetched fsConfig in 436.71908299999996ms
+2025-04-30 10:03:47.851 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:03:47.852 [info] Fetched fsConfig in 371.4648830000001ms
+2025-04-30 10:03:47.852 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:03:47.852 [info] File sync enabled status: true
+2025-04-30 10:03:47.852 [info] Starting sync of visible tabs
+2025-04-30 10:03:47.852 [info] Synced all visible tabs in 0.06613500000003114ms
+2025-04-30 10:03:48.338 [info] Starting sync of visible tabs
+2025-04-30 10:03:48.338 [info] Synced all visible tabs in 0.2756310000004305ms
+2025-04-30 10:03:48.481 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:03:48.631 [info] Fetched fsConfig in 149.60817700000007ms
+2025-04-30 10:03:48.631 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:04:36.474 [error] Failed to check if file sync is enabled for user {}
+2025-04-30 10:04:36.474 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 10:04:36.474 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 10:04:36.554 [info] [registerEventListeners] Registering event listeners
+2025-04-30 10:04:37.695 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:04:37.842 [info] Fetched fsConfig in 145.97593300000062ms
+2025-04-30 10:04:37.842 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:04:37.890 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:04:38.310 [info] Fetched fsConfig in 419.8522670000002ms
+2025-04-30 10:04:38.310 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:04:38.310 [info] File sync enabled status: true
+2025-04-30 10:04:38.310 [info] Starting sync of visible tabs
+2025-04-30 10:04:38.310 [info] Synced all visible tabs in 0.13035599999966507ms
+2025-04-30 10:04:38.748 [info] Starting sync of visible tabs
+2025-04-30 10:04:38.748 [info] Synced all visible tabs in 0.26108299999941664ms
+2025-04-30 10:04:38.886 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:04:39.033 [info] Fetched fsConfig in 146.61040200000025ms
+2025-04-30 10:04:39.033 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:06:55.333 [info] Uploaded file tailwind.config.js modelVersion=2 in 386.0834990000003ms
+2025-04-30 10:06:55.334 [info] Uploaded file tailwind.config.js modelVersion=4 in 376.9497080000001ms
+2025-04-30 10:06:55.335 [info] Uploaded file tailwind.config.js modelVersion=4 in 375.4818120000127ms
+2025-04-30 10:06:55.336 [info] Uploaded file tailwind.config.js modelVersion=2 in 428.36661200001254ms
+2025-04-30 10:06:56.119 [info] Uploaded file tailwind.config.js modelVersion=4 in 157.98241999998572ms
+2025-04-30 10:06:56.119 [info] Handled visible editors change in 373.30779099999927ms
+2025-04-30 10:06:56.406 [info] Synced file tailwind.config.js modelVersion=4 in 140.85847999999532ms
+2025-04-30 10:06:59.890 [info] Uploaded file src/assets/index.css modelVersion=2 in 154.8539349999919ms
+2025-04-30 10:06:59.892 [info] Uploaded file src/assets/index.css modelVersion=2 in 153.8855029999977ms
+2025-04-30 10:06:59.905 [info] Uploaded file src/assets/index.css modelVersion=4 in 139.90604000000167ms
+2025-04-30 10:06:59.906 [info] Uploaded file src/assets/index.css modelVersion=4 in 137.87305500000366ms
+2025-04-30 10:07:04.467 [info] Uploaded file src/main.js modelVersion=2 in 139.56348199999775ms
+2025-04-30 10:07:04.468 [info] Uploaded file src/main.js modelVersion=2 in 137.83270900000934ms
+2025-04-30 10:07:18.073 [info] Uploaded file src/App.vue modelVersion=3 in 354.5648499999952ms
+2025-04-30 10:07:18.074 [info] Uploaded file src/App.vue modelVersion=3 in 352.7937310000125ms
+2025-04-30 10:07:18.075 [info] Uploaded file src/App.vue modelVersion=3 in 345.90263000002597ms
+2025-04-30 10:07:27.710 [info] Handled visible editors change in 0.4945749999897089ms
+2025-04-30 10:07:56.187 [info] Uploaded file src/main.js modelVersion=1 in 158.98334099998465ms
+2025-04-30 10:07:56.188 [info] Handled visible editors change in 233.42918000000645ms
+2025-04-30 10:08:07.936 [info] Uploaded file postcss.config.js modelVersion=2 in 151.04524700000184ms
+2025-04-30 10:08:07.937 [info] Uploaded file postcss.config.js modelVersion=2 in 150.30824399998528ms
+2025-04-30 10:08:07.958 [info] Uploaded file postcss.config.js modelVersion=4 in 150.74654200000805ms
+2025-04-30 10:08:07.959 [info] Uploaded file postcss.config.js modelVersion=4 in 149.5711200000078ms
+2025-04-30 10:08:14.635 [info] Synced file tailwind.config.js modelVersion=5 in 142.64134100000956ms
+2025-04-30 10:08:23.887 [info] Handled visible editors change in 0.41295999998692423ms
+2025-04-30 10:08:55.388 [info] Uploaded file postcss.config.js modelVersion=2 in 138.9176429999643ms
+2025-04-30 10:08:55.390 [info] Uploaded file postcss.config.js modelVersion=2 in 144.0711640000227ms
+2025-04-30 10:11:03.614 [warning] Failed to sync changes for postcss.config.js, version=3, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 74, but expected size is: 82
+2025-04-30 10:11:03.776 [warning] Failed to sync changes for postcss.config.js, version=3, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 74, but expected size is: 82
+2025-04-30 10:11:03.959 [warning] Failed to sync changes for postcss.config.js, version=3, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 74, but expected size is: 82
+2025-04-30 10:11:03.959 [error] Failed to sync changes for postcss.config.js, version=3, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 74, but expected size is: 82
+2025-04-30 10:11:04.094 [info] Uploaded file postcss.config.js modelVersion=3 in 134.91635000001406ms
+2025-04-30 10:11:04.144 [info] Synced file postcss.config.js modelVersion=3 in 139.42926000000443ms
+2025-04-30 10:11:11.110 [info] Uploaded file tailwind.config.js modelVersion=2 in 141.051485999953ms
+2025-04-30 10:11:11.111 [info] Uploaded file tailwind.config.js modelVersion=2 in 144.85942499997327ms
+2025-04-30 10:11:52.259 [info] Uploaded file tailwind.config.js modelVersion=1 in 148.9090590000269ms
+2025-04-30 10:11:52.260 [info] Handled visible editors change in 211.47013200004585ms
+2025-04-30 10:11:53.382 [info] Handled visible editors change in 0.5965579999610782ms
+2025-04-30 10:11:53.629 [info] Uploaded file postcss.config.js modelVersion=1 in 155.83816699997988ms
+2025-04-30 10:11:53.629 [info] Handled visible editors change in 201.4553629999864ms
+2025-04-30 10:11:54.030 [info] Handled visible editors change in 0.7774290000088513ms
+2025-04-30 10:11:59.061 [info] Uploaded file package.json modelVersion=1 in 139.95997299999ms
+2025-04-30 10:11:59.061 [info] Handled visible editors change in 190.0027649999829ms
+2025-04-30 10:12:25.860 [info] Synced file postcss.config.js modelVersion=2 in 154.1310199999716ms
+2025-04-30 10:12:26.357 [info] Synced file postcss.config.js modelVersion=3 in 232.79823700000998ms
+2025-04-30 10:12:26.860 [info] Synced file postcss.config.js modelVersion=3 in 293.8437569999951ms
+2025-04-30 10:12:33.852 [info] Synced file tailwind.config.js modelVersion=2 in 140.81649200001266ms
+2025-04-30 10:13:04.601 [info] Handled visible editors change in 0.5204640000010841ms
+2025-04-30 10:13:04.877 [info] Uploaded file tailwind.config.js modelVersion=1 in 139.86562499997672ms
+2025-04-30 10:13:04.877 [info] Handled visible editors change in 210.30108300002757ms
+2025-04-30 10:13:05.692 [info] Handled visible editors change in 0.5796250000130385ms
+2025-04-30 10:13:05.960 [info] Uploaded file postcss.config.js modelVersion=1 in 154.4466160000302ms
+2025-04-30 10:13:05.960 [info] Handled visible editors change in 214.60779300000286ms
+2025-04-30 10:13:06.270 [info] Handled visible editors change in 0.44403900002362207ms
+2025-04-30 10:15:02.162 [info] Uploaded file src/App.vue modelVersion=2 in 445.73704599996563ms
+2025-04-30 10:15:02.163 [info] Uploaded file src/App.vue modelVersion=2 in 443.34110600000713ms
+2025-04-30 10:16:39.680 [warning] Failed to sync changes for src/App.vue, version=3, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:39.692 [warning] Failed to sync changes for src/App.vue, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:39.843 [warning] Failed to sync changes for src/App.vue, version=3, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:39.852 [warning] Failed to sync changes for src/App.vue, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:40.024 [warning] Failed to sync changes for src/App.vue, version=3, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:40.025 [error] Failed to sync changes for src/App.vue, version=3, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:40.034 [warning] Failed to sync changes for src/App.vue, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:40.034 [error] Failed to sync changes for src/App.vue, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:40.044 [warning] Failed to sync changes for src/App.vue, version=5, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3757, but expected size is: 3787
+2025-04-30 10:16:40.160 [info] Uploaded file src/App.vue modelVersion=5 in 135.79939699999522ms
+2025-04-30 10:16:40.180 [info] Uploaded file src/App.vue modelVersion=5 in 145.72700900002383ms
+2025-04-30 10:16:40.207 [info] Synced file src/App.vue modelVersion=5 in 142.12887500005309ms
+2025-04-30 10:16:40.373 [info] Synced file src/App.vue modelVersion=5 in 141.45717500010505ms
+2025-04-30 10:16:45.655 [info] Synced file tailwind.config.js modelVersion=2 in 140.75500699994154ms
+2025-04-30 10:17:50.464 [info] Synced file src/App.vue modelVersion=6 in 404.2941929999506ms
+2025-04-30 10:17:50.526 [info] Synced file src/App.vue modelVersion=6 in 139.7052820000099ms
+2025-04-30 10:19:00.812 [info] Uploaded file src/App.vue modelVersion=2 in 450.9542870000005ms
+2025-04-30 10:19:00.814 [info] Uploaded file src/App.vue modelVersion=2 in 450.25099800003227ms
+2025-04-30 10:19:00.883 [info] Uploaded file src/App.vue modelVersion=2 in 143.73818799993023ms
+2025-04-30 10:19:00.884 [info] Uploaded file src/App.vue modelVersion=2 in 146.94281700009014ms
+2025-04-30 10:28:12.163 [info] Uploaded file src/Landing.vue modelVersion=2 in 434.91077200020663ms
+2025-04-30 10:28:12.165 [info] Uploaded file src/Landing.vue modelVersion=4 in 421.2580180000514ms
+2025-04-30 10:28:12.165 [info] Uploaded file src/Landing.vue modelVersion=2 in 474.21366600017063ms
+2025-04-30 10:28:12.166 [info] Uploaded file src/Landing.vue modelVersion=4 in 423.7285189998802ms
+2025-04-30 10:28:46.452 [info] Uploaded file src/router.js modelVersion=2 in 144.41170200007036ms
+2025-04-30 10:28:46.453 [info] Uploaded file src/router.js modelVersion=2 in 143.50881400005892ms
+2025-04-30 10:28:46.461 [info] Uploaded file src/router.js modelVersion=4 in 136.88736400008202ms
+2025-04-30 10:28:46.462 [info] Uploaded file src/router.js modelVersion=4 in 134.94550300017ms
+2025-04-30 10:28:54.820 [info] Uploaded file src/main.js modelVersion=3 in 140.10256400005892ms
+2025-04-30 10:28:54.821 [info] Uploaded file src/main.js modelVersion=3 in 138.95905100018717ms
+2025-04-30 10:28:54.826 [info] Uploaded file src/main.js modelVersion=3 in 138.16932799993083ms
+2025-04-30 10:29:01.749 [info] Uploaded file src/App.vue modelVersion=2 in 140.68828100012615ms
+2025-04-30 10:29:01.750 [info] Uploaded file src/App.vue modelVersion=2 in 140.08302700007334ms
+2025-04-30 10:29:01.814 [info] Uploaded file src/App.vue modelVersion=4 in 138.21092700003646ms
+2025-04-30 10:29:01.815 [info] Uploaded file src/App.vue modelVersion=4 in 136.83883200003766ms
+2025-04-30 10:29:42.964 [info] Uploaded file src/router.js modelVersion=1 in 144.89385299989954ms
+2025-04-30 10:29:42.964 [info] Handled visible editors change in 293.30646900017746ms
+2025-04-30 10:29:55.567 [info] Handled visible editors change in 0.6000040001235902ms
+2025-04-30 10:29:55.687 [info] Handled visible editors change in 0.2608730001375079ms
+2025-04-30 10:29:55.695 [info] Handled visible editors change in 0.6958159999921918ms
+2025-04-30 10:30:30.357 [info] Handled visible editors change in 0.4453920000232756ms
+2025-04-30 10:30:30.368 [info] Handled visible editors change in 0.6448200000450015ms
+2025-04-30 10:30:30.444 [info] Handled visible editors change in 1.3668149998411536ms
+2025-04-30 10:30:32.284 [info] Handled visible editors change in 0.45996000012382865ms
+2025-04-30 10:30:33.421 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:30:33.564 [info] Fetched fsConfig in 142.47378699993715ms
+2025-04-30 10:30:33.564 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:30:33.565 [info] File sync enabled status: true
+2025-04-30 10:30:33.565 [info] Starting sync of visible tabs
+2025-04-30 10:30:33.565 [info] Synced all visible tabs in 0.10551899997517467ms
+2025-04-30 10:31:43.145 [info] Uploaded file src/components/LandingPage.vue modelVersion=1 in 465.57989100017585ms
+2025-04-30 10:31:43.145 [info] Handled visible editors change in 515.953317000065ms
+2025-04-30 10:31:50.869 [info] Synced file src/components/LandingPage.vue modelVersion=3 in 186.05013999994844ms
+2025-04-30 10:31:51.282 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:31:51.422 [info] Fetched fsConfig in 139.66644899989478ms
+2025-04-30 10:31:51.422 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:31:51.422 [info] File sync enabled status: true
+2025-04-30 10:31:51.422 [info] Starting sync of visible tabs
+2025-04-30 10:31:51.422 [info] Synced all visible tabs in 0.26328800013288856ms
+2025-04-30 10:32:24.570 [info] Handled visible editors change in 0.5210359999909997ms
+2025-04-30 10:32:24.846 [info] Uploaded file router/index.js modelVersion=1 in 177.86013499996625ms
+2025-04-30 10:32:24.846 [info] Handled visible editors change in 238.85341000021435ms
+2025-04-30 10:32:35.898 [info] Handled visible editors change in 0.521496000001207ms
+2025-04-30 10:32:36.159 [info] Uploaded file src/router/index.js modelVersion=1 in 136.75033499998972ms
+2025-04-30 10:32:36.159 [info] Handled visible editors change in 185.63126900000498ms
+2025-04-30 10:32:44.367 [info] Synced file src/router/index.js modelVersion=2 in 138.52037200005725ms
+2025-04-30 10:33:07.041 [info] Handled visible editors change in 0.3495710000861436ms
+2025-04-30 10:33:07.315 [info] Uploaded file src/main.js modelVersion=1 in 169.97845299984328ms
+2025-04-30 10:33:07.315 [info] Handled visible editors change in 241.63875599997118ms
+2025-04-30 10:33:08.297 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:33:08.541 [info] Fetched fsConfig in 244.12877500010654ms
+2025-04-30 10:33:08.541 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:33:08.542 [info] File sync enabled status: true
+2025-04-30 10:33:08.542 [info] Starting sync of visible tabs
+2025-04-30 10:33:08.542 [info] Synced all visible tabs in 0.15282900002785027ms
+2025-04-30 10:33:09.278 [info] Synced file src/main.js modelVersion=2 in 281.11433700006455ms
+2025-04-30 10:33:09.762 [info] Synced file src/main.js modelVersion=2 in 288.46080700005405ms
+2025-04-30 10:33:16.788 [info] Handled visible editors change in 0.4864899998065084ms
+2025-04-30 10:33:17.302 [info] Uploaded file src/App.vue modelVersion=1 in 142.54085400002077ms
+2025-04-30 10:33:17.302 [info] Handled visible editors change in 487.41520699998364ms
+2025-04-30 10:34:45.743 [info] Handled visible editors change in 0.3574359999038279ms
+2025-04-30 10:34:45.767 [info] Handled visible editors change in 0.9977160000707954ms
+2025-04-30 10:34:47.866 [info] Synced file src/router/index.js modelVersion=3 in 151.5011559999548ms
+2025-04-30 10:34:48.243 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:34:48.381 [info] Fetched fsConfig in 137.72484799986705ms
+2025-04-30 10:34:48.381 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:34:48.381 [info] File sync enabled status: true
+2025-04-30 10:34:48.381 [info] Starting sync of visible tabs
+2025-04-30 10:34:48.381 [info] Synced all visible tabs in 0.12708000000566244ms
+2025-04-30 10:35:00.417 [info] Handled visible editors change in 0.5521939999889582ms
+2025-04-30 10:35:00.451 [info] Handled visible editors change in 1.3014510001521558ms
+2025-04-30 10:35:02.605 [info] Synced file src/App.vue modelVersion=2 in 139.35750599997118ms
+2025-04-30 10:35:08.358 [info] Handled visible editors change in 0.42762900004163384ms
+2025-04-30 10:35:08.395 [info] Handled visible editors change in 1.0788499999325722ms
+2025-04-30 10:35:44.587 [info] Synced file src/components/LandingPage.vue modelVersion=4 in 139.8353800000623ms
+2025-04-30 10:35:45.593 [info] Synced file src/components/LandingPage.vue modelVersion=5 in 136.54333400004543ms
+2025-04-30 10:35:54.827 [info] Synced file src/components/LandingPage.vue modelVersion=6 in 142.17938099987805ms
+2025-04-30 10:35:55.212 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:35:55.353 [info] Fetched fsConfig in 141.3337220000103ms
+2025-04-30 10:35:55.354 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:35:55.354 [info] File sync enabled status: true
+2025-04-30 10:35:55.354 [info] Starting sync of visible tabs
+2025-04-30 10:35:55.354 [info] Synced all visible tabs in 0.10642199986614287ms
+2025-04-30 10:35:55.860 [info] Synced file src/components/LandingPage.vue modelVersion=7 in 143.091126000043ms
+2025-04-30 10:36:01.086 [info] Handled visible editors change in 0.5517929999623448ms
+2025-04-30 10:36:01.127 [info] Handled visible editors change in 1.6506910000462085ms
+2025-04-30 10:36:02.603 [info] Synced file src/App.vue modelVersion=3 in 145.6998779999558ms
+2025-04-30 10:39:01.135 [info] Handled visible editors change in 0.44623400014825165ms
+2025-04-30 10:39:01.233 [info] Handled visible editors change in 0.33931099995970726ms
+2025-04-30 10:39:01.243 [info] Handled visible editors change in 1.4013099998701364ms
+2025-04-30 10:39:05.819 [info] Uploaded file src/main.js modelVersion=3 in 436.60859499988146ms
+2025-04-30 10:45:49.664 [info] Handled visible editors change in 0.44581100018694997ms
+2025-04-30 10:45:50.239 [info] Uploaded file src/App.vue modelVersion=3 in 407.6119780000299ms
+2025-04-30 10:45:50.239 [info] Handled visible editors change in 551.5125579996966ms
+2025-04-30 10:45:50.240 [info] Uploaded file src/router/index.js modelVersion=3 in 436.47054399969056ms
+2025-04-30 10:45:50.240 [info] Handled visible editors change in 590.893972999882ms
+2025-04-30 10:46:03.686 [info] Synced file src/App.vue modelVersion=4 in 141.20051699969918ms
+2025-04-30 10:46:04.157 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:46:04.302 [info] Fetched fsConfig in 145.0869169998914ms
+2025-04-30 10:46:04.302 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:46:04.302 [info] File sync enabled status: true
+2025-04-30 10:46:04.302 [info] Starting sync of visible tabs
+2025-04-30 10:46:04.302 [info] Synced all visible tabs in 0.13157799979671836ms
+2025-04-30 10:46:15.502 [info] Handled visible editors change in 0.6484130001626909ms
+2025-04-30 10:46:15.796 [info] Uploaded file src/pages/LandingPage.vue modelVersion=1 in 171.63853200012818ms
+2025-04-30 10:46:15.796 [info] Handled visible editors change in 257.1127709997818ms
+2025-04-30 10:46:18.450 [info] Synced file src/pages/LandingPage.vue modelVersion=3 in 141.28664800012484ms
+2025-04-30 10:46:18.832 [info] Synced file src/pages/LandingPage.vue modelVersion=3 in 142.91603200044483ms
+2025-04-30 10:46:36.869 [info] Handled visible editors change in 0.32648600032553077ms
+2025-04-30 10:46:37.080 [info] Uploaded file src/router/index.js modelVersion=4 in 142.01834899978712ms
+2025-04-30 10:46:37.080 [info] Handled visible editors change in 187.86853599967435ms
+2025-04-30 10:46:37.311 [info] Synced file src/router/index.js modelVersion=4 in 142.0986709999852ms
+2025-04-30 10:46:40.247 [info] Synced file src/router/index.js modelVersion=5 in 138.6814350001514ms
+2025-04-30 10:46:40.614 [info] Synced file src/router/index.js modelVersion=5 in 138.27288400009274ms
+2025-04-30 10:46:46.867 [info] Handled visible editors change in 0.46718099992722273ms
+2025-04-30 10:46:47.083 [info] Uploaded file src/main.js modelVersion=3 in 141.80493699992076ms
+2025-04-30 10:46:47.083 [info] Handled visible editors change in 183.43568400014192ms
+2025-04-30 10:46:48.484 [info] Synced file src/main.js modelVersion=4 in 137.9064330002293ms
+2025-04-30 10:46:48.868 [info] Synced file src/main.js modelVersion=4 in 139.5303660002537ms
+2025-04-30 10:51:01.332 [info] Handled visible editors change in 0.3394519998691976ms
+2025-04-30 10:51:01.881 [info] Uploaded file src/composables/useTheme.js modelVersion=1 in 444.39423099998385ms
+2025-04-30 10:51:01.882 [info] Handled visible editors change in 508.9235660000704ms
+2025-04-30 10:51:02.565 [info] Synced file src/composables/useTheme.js modelVersion=2 in 155.07542400015518ms
+2025-04-30 10:51:02.920 [info] Synced file src/composables/useTheme.js modelVersion=2 in 143.1731889997609ms
+2025-04-30 10:51:02.956 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:51:03.107 [info] Fetched fsConfig in 150.55145899998024ms
+2025-04-30 10:51:03.107 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:51:03.108 [info] File sync enabled status: true
+2025-04-30 10:51:03.108 [info] Starting sync of visible tabs
+2025-04-30 10:51:03.108 [info] Synced all visible tabs in 0.1551830000244081ms
+2025-04-30 10:51:13.967 [info] Handled visible editors change in 0.3275399999693036ms
+2025-04-30 10:51:13.996 [info] Handled visible editors change in 3.2092679999768734ms
+2025-04-30 10:51:17.615 [info] Synced file src/pages/LandingPage.vue modelVersion=4 in 139.34760499978438ms
+2025-04-30 10:51:17.950 [info] Synced file src/pages/LandingPage.vue modelVersion=5 in 143.461323000025ms
+2025-04-30 10:51:20.291 [info] Synced file src/pages/LandingPage.vue modelVersion=7 in 138.98702300013974ms
+2025-04-30 10:51:20.821 [info] Synced file src/pages/LandingPage.vue modelVersion=10 in 137.83025499992073ms
+2025-04-30 10:51:21.085 [info] Synced file src/pages/LandingPage.vue modelVersion=11 in 140.76467400044203ms
+2025-04-30 10:51:41.243 [info] Synced file src/pages/LandingPage.vue modelVersion=12 in 150.26632000040263ms
+2025-04-30 10:51:47.707 [info] Synced file src/pages/LandingPage.vue modelVersion=13 in 140.23619599966332ms
+2025-04-30 10:52:12.231 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:52:12.371 [info] Fetched fsConfig in 140.17753400001675ms
+2025-04-30 10:52:12.371 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:52:12.371 [info] File sync enabled status: true
+2025-04-30 10:52:12.371 [info] Starting sync of visible tabs
+2025-04-30 10:52:12.371 [info] Synced all visible tabs in 0.1619959999807179ms
+2025-04-30 10:52:15.135 [info] Synced file src/pages/LandingPage.vue modelVersion=14 in 131.6696260003373ms
+2025-04-30 10:52:15.463 [info] Synced file src/pages/LandingPage.vue modelVersion=15 in 136.90234099980444ms
+2025-04-30 10:52:45.139 [info] Handled visible editors change in 0.6435270002111793ms
+2025-04-30 10:52:45.161 [info] Handled visible editors change in 1.2122219996526837ms
+2025-04-30 10:53:09.583 [info] Handled visible editors change in 0.39063800033181906ms
+2025-04-30 10:53:09.861 [info] Uploaded file src/components/LandingPage.vue modelVersion=7 in 180.324345999863ms
+2025-04-30 10:53:09.861 [info] Handled visible editors change in 237.69326100032777ms
+2025-04-30 10:53:12.433 [info] Handled visible editors change in 0.48933500004932284ms
+2025-04-30 10:53:12.470 [info] Handled visible editors change in 1.3574169999919832ms
+2025-04-30 10:53:13.372 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:53:13.510 [info] Fetched fsConfig in 138.532434000168ms
+2025-04-30 10:53:13.510 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:53:13.511 [info] File sync enabled status: true
+2025-04-30 10:53:13.511 [info] Starting sync of visible tabs
+2025-04-30 10:53:13.511 [info] Synced all visible tabs in 0.1706819999963045ms
+2025-04-30 10:53:16.809 [info] Synced file src/pages/LandingPage.vue modelVersion=16 in 153.53977000014856ms
+2025-04-30 10:53:17.532 [info] Synced file src/pages/LandingPage.vue modelVersion=17 in 139.68376100016758ms
+2025-04-30 10:53:18.687 [info] Synced file src/pages/LandingPage.vue modelVersion=18 in 138.94315999979153ms
+2025-04-30 10:53:18.989 [info] Synced file src/pages/LandingPage.vue modelVersion=18 in 137.7313389996998ms
+2025-04-30 10:54:52.371 [info] Handled visible editors change in 0.44545200001448393ms
+2025-04-30 10:54:52.423 [info] Handled visible editors change in 1.3520269999280572ms
+2025-04-30 10:55:07.577 [info] Handled visible editors change in 0.6019979999400675ms
+2025-04-30 10:55:08.179 [info] Uploaded file src/components/ThemeToggle.vue modelVersion=1 in 439.4933739998378ms
+2025-04-30 10:55:08.179 [info] Handled visible editors change in 492.9115499998443ms
+2025-04-30 10:55:10.981 [info] Synced file src/components/ThemeToggle.vue modelVersion=3 in 144.60955400019884ms
+2025-04-30 10:55:11.300 [info] Synced file src/components/ThemeToggle.vue modelVersion=3 in 143.53486200002953ms
+2025-04-30 10:55:11.408 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:55:11.556 [info] Fetched fsConfig in 147.88038899982348ms
+2025-04-30 10:55:11.556 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:55:11.556 [info] File sync enabled status: true
+2025-04-30 10:55:11.556 [info] Starting sync of visible tabs
+2025-04-30 10:55:11.556 [info] Synced all visible tabs in 0.07435100013390183ms
+2025-04-30 10:55:18.913 [info] Handled visible editors change in 0.5145829999819398ms
+2025-04-30 10:55:18.954 [info] Handled visible editors change in 1.0791999995708466ms
+2025-04-30 10:55:33.506 [info] Synced file src/pages/LandingPage.vue modelVersion=19 in 141.66364399995655ms
+2025-04-30 10:55:33.801 [info] Synced file src/pages/LandingPage.vue modelVersion=20 in 143.3382500000298ms
+2025-04-30 10:55:45.182 [info] Synced file src/pages/LandingPage.vue modelVersion=21 in 153.53383899992332ms
+2025-04-30 10:55:55.444 [info] Synced file src/pages/LandingPage.vue modelVersion=22 in 137.48726699966937ms
+2025-04-30 10:55:57.098 [info] Synced file src/pages/LandingPage.vue modelVersion=28 in 141.0895690000616ms
+2025-04-30 10:55:59.029 [info] Synced file src/pages/LandingPage.vue modelVersion=31 in 141.65860500000417ms
+2025-04-30 10:56:00.214 [info] Synced file src/pages/LandingPage.vue modelVersion=35 in 137.87276599975303ms
+2025-04-30 10:56:00.908 [info] Synced file src/pages/LandingPage.vue modelVersion=38 in 143.071145999711ms
+2025-04-30 10:56:01.741 [info] Synced file src/pages/LandingPage.vue modelVersion=39 in 142.91070199990645ms
+2025-04-30 10:56:08.833 [info] Synced file src/pages/LandingPage.vue modelVersion=40 in 145.4618659997359ms
+2025-04-30 10:56:24.121 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:56:24.261 [info] Fetched fsConfig in 140.28614900028333ms
+2025-04-30 10:56:24.262 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:56:24.262 [info] File sync enabled status: true
+2025-04-30 10:56:24.262 [info] Starting sync of visible tabs
+2025-04-30 10:56:24.399 [info] Uploaded file src/pages/LandingPage.vue modelVersion=41 in 135.5741500002332ms
+2025-04-30 10:56:24.399 [info] Synced all visible tabs in 137.20857999986038ms
+2025-04-30 10:56:24.616 [info] Synced file src/pages/LandingPage.vue modelVersion=41 in 138.7877360000275ms
+2025-04-30 10:56:26.100 [info] Synced file src/pages/LandingPage.vue modelVersion=42 in 134.781089999713ms
+2025-04-30 10:56:34.638 [info] Handled visible editors change in 0.724049000069499ms
+2025-04-30 10:56:34.662 [info] Handled visible editors change in 0.8274040003307164ms
+2025-04-30 10:56:41.963 [info] Synced file src/components/ThemeToggle.vue modelVersion=4 in 141.0912520000711ms
+2025-04-30 10:56:55.008 [info] Handled visible editors change in 0.691376999951899ms
+2025-04-30 10:57:03.895 [info] Handled visible editors change in 1.1287139998748899ms
+2025-04-30 10:58:06.056 [info] Synced file src/pages/LandingPage.vue modelVersion=44 in 145.87487700022757ms
+2025-04-30 10:58:06.507 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:58:06.649 [info] Fetched fsConfig in 141.45949799986556ms
+2025-04-30 10:58:06.649 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:58:06.649 [info] File sync enabled status: true
+2025-04-30 10:58:06.649 [info] Starting sync of visible tabs
+2025-04-30 10:58:06.649 [info] Synced all visible tabs in 0.14893099991604686ms
+2025-04-30 10:58:21.198 [info] Handled visible editors change in 0.34791800007224083ms
+2025-04-30 10:58:21.223 [info] Handled visible editors change in 1.0015830001793802ms
+2025-04-30 10:59:21.631 [info] Synced file src/components/ThemeToggle.vue modelVersion=6 in 141.46496300026774ms
+2025-04-30 10:59:22.074 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:59:22.215 [info] Fetched fsConfig in 141.22997800027952ms
+2025-04-30 10:59:22.215 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:59:22.216 [info] File sync enabled status: true
+2025-04-30 10:59:22.216 [info] Starting sync of visible tabs
+2025-04-30 10:59:22.216 [info] Synced all visible tabs in 0.14828099962323904ms
+2025-04-30 10:59:35.310 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 10:59:35.456 [info] Fetched fsConfig in 145.521288999822ms
+2025-04-30 10:59:35.456 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 10:59:35.456 [info] File sync enabled status: true
+2025-04-30 10:59:35.456 [info] Starting sync of visible tabs
+2025-04-30 10:59:35.456 [info] Synced all visible tabs in 0.15466299979016185ms
+2025-04-30 11:00:04.929 [info] Synced file src/components/ThemeToggle.vue modelVersion=7 in 155.7691000001505ms
+2025-04-30 11:00:05.179 [info] Synced file src/components/ThemeToggle.vue modelVersion=8 in 139.65119099989533ms
+2025-04-30 11:00:06.973 [info] Synced file src/components/ThemeToggle.vue modelVersion=9 in 136.72185799991712ms
+2025-04-30 11:02:09.258 [info] Handled visible editors change in 0.49988600006327033ms
+2025-04-30 11:02:09.432 [info] Handled visible editors change in 0.33993300003930926ms
+2025-04-30 11:02:10.086 [info] Uploaded file src/App.vue modelVersion=4 in 443.74915200006217ms
+2025-04-30 11:02:10.086 [info] Handled visible editors change in 635.4852689998224ms
+2025-04-30 11:02:44.497 [info] Handled visible editors change in 1.1717469999566674ms
+2025-04-30 11:02:44.505 [info] Handled visible editors change in 0.4962390000000596ms
+2025-04-30 11:02:44.539 [info] Handled visible editors change in 1.1268829996697605ms
+2025-04-30 11:02:52.905 [info] Synced file src/components/ThemeToggle.vue modelVersion=10 in 139.90133400028571ms
+2025-04-30 11:02:53.291 [info] Synced file src/components/ThemeToggle.vue modelVersion=10 in 143.42634399980307ms
+2025-04-30 11:02:53.321 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 11:02:53.463 [info] Fetched fsConfig in 141.69425699999556ms
+2025-04-30 11:02:53.463 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 11:02:53.463 [info] File sync enabled status: true
+2025-04-30 11:02:53.463 [info] Starting sync of visible tabs
+2025-04-30 11:02:53.463 [info] Synced all visible tabs in 0.14604599960148335ms
+2025-04-30 11:03:07.212 [info] Synced file src/components/ThemeToggle.vue modelVersion=15 in 138.7749930000864ms
+2025-04-30 11:03:09.250 [info] Synced file src/components/ThemeToggle.vue modelVersion=22 in 144.33931200020015ms
+2025-04-30 11:03:11.516 [info] Synced file src/components/ThemeToggle.vue modelVersion=30 in 143.72960800025612ms
+2025-04-30 11:03:12.694 [info] Synced file src/components/ThemeToggle.vue modelVersion=36 in 158.53536399966106ms
+2025-04-30 11:03:13.154 [info] Synced file src/components/ThemeToggle.vue modelVersion=38 in 139.6866080001928ms
+2025-04-30 11:03:13.905 [info] Synced file src/components/ThemeToggle.vue modelVersion=41 in 140.7307139998302ms
+2025-04-30 11:03:14.154 [info] Synced file src/components/ThemeToggle.vue modelVersion=42 in 137.32077200012282ms
+2025-04-30 11:03:14.749 [info] Synced file src/components/ThemeToggle.vue modelVersion=45 in 144.15523400017992ms
+2025-04-30 11:03:15.242 [info] Synced file src/components/ThemeToggle.vue modelVersion=46 in 146.12839699955657ms
+2025-04-30 11:03:15.816 [info] Synced file src/components/ThemeToggle.vue modelVersion=47 in 138.30309000005946ms
+2025-04-30 11:03:21.850 [info] Synced file src/components/ThemeToggle.vue modelVersion=48 in 142.4387960000895ms
+2025-04-30 11:03:42.754 [info] Handled visible editors change in 0.4968820000067353ms
+2025-04-30 11:03:43.065 [info] Uploaded file src/pages/LandingPage.vue modelVersion=44 in 147.0624020001851ms
+2025-04-30 11:03:43.066 [info] Handled visible editors change in 271.25394999980927ms
+2025-04-30 11:03:49.038 [info] Handled visible editors change in 0.4997180001810193ms
+2025-04-30 11:03:49.080 [info] Handled visible editors change in 1.1394909997470677ms
+2025-04-30 11:03:56.304 [info] Handled visible editors change in 0.5606429995968938ms
+2025-04-30 11:03:56.619 [info] Uploaded file src/pages/AppView.vue modelVersion=1 in 166.20876300008968ms
+2025-04-30 11:03:56.619 [info] Handled visible editors change in 239.6090049999766ms
+2025-04-30 11:03:57.359 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 11:03:57.502 [info] Fetched fsConfig in 142.70744200004265ms
+2025-04-30 11:03:57.502 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 11:03:57.502 [info] File sync enabled status: true
+2025-04-30 11:03:57.502 [info] Starting sync of visible tabs
+2025-04-30 11:03:57.502 [info] Synced all visible tabs in 0.16378999967128038ms
+2025-04-30 11:04:06.119 [info] Synced file src/pages/AppView.vue modelVersion=2 in 241.0215349998325ms
+2025-04-30 11:04:06.621 [info] Synced file src/pages/AppView.vue modelVersion=3 in 296.91898299986497ms
+2025-04-30 11:04:06.872 [info] Synced file src/pages/AppView.vue modelVersion=4 in 286.6368829999119ms
+2025-04-30 11:04:18.425 [info] Handled visible editors change in 0.42547699995338917ms
+2025-04-30 11:04:18.453 [info] Handled visible editors change in 1.3988830000162125ms
+2025-04-30 11:04:24.912 [info] Handled visible editors change in 0.43208999978378415ms
+2025-04-30 11:04:24.937 [info] Handled visible editors change in 1.0941550000570714ms
+2025-04-30 11:04:29.039 [info] Synced file src/pages/AppView.vue modelVersion=5 in 136.1300789997913ms
+2025-04-30 11:04:29.393 [info] Synced file src/pages/AppView.vue modelVersion=7 in 140.66391699993983ms
+2025-04-30 11:04:31.263 [info] Handled visible editors change in 0.4761429997161031ms
+2025-04-30 11:04:31.295 [info] Handled visible editors change in 1.1006979998201132ms
+2025-04-30 11:04:34.920 [info] Handled visible editors change in 0.42819200037047267ms
+2025-04-30 11:04:34.941 [info] Handled visible editors change in 0.8538989997468889ms
+2025-04-30 11:04:37.186 [info] Synced file src/pages/AppView.vue modelVersion=8 in 142.23215199960396ms
+2025-04-30 11:04:41.610 [info] Synced file src/pages/AppView.vue modelVersion=10 in 141.2237390000373ms
+2025-04-30 11:04:42.110 [info] Synced file src/pages/AppView.vue modelVersion=12 in 138.03119400003925ms
+2025-04-30 11:04:57.232 [info] Synced file src/pages/AppView.vue modelVersion=13 in 139.70449799997732ms
+2025-04-30 11:05:00.154 [info] Synced file src/pages/AppView.vue modelVersion=14 in 139.18338999990374ms
+2025-04-30 11:05:12.722 [info] Synced file src/pages/AppView.vue modelVersion=15 in 138.20299999974668ms
+2025-04-30 11:05:13.235 [info] Synced file src/pages/AppView.vue modelVersion=16 in 140.26628300035372ms
+2025-04-30 11:05:35.270 [info] Synced file src/pages/AppView.vue modelVersion=17 in 141.4802459999919ms
+2025-04-30 16:55:08.307 [error] Failed to check if file sync is enabled for user {}
+2025-04-30 16:55:08.307 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 16:55:08.307 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 16:55:08.549 [info] [registerEventListeners] Registering event listeners
+2025-04-30 16:55:09.658 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 16:55:09.697 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 16:55:10.082 [info] Fetched fsConfig in 423.1224910000001ms
+2025-04-30 16:55:10.082 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 16:55:10.083 [info] Fetched fsConfig in 386.2695389999999ms
+2025-04-30 16:55:10.083 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 16:55:10.084 [info] File sync enabled status: true
+2025-04-30 16:55:10.084 [info] Starting sync of visible tabs
+2025-04-30 16:55:10.084 [info] Synced all visible tabs in 0.06731799999988652ms
+2025-04-30 16:55:10.557 [info] Starting sync of visible tabs
+2025-04-30 16:55:10.557 [info] Synced all visible tabs in 0.26103299999977025ms
+2025-04-30 16:55:10.719 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 16:55:10.869 [info] Fetched fsConfig in 148.9351430000006ms
+2025-04-30 16:55:10.869 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 16:56:26.730 [error] Failed to check if file sync is enabled for user {}
+2025-04-30 16:56:26.730 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 16:56:26.730 [error] Failed to fetch fsConfig File sync is disabled
+2025-04-30 16:56:26.969 [info] [registerEventListeners] Registering event listeners
+2025-04-30 16:56:28.071 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 16:56:28.182 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 16:56:28.490 [info] Fetched fsConfig in 307.2519339999999ms
+2025-04-30 16:56:28.490 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 16:56:28.490 [info] File sync enabled status: true
+2025-04-30 16:56:28.490 [info] Starting sync of visible tabs
+2025-04-30 16:56:28.490 [info] Synced all visible tabs in 0.06655499999988024ms
+2025-04-30 16:56:28.492 [info] Fetched fsConfig in 420.328121ms
+2025-04-30 16:56:28.492 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 16:56:29.049 [info] Starting sync of visible tabs
+2025-04-30 16:56:29.049 [info] Synced all visible tabs in 0.29841399999986606ms
+2025-04-30 16:56:29.192 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 16:56:29.333 [info] Fetched fsConfig in 141.5583719999995ms
+2025-04-30 16:56:29.333 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 17:03:34.282 [info] Uploaded file package.json modelVersion=4 in 395.96329899999546ms
+2025-04-30 17:03:34.283 [info] Uploaded file package.json modelVersion=2 in 411.6031569999759ms
+2025-04-30 17:03:34.284 [info] Uploaded file package.json modelVersion=4 in 395.8448250000365ms
+2025-04-30 17:03:34.362 [info] Uploaded file package.json modelVersion=2 in 536.6958689999883ms
+2025-04-30 17:03:34.941 [info] Uploaded file package.json modelVersion=4 in 140.77630299999146ms
+2025-04-30 17:03:34.942 [info] Handled visible editors change in 265.942584000004ms
+2025-04-30 17:03:35.237 [info] Synced file package.json modelVersion=4 in 140.29404200002318ms
+2025-04-30 17:03:40.611 [info] Uploaded file tsconfig.json modelVersion=2 in 140.9212660000194ms
+2025-04-30 17:03:40.612 [info] Uploaded file tsconfig.json modelVersion=2 in 138.77906800003257ms
+2025-04-30 17:03:40.657 [info] Uploaded file tsconfig.json modelVersion=4 in 139.60413699998753ms
+2025-04-30 17:03:40.658 [info] Uploaded file tsconfig.json modelVersion=4 in 138.39613499998813ms
+2025-04-30 17:03:46.259 [info] Uploaded file tsconfig.node.json modelVersion=2 in 140.83536500000628ms
+2025-04-30 17:03:46.260 [info] Uploaded file tsconfig.node.json modelVersion=2 in 139.0190119999461ms
+2025-04-30 17:03:46.326 [info] Uploaded file tsconfig.node.json modelVersion=4 in 140.65949200000614ms
+2025-04-30 17:03:46.328 [info] Uploaded file tsconfig.node.json modelVersion=4 in 144.25602999998955ms
+2025-04-30 17:03:52.899 [info] Uploaded file vite.config.ts modelVersion=2 in 137.6887670000433ms
+2025-04-30 17:03:52.901 [info] Uploaded file vite.config.ts modelVersion=2 in 135.4497459999984ms
+2025-04-30 17:03:52.980 [info] Uploaded file vite.config.ts modelVersion=4 in 134.59490999998525ms
+2025-04-30 17:03:52.981 [info] Uploaded file vite.config.ts modelVersion=4 in 138.75709700002335ms
+2025-04-30 17:03:59.773 [info] Uploaded file tailwind.config.js modelVersion=2 in 135.6841789999744ms
+2025-04-30 17:03:59.774 [info] Uploaded file tailwind.config.js modelVersion=2 in 140.12547299999278ms
+2025-04-30 17:03:59.841 [info] Uploaded file tailwind.config.js modelVersion=4 in 144.48235700000077ms
+2025-04-30 17:03:59.842 [info] Uploaded file tailwind.config.js modelVersion=4 in 141.97778399998788ms
+2025-04-30 17:04:04.263 [info] Uploaded file postcss.config.js modelVersion=2 in 140.986138999986ms
+2025-04-30 17:04:04.264 [info] Uploaded file postcss.config.js modelVersion=2 in 139.65287900000112ms
+2025-04-30 17:04:04.395 [info] Uploaded file postcss.config.js modelVersion=4 in 140.72548699995968ms
+2025-04-30 17:04:04.396 [info] Uploaded file postcss.config.js modelVersion=4 in 145.0524350000196ms
+2025-04-30 17:04:10.423 [info] Uploaded file src/main.ts modelVersion=4 in 140.1745060000103ms
+2025-04-30 17:04:10.424 [info] Uploaded file src/main.ts modelVersion=4 in 138.94444099999964ms
+2025-04-30 17:04:10.441 [info] Uploaded file src/main.ts modelVersion=4 in 140.12227700004587ms
+2025-04-30 17:04:10.442 [info] Uploaded file src/main.ts modelVersion=4 in 145.61316499998793ms
+2025-04-30 17:04:14.074 [info] Uploaded file src/App.vue modelVersion=2 in 140.87642200000118ms
+2025-04-30 17:04:14.075 [info] Uploaded file src/App.vue modelVersion=2 in 145.76307799998904ms
+2025-04-30 17:04:14.138 [info] Uploaded file src/App.vue modelVersion=4 in 139.665382999985ms
+2025-04-30 17:04:14.138 [info] Uploaded file src/App.vue modelVersion=4 in 138.7938660000218ms
+2025-04-30 17:04:18.829 [info] Uploaded file src/assets/main.css modelVersion=2 in 138.0554209999973ms
+2025-04-30 17:04:18.830 [info] Uploaded file src/assets/main.css modelVersion=2 in 140.6331830000272ms
+2025-04-30 17:04:18.868 [info] Uploaded file src/assets/main.css modelVersion=4 in 140.260037ms
+2025-04-30 17:04:18.869 [info] Uploaded file src/assets/main.css modelVersion=4 in 139.42056100000627ms
+2025-04-30 17:04:28.677 [info] Uploaded file src/stores/auth.ts modelVersion=2 in 158.7259469999699ms
+2025-04-30 17:04:28.678 [info] Uploaded file src/stores/auth.ts modelVersion=2 in 162.977733000007ms
+2025-04-30 17:04:28.710 [info] Uploaded file src/stores/auth.ts modelVersion=4 in 141.84145599999465ms
+2025-04-30 17:04:28.710 [info] Uploaded file src/stores/auth.ts modelVersion=4 in 144.66456200001994ms
+2025-04-30 17:04:32.870 [info] Uploaded file src/env.d.ts modelVersion=2 in 139.69495900004404ms
+2025-04-30 17:04:32.871 [info] Uploaded file src/env.d.ts modelVersion=2 in 142.60073099995498ms
+2025-04-30 17:04:32.922 [info] Uploaded file src/env.d.ts modelVersion=4 in 140.95233599998755ms
+2025-04-30 17:04:32.922 [info] Uploaded file src/env.d.ts modelVersion=4 in 144.36699000000954ms
+2025-04-30 17:04:42.506 [info] Uploaded file src/router/index.ts modelVersion=2 in 139.27318199997535ms
+2025-04-30 17:04:42.506 [info] Uploaded file src/router/index.ts modelVersion=2 in 137.99829300004058ms
+2025-04-30 17:04:42.593 [info] Uploaded file src/router/index.ts modelVersion=4 in 139.94079399999464ms
+2025-04-30 17:04:42.594 [info] Uploaded file src/router/index.ts modelVersion=4 in 142.35559799999464ms
+2025-04-30 17:04:48.644 [info] Uploaded file src/views/HomeView.vue modelVersion=2 in 142.74991300003603ms
+2025-04-30 17:04:48.645 [info] Uploaded file src/views/HomeView.vue modelVersion=2 in 141.31014199997298ms
+2025-04-30 17:04:48.687 [info] Uploaded file src/views/HomeView.vue modelVersion=4 in 139.99187000002712ms
+2025-04-30 17:04:48.688 [info] Uploaded file src/views/HomeView.vue modelVersion=4 in 138.69453899998916ms
+2025-04-30 17:04:57.710 [info] Uploaded file src/views/LoginView.vue modelVersion=4 in 140.51966800005175ms
+2025-04-30 17:04:57.711 [info] Uploaded file src/views/LoginView.vue modelVersion=4 in 140.1966680000187ms
+2025-04-30 17:04:57.723 [info] Uploaded file src/views/LoginView.vue modelVersion=4 in 142.31542200001422ms
+2025-04-30 17:04:57.724 [info] Uploaded file src/views/LoginView.vue modelVersion=4 in 141.21146600000793ms
+2025-04-30 17:05:09.267 [info] Uploaded file src/views/SignupView.vue modelVersion=2 in 140.06728299998213ms
+2025-04-30 17:05:09.268 [info] Uploaded file src/views/SignupView.vue modelVersion=2 in 138.57958100002725ms
+2025-04-30 17:05:09.326 [info] Uploaded file src/views/SignupView.vue modelVersion=4 in 142.80707099998835ms
+2025-04-30 17:05:09.327 [info] Uploaded file src/views/SignupView.vue modelVersion=4 in 145.79602000000887ms
+2025-04-30 17:05:19.774 [info] Uploaded file src/views/AppView.vue modelVersion=4 in 140.94231600000057ms
+2025-04-30 17:05:19.775 [info] Uploaded file src/views/AppView.vue modelVersion=4 in 140.48087500000838ms
+2025-04-30 17:05:19.792 [info] Uploaded file src/views/AppView.vue modelVersion=4 in 146.1021990000736ms
+2025-04-30 17:05:19.793 [info] Uploaded file src/views/AppView.vue modelVersion=4 in 145.26389500009827ms
+2025-04-30 17:05:25.472 [info] Uploaded file index.html modelVersion=2 in 134.85288799996488ms
+2025-04-30 17:05:25.473 [info] Uploaded file index.html modelVersion=2 in 138.79094099998474ms
+2025-04-30 17:05:25.536 [info] Uploaded file index.html modelVersion=4 in 142.21124500001315ms
+2025-04-30 17:05:25.537 [info] Uploaded file index.html modelVersion=4 in 139.2357310000807ms
+2025-04-30 17:07:50.352 [info] Uploaded file package.json modelVersion=4 in 424.69709499995224ms
+2025-04-30 17:13:45.500 [info] Handled visible editors change in 1.0498340000631288ms
+2025-04-30 17:13:45.806 [info] Handled visible editors change in 185.23942699993495ms
+2025-04-30 17:16:28.894 [info] Uploaded file tailwind.config.js modelVersion=3 in 446.72082399996ms
+2025-04-30 17:16:28.895 [info] Uploaded file tailwind.config.js modelVersion=3 in 420.23517200001515ms
+2025-04-30 17:16:28.896 [info] Uploaded file tailwind.config.js modelVersion=3 in 423.2855460001156ms
+2025-04-30 17:16:28.923 [info] Uploaded file tailwind.config.js modelVersion=3 in 139.20590800000355ms
+2025-04-30 17:16:28.972 [info] Uploaded file tailwind.config.js modelVersion=3 in 177.91507999994792ms
+2025-04-30 17:19:24.754 [info] Uploaded file package.json modelVersion=5 in 430.60810399986804ms
+2025-04-30 17:19:31.858 [info] Uploaded file tailwind.config.js modelVersion=2 in 141.88689500000328ms
+2025-04-30 17:19:31.859 [info] Uploaded file tailwind.config.js modelVersion=2 in 146.48643700010143ms
+2025-04-30 17:21:55.919 [info] Uploaded file index.html modelVersion=2 in 234.07268600002863ms
+2025-04-30 17:21:55.920 [info] Uploaded file index.html modelVersion=2 in 233.48969399998896ms
+2025-04-30 17:21:55.921 [info] Uploaded file index.html modelVersion=2 in 407.09548000013456ms
+2025-04-30 17:21:55.940 [info] Uploaded file index.html modelVersion=2 in 467.03931099991314ms
+2025-04-30 17:22:15.752 [info] Uploaded file src/views/HomeView.vue modelVersion=2 in 146.30916199996136ms
+2025-04-30 17:22:15.752 [info] Uploaded file src/views/HomeView.vue modelVersion=2 in 145.08444700017571ms
+2025-04-30 17:22:27.757 [info] Uploaded file src/views/AppView.vue modelVersion=2 in 146.42262699990533ms
+2025-04-30 17:22:27.758 [info] Uploaded file src/views/AppView.vue modelVersion=2 in 144.80616099992767ms
+2025-04-30 17:22:38.715 [info] Uploaded file src/views/LoginView.vue modelVersion=2 in 141.941547999857ms
+2025-04-30 17:22:38.716 [info] Uploaded file src/views/LoginView.vue modelVersion=2 in 140.94760000007227ms
+2025-04-30 17:22:51.192 [info] Uploaded file src/views/SignupView.vue modelVersion=1 in 151.0138099999167ms
+2025-04-30 17:22:51.288 [info] Uploaded file src/views/SignupView.vue modelVersion=1 in 140.09634199994616ms
+2025-04-30 17:23:01.573 [info] Handled visible editors change in 0.5874320000875741ms
+2025-04-30 17:23:01.679 [info] Handled visible editors change in 3.218764000106603ms
+2025-04-30 17:23:03.135 [info] Handled visible editors change in 0.8839140001218766ms
+2025-04-30 17:23:03.404 [info] Uploaded file index.html modelVersion=1 in 143.20896399999037ms
+2025-04-30 17:23:03.404 [info] Handled visible editors change in 224.81854300014675ms
+2025-04-30 17:23:03.828 [info] Handled visible editors change in 0.8106339999940246ms
+2025-04-30 17:23:04.166 [info] Uploaded file src/views/AppView.vue modelVersion=1 in 154.0843130000867ms
+2025-04-30 17:23:04.166 [info] Handled visible editors change in 292.5109649999067ms
+2025-04-30 17:23:04.805 [info] Handled visible editors change in 0.8918280000798404ms
+2025-04-30 17:23:04.926 [info] Handled visible editors change in 1.9600700000301003ms
+2025-04-30 17:23:05.265 [info] Handled visible editors change in 0.8719709999859333ms
+2025-04-30 17:23:05.586 [info] Uploaded file src/views/LoginView.vue modelVersion=1 in 162.00457699992694ms
+2025-04-30 17:23:05.586 [info] Handled visible editors change in 250.34864500002004ms
+2025-04-30 17:23:05.716 [info] Handled visible editors change in 0.7798460000194609ms
+2025-04-30 17:23:06.013 [info] Uploaded file src/views/HomeView.vue modelVersion=1 in 142.32423999998719ms
+2025-04-30 17:23:06.013 [info] Handled visible editors change in 241.0007480001077ms
+2025-04-30 17:23:50.286 [info] Handled visible editors change in 0.5533469999209046ms
+2025-04-30 17:23:50.787 [info] Uploaded file .git/COMMIT_EDITMSG modelVersion=1 in 283.1429600000847ms
+2025-04-30 17:23:50.787 [info] Handled visible editors change in 464.1586879999377ms
+2025-04-30 17:27:09.908 [info] Handled visible editors change in 0.546955999918282ms
+2025-04-30 17:27:09.910 [info] Handled visible editors change in 1.1674899999052286ms
+2025-04-30 17:27:23.876 [info] Uploaded file .gitignore modelVersion=4 in 855.2371940000448ms
+2025-04-30 17:27:23.877 [info] Uploaded file .gitignore modelVersion=4 in 810.7502229998354ms
+2025-04-30 17:27:23.878 [info] Uploaded file .gitignore modelVersion=4 in 813.1355190000031ms
+2025-04-30 17:27:23.879 [info] Uploaded file .gitignore modelVersion=4 in 810.7686979998834ms
+2025-04-30 17:43:30.534 [info] Uploaded file src/views/HomeView.vue modelVersion=2 in 414.73752199998125ms
+2025-04-30 17:43:30.534 [info] Uploaded file src/views/HomeView.vue modelVersion=2 in 455.043611000292ms
+2025-04-30 17:43:30.609 [info] Uploaded file src/views/HomeView.vue modelVersion=3 in 384.6666969996877ms
+2025-04-30 17:43:31.186 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 17:43:31.325 [info] Fetched fsConfig in 139.26530000008643ms
+2025-04-30 17:43:31.325 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 17:43:31.326 [info] File sync enabled status: true
+2025-04-30 17:43:31.326 [info] Starting sync of visible tabs
+2025-04-30 17:43:31.464 [info] Uploaded file src/views/HomeView.vue modelVersion=4 in 137.1740109999664ms
+2025-04-30 17:43:31.464 [info] Synced all visible tabs in 138.3212540000677ms
+2025-04-30 17:43:31.465 [info] Synced file src/views/HomeView.vue modelVersion=4 in 131.81663999985904ms
+2025-04-30 17:45:37.571 [info] Synced file src/views/HomeView.vue modelVersion=5 in 195.35947699984536ms
+2025-04-30 17:45:38.047 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 17:45:38.202 [info] Fetched fsConfig in 155.26461700024083ms
+2025-04-30 17:45:38.202 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 17:45:38.202 [info] File sync enabled status: true
+2025-04-30 17:45:38.203 [info] Starting sync of visible tabs
+2025-04-30 17:45:38.203 [info] Synced all visible tabs in 0.14597699977457523ms
+2025-04-30 17:48:04.265 [info] Synced file src/views/HomeView.vue modelVersion=6 in 267.55942199984565ms
+2025-04-30 17:48:04.636 [info] Synced file src/views/HomeView.vue modelVersion=7 in 141.2304200003855ms
+2025-04-30 17:48:04.673 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 17:48:04.815 [info] Fetched fsConfig in 142.11598599981517ms
+2025-04-30 17:48:04.815 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 17:48:04.816 [info] File sync enabled status: true
+2025-04-30 17:48:04.816 [info] Starting sync of visible tabs
+2025-04-30 17:48:04.969 [info] Uploaded file src/views/HomeView.vue modelVersion=8 in 143.9210839997977ms
+2025-04-30 17:48:04.969 [info] Synced all visible tabs in 153.87576800026ms
+2025-04-30 17:48:05.211 [info] Synced file src/views/HomeView.vue modelVersion=8 in 138.9271399998106ms
+2025-04-30 17:57:44.601 [info] Handled visible editors change in 0.5948139997199178ms
+2025-04-30 17:57:44.703 [info] Handled visible editors change in 70.22939200000837ms
+2025-04-30 18:02:21.798 [info] Handled visible editors change in 0.5616319999098778ms
+2025-04-30 18:02:22.338 [info] Uploaded file src/views/HomeView.vue modelVersion=8 in 451.80356699973345ms
+2025-04-30 18:02:22.338 [info] Handled visible editors change in 524.4012470003217ms
+2025-04-30 18:02:25.505 [info] Handled visible editors change in 0.541404000017792ms
+2025-04-30 18:02:25.954 [info] Synced file src/views/HomeView.vue modelVersion=9 in 146.51398399984464ms
+2025-04-30 18:02:26.013 [info] Uploaded file src/composables/useRecaptchaV3.ts modelVersion=2 in 182.85886600008234ms
+2025-04-30 18:02:26.014 [info] Uploaded file src/composables/useRecaptchaV3.ts modelVersion=2 in 186.98424600018188ms
+2025-04-30 18:02:26.015 [info] Uploaded file src/composables/useRecaptchaV3.ts modelVersion=4 in 143.96771899983287ms
+2025-04-30 18:02:26.015 [info] Uploaded file src/composables/useRecaptchaV3.ts modelVersion=4 in 142.67585700005293ms
+2025-04-30 18:02:26.294 [info] Handled visible editors change in 4.0630629998631775ms
+2025-04-30 18:02:27.483 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:02:27.627 [info] Fetched fsConfig in 143.78836000012234ms
+2025-04-30 18:02:27.627 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:02:27.627 [info] File sync enabled status: true
+2025-04-30 18:02:27.627 [info] Starting sync of visible tabs
+2025-04-30 18:02:27.627 [info] Synced all visible tabs in 0.14957300014793873ms
+2025-04-30 18:02:36.103 [info] Uploaded file supabase/functions/verify-recaptcha/index.ts modelVersion=2 in 204.2928439998068ms
+2025-04-30 18:02:36.105 [info] Uploaded file supabase/functions/verify-recaptcha/index.ts modelVersion=2 in 207.98422400001436ms
+2025-04-30 18:02:36.106 [info] Uploaded file supabase/functions/verify-recaptcha/index.ts modelVersion=4 in 162.23053100006655ms
+2025-04-30 18:02:36.107 [info] Uploaded file supabase/functions/verify-recaptcha/index.ts modelVersion=4 in 161.73813099972904ms
+2025-04-30 18:02:47.130 [info] Uploaded file src/stores/auth.ts modelVersion=2 in 141.4589660000056ms
+2025-04-30 18:02:47.131 [info] Uploaded file src/stores/auth.ts modelVersion=2 in 144.2536700000055ms
+2025-04-30 18:02:59.792 [info] Uploaded file src/views/LoginView.vue modelVersion=3 in 139.0875619999133ms
+2025-04-30 18:02:59.793 [info] Uploaded file src/views/LoginView.vue modelVersion=3 in 142.28875500010327ms
+2025-04-30 18:02:59.797 [info] Uploaded file src/views/LoginView.vue modelVersion=3 in 142.9743909998797ms
+2025-04-30 18:03:15.207 [info] Uploaded file src/views/SignupView.vue modelVersion=3 in 144.76870300015435ms
+2025-04-30 18:03:15.207 [info] Uploaded file src/views/SignupView.vue modelVersion=3 in 143.36848600022495ms
+2025-04-30 18:03:15.208 [info] Uploaded file src/views/SignupView.vue modelVersion=3 in 141.81663199979812ms
+2025-04-30 18:03:37.081 [info] Handled visible editors change in 0.43332900013774633ms
+2025-04-30 18:03:37.325 [info] Uploaded file .gitignore modelVersion=1 in 135.96454699989408ms
+2025-04-30 18:03:37.325 [info] Handled visible editors change in 204.64981900015846ms
+2025-04-30 18:03:52.481 [info] Handled visible editors change in 0.42082499992102385ms
+2025-04-30 18:03:52.584 [info] Handled visible editors change in 48.631283999886364ms
+2025-04-30 18:08:43.565 [info] Handled visible editors change in 0.5040929997339845ms
+2025-04-30 18:08:44.143 [info] Uploaded file src/composables/useRecaptchaV3.ts modelVersion=4 in 432.27193500008434ms
+2025-04-30 18:08:44.143 [info] Handled visible editors change in 546.1955560008064ms
+2025-04-30 18:11:14.122 [info] Synced file src/composables/useRecaptchaV3.ts modelVersion=6 in 212.94782999996096ms
+2025-04-30 18:11:14.628 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:11:14.816 [info] Fetched fsConfig in 187.09467499982566ms
+2025-04-30 18:11:14.816 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:11:14.816 [info] File sync enabled status: true
+2025-04-30 18:11:14.816 [info] Starting sync of visible tabs
+2025-04-30 18:11:14.816 [info] Synced all visible tabs in 0.12469600047916174ms
+2025-04-30 18:11:18.261 [info] Synced file src/composables/useRecaptchaV3.ts modelVersion=7 in 159.33991500083357ms
+2025-04-30 18:11:32.770 [info] Synced file src/composables/useRecaptchaV3.ts modelVersion=8 in 138.4249680005014ms
+2025-04-30 18:18:10.641 [info] Handled visible editors change in 0.5332279996946454ms
+2025-04-30 18:18:11.387 [info] Uploaded file supabase/functions/verify-recaptcha/index.ts modelVersion=1 in 501.8066799994558ms
+2025-04-30 18:18:11.387 [info] Handled visible editors change in 664.2929329993203ms
+2025-04-30 18:18:28.151 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:18:28.297 [info] Fetched fsConfig in 145.2181750005111ms
+2025-04-30 18:18:28.297 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:18:28.297 [info] File sync enabled status: true
+2025-04-30 18:18:28.297 [info] Starting sync of visible tabs
+2025-04-30 18:18:28.297 [info] Synced all visible tabs in 0.19636099971830845ms
+2025-04-30 18:19:21.687 [info] Handled visible editors change in 0.6000049998983741ms
+2025-04-30 18:19:21.928 [info] Handled visible editors change in 186.25467199925333ms
+2025-04-30 18:47:39.356 [info] Handled visible editors change in 0.4450819995254278ms
+2025-04-30 18:47:39.990 [info] Uploaded file supabase/functions/verify-recaptcha/index.ts modelVersion=1 in 460.6364380000159ms
+2025-04-30 18:47:39.991 [info] Handled visible editors change in 597.7902190005407ms
+2025-04-30 18:47:41.510 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=2 in 144.67488500010222ms
+2025-04-30 18:47:41.953 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:47:42.095 [info] Fetched fsConfig in 141.89818200003356ms
+2025-04-30 18:47:42.095 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:47:42.095 [info] File sync enabled status: true
+2025-04-30 18:47:42.095 [info] Starting sync of visible tabs
+2025-04-30 18:47:42.095 [info] Synced all visible tabs in 0.121930000372231ms
+2025-04-30 18:50:00.833 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=4 in 145.31255299970508ms
+2025-04-30 18:50:00.837 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=3 in 461.6919900001958ms
+2025-04-30 18:50:01.395 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:50:01.536 [info] Fetched fsConfig in 141.08756900019944ms
+2025-04-30 18:50:01.536 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:50:01.537 [info] File sync enabled status: true
+2025-04-30 18:50:01.537 [info] Starting sync of visible tabs
+2025-04-30 18:50:01.696 [info] Uploaded file supabase/functions/verify-recaptcha/index.ts modelVersion=4 in 157.85674900002778ms
+2025-04-30 18:50:01.696 [info] Synced all visible tabs in 159.5792669998482ms
+2025-04-30 18:50:04.323 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=5 in 142.71674199961126ms
+2025-04-30 18:50:06.613 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=6 in 143.70332799945027ms
+2025-04-30 18:50:07.184 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=7 in 141.11451000068337ms
+2025-04-30 18:50:07.542 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=8 in 140.98515500035137ms
+2025-04-30 18:50:07.918 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=9 in 134.24165500048548ms
+2025-04-30 18:50:08.427 [info] Synced file supabase/functions/verify-recaptcha/index.ts modelVersion=10 in 140.64765700045973ms
+2025-04-30 18:50:47.509 [info] Handled visible editors change in 0.5711410008370876ms
+2025-04-30 18:50:47.760 [info] Uploaded file src/composables/useRecaptchaV3.ts modelVersion=8 in 147.70939799956977ms
+2025-04-30 18:50:47.761 [info] Handled visible editors change in 211.43813299946487ms
+2025-04-30 18:51:09.890 [info] Handled visible editors change in 0.5826930003240705ms
+2025-04-30 18:51:10.190 [info] Uploaded file src/views/LoginView.vue modelVersion=1 in 179.65336100012064ms
+2025-04-30 18:51:10.190 [info] Handled visible editors change in 250.18183100037277ms
+2025-04-30 18:54:25.975 [info] Synced file src/views/LoginView.vue modelVersion=2 in 402.51469799969345ms
+2025-04-30 18:54:26.139 [info] Synced file src/views/LoginView.vue modelVersion=2 in 138.75065700057894ms
+2025-04-30 18:54:26.225 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:54:26.362 [info] Fetched fsConfig in 137.51767400000244ms
+2025-04-30 18:54:26.362 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:54:26.363 [info] File sync enabled status: true
+2025-04-30 18:54:26.363 [info] Starting sync of visible tabs
+2025-04-30 18:54:26.363 [info] Synced all visible tabs in 0.21280199941247702ms
+2025-04-30 18:54:38.045 [info] Handled visible editors change in 0.4261960005387664ms
+2025-04-30 18:54:38.341 [info] Uploaded file src/views/SignupView.vue modelVersion=1 in 140.9771199999377ms
+2025-04-30 18:54:38.341 [info] Handled visible editors change in 252.453730000183ms
+2025-04-30 18:54:49.530 [info] Synced file src/views/SignupView.vue modelVersion=2 in 144.00488900020719ms
+2025-04-30 18:55:03.876 [info] Handled visible editors change in 0.7690249998122454ms
+2025-04-30 18:55:03.933 [info] Handled visible editors change in 1.0708059994503856ms
+2025-04-30 18:55:30.558 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:55:30.703 [info] Fetched fsConfig in 144.75887499935925ms
+2025-04-30 18:55:30.703 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:55:30.703 [info] File sync enabled status: true
+2025-04-30 18:55:30.703 [info] Starting sync of visible tabs
+2025-04-30 18:55:30.703 [info] Synced all visible tabs in 0.12487700022757053ms
+2025-04-30 18:55:55.697 [info] Handled visible editors change in 0.36112300027161837ms
+2025-04-30 18:55:55.985 [info] Uploaded file supabase/index.ts modelVersion=1 in 163.5537790004164ms
+2025-04-30 18:55:55.985 [info] Handled visible editors change in 249.34599999990314ms
+2025-04-30 18:56:23.265 [info] Synced file supabase/index.ts modelVersion=2 in 141.40724399965256ms
+2025-04-30 18:56:23.623 [info] Synced file supabase/index.ts modelVersion=2 in 143.3934720000252ms
+2025-04-30 18:56:33.173 [info] Handled visible editors change in 0.31840300001204014ms
+2025-04-30 18:56:34.163 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:56:34.309 [info] Fetched fsConfig in 146.03973899967968ms
+2025-04-30 18:56:34.309 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:56:34.310 [info] File sync enabled status: true
+2025-04-30 18:56:34.310 [info] Starting sync of visible tabs
+2025-04-30 18:56:34.310 [info] Synced all visible tabs in 0.17786699999123812ms
+2025-04-30 18:56:36.189 [info] Handled visible editors change in 0.8161140000447631ms
+2025-04-30 18:56:36.332 [info] Handled visible editors change in 123.5285839997232ms
+2025-04-30 18:57:19.600 [info] Handled visible editors change in 265.45329699944705ms
+2025-04-30 18:57:19.822 [info] Uploaded file lib/index.ts modelVersion=1 in 146.4362400006503ms
+2025-04-30 18:57:19.822 [info] Handled visible editors change in 306.19507700018585ms
+2025-04-30 18:57:27.179 [info] Handled visible editors change in 198.49059300031513ms
+2025-04-30 18:57:27.179 [info] Handled visible editors change in 162.41945200040936ms
+2025-04-30 18:58:50.135 [info] Handled visible editors change in 0.3693989999592304ms
+2025-04-30 18:58:50.655 [info] Uploaded file src/lib/supabase.ts modelVersion=1 in 427.86838200036436ms
+2025-04-30 18:58:50.655 [info] Handled visible editors change in 500.3931940002367ms
+2025-04-30 18:58:55.913 [info] Handled visible editors change in 0.484566000290215ms
+2025-04-30 18:58:55.917 [info] Handled visible editors change in 0.5005569998174906ms
+2025-04-30 18:58:59.399 [info] Handled visible editors change in 0.5157650001347065ms
+2025-04-30 18:58:59.407 [info] Handled visible editors change in 0.566720999777317ms
+2025-04-30 18:58:59.887 [info] Synced file src/views/LoginView.vue modelVersion=3 in 140.8876229999587ms
+2025-04-30 18:59:00.538 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 18:59:00.682 [info] Fetched fsConfig in 143.65122900065035ms
+2025-04-30 18:59:00.682 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 18:59:00.682 [info] File sync enabled status: true
+2025-04-30 18:59:00.682 [info] Starting sync of visible tabs
+2025-04-30 18:59:00.682 [info] Synced all visible tabs in 0.1157289994880557ms
+2025-04-30 18:59:02.483 [info] Handled visible editors change in 0.4636369999498129ms
+2025-04-30 18:59:02.487 [info] Handled visible editors change in 0.31989500019699335ms
+2025-04-30 18:59:04.640 [info] Uploaded file src/views/LoginView.vue modelVersion=4 in 144.195787999779ms
+2025-04-30 18:59:04.641 [info] Uploaded file src/views/LoginView.vue modelVersion=4 in 146.58299299981445ms
+2025-04-30 18:59:04.641 [info] Handled visible editors change in 205.93340099975467ms
+2025-04-30 18:59:04.642 [info] Uploaded file src/views/LoginView.vue modelVersion=4 in 143.88756600022316ms
+2025-04-30 18:59:04.642 [info] Handled visible editors change in 201.46216499991715ms
+2025-04-30 18:59:04.816 [info] Synced file src/views/LoginView.vue modelVersion=4 in 138.77788299974054ms
+2025-04-30 18:59:07.608 [info] Handled visible editors change in 1.1655940003693104ms
+2025-04-30 18:59:07.633 [info] Handled visible editors change in 1.143623000010848ms
+2025-04-30 18:59:11.216 [info] Handled visible editors change in 0.4534369995817542ms
+2025-04-30 18:59:11.221 [info] Handled visible editors change in 0.5122689995914698ms
+2025-04-30 18:59:13.198 [info] Handled visible editors change in 0.3319070003926754ms
+2025-04-30 18:59:13.199 [info] Handled visible editors change in 0.3606920000165701ms
+2025-04-30 18:59:13.646 [info] Synced file src/views/SignupView.vue modelVersion=3 in 133.56601700000465ms
+2025-04-30 18:59:14.615 [info] Handled visible editors change in 0.3880340000614524ms
+2025-04-30 18:59:14.619 [info] Handled visible editors change in 0.38761299941688776ms
+2025-04-30 18:59:16.380 [info] Uploaded file src/views/SignupView.vue modelVersion=4 in 140.29797799978405ms
+2025-04-30 18:59:16.381 [info] Uploaded file src/views/SignupView.vue modelVersion=4 in 140.24769300036132ms
+2025-04-30 18:59:16.381 [info] Handled visible editors change in 203.9602100001648ms
+2025-04-30 18:59:16.387 [info] Uploaded file src/views/SignupView.vue modelVersion=4 in 144.72337600030005ms
+2025-04-30 18:59:16.387 [info] Handled visible editors change in 206.26610999926925ms
+2025-04-30 18:59:16.567 [info] Synced file src/views/SignupView.vue modelVersion=4 in 141.4752040002495ms
+2025-04-30 18:59:21.862 [info] Handled visible editors change in 0.4374969992786646ms
+2025-04-30 18:59:21.866 [info] Handled visible editors change in 0.41827099956572056ms
+2025-04-30 18:59:23.790 [info] Uploaded file src/views/SignupView.vue modelVersion=5 in 222.21739599946886ms
+2025-04-30 18:59:23.790 [info] Handled visible editors change in 275.02316700015217ms
+2025-04-30 18:59:23.791 [info] Uploaded file src/views/SignupView.vue modelVersion=5 in 224.1279279999435ms
+2025-04-30 18:59:23.791 [info] Uploaded file src/views/SignupView.vue modelVersion=5 in 226.2318869996816ms
+2025-04-30 18:59:23.792 [info] Handled visible editors change in 279.1493400000036ms
+2025-04-30 18:59:24.032 [info] Synced file src/views/SignupView.vue modelVersion=5 in 274.14132800046355ms
+2025-04-30 18:59:35.289 [info] Handled visible editors change in 1.0091180000454187ms
+2025-04-30 18:59:35.292 [info] Handled visible editors change in 1.2971130004152656ms
+2025-04-30 18:59:38.861 [info] Handled visible editors change in 0.4908690005540848ms
+2025-04-30 18:59:38.867 [info] Handled visible editors change in 0.6450899997726083ms
+2025-04-30 18:59:40.601 [info] Uploaded file src/views/LoginView.vue modelVersion=5 in 141.4870870001614ms
+2025-04-30 18:59:40.602 [info] Uploaded file src/views/LoginView.vue modelVersion=5 in 140.47636500000954ms
+2025-04-30 18:59:40.602 [info] Handled visible editors change in 180.72115200012922ms
+2025-04-30 18:59:40.608 [info] Uploaded file src/views/LoginView.vue modelVersion=5 in 144.75629799999297ms
+2025-04-30 18:59:40.608 [info] Handled visible editors change in 185.00945199932903ms
+2025-04-30 18:59:40.807 [info] Synced file src/views/LoginView.vue modelVersion=5 in 137.52197800017893ms
+2025-04-30 19:04:41.268 [info] Synced file src/views/LoginView.vue modelVersion=6 in 221.0685629993677ms
+2025-04-30 19:04:41.382 [info] Uploaded file src/views/LoginView.vue modelVersion=6 in 142.65470500010997ms
+2025-04-30 19:04:41.383 [info] Uploaded file src/views/LoginView.vue modelVersion=6 in 138.9617410004139ms
+2025-04-30 19:04:41.655 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 19:04:41.794 [info] Fetched fsConfig in 139.5616250000894ms
+2025-04-30 19:04:41.794 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 19:04:41.795 [info] File sync enabled status: true
+2025-04-30 19:04:41.795 [info] Starting sync of visible tabs
+2025-04-30 19:04:41.934 [info] Uploaded file src/lib/supabase.ts modelVersion=1 in 137.36907899938524ms
+2025-04-30 19:04:41.934 [info] Synced all visible tabs in 139.24752099998295ms
+2025-04-30 19:04:50.911 [info] Handled visible editors change in 1.3476689998060465ms
+2025-04-30 19:04:51.232 [info] Uploaded file src/views/SignupView.vue modelVersion=5 in 143.5340179996565ms
+2025-04-30 19:04:51.233 [info] Handled visible editors change in 295.5898500001058ms
+2025-04-30 19:05:29.018 [info] Synced file src/views/SignupView.vue modelVersion=6 in 144.0819230005145ms
+2025-04-30 19:05:51.394 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 19:05:51.535 [info] Fetched fsConfig in 140.65336999949068ms
+2025-04-30 19:05:51.535 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 19:05:51.535 [info] File sync enabled status: true
+2025-04-30 19:05:51.535 [info] Starting sync of visible tabs
+2025-04-30 19:05:51.535 [info] Synced all visible tabs in 0.17959999945014715ms
+2025-04-30 19:05:55.632 [info] Handled visible editors change in 0.2843180000782013ms
+2025-04-30 19:06:03.334 [info] Handled visible editors change in 0.41339199990034103ms
+2025-04-30 19:06:03.338 [info] Handled visible editors change in 0.32369199953973293ms
+2025-04-30 19:06:08.277 [info] Handled visible editors change in 0.6163159999996424ms
+2025-04-30 19:06:08.282 [info] Handled visible editors change in 0.7358919996768236ms
+2025-04-30 19:06:10.858 [info] Handled visible editors change in 0.40582699980586767ms
+2025-04-30 19:06:10.862 [info] Handled visible editors change in 0.3193640001118183ms
+2025-04-30 19:06:33.658 [info] Handled visible editors change in 1.6992830000817776ms
+2025-04-30 19:06:33.663 [info] Handled visible editors change in 0.3527769995853305ms
+2025-04-30 19:06:34.153 [info] Synced file src/views/SignupView.vue modelVersion=7 in 140.6097670001909ms
+2025-04-30 19:06:42.979 [info] Synced file src/views/SignupView.vue modelVersion=8 in 143.39018600061536ms
+2025-04-30 19:07:36.115 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 19:07:36.250 [info] Fetched fsConfig in 134.8397460002452ms
+2025-04-30 19:07:36.250 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 19:07:36.251 [info] File sync enabled status: true
+2025-04-30 19:07:36.251 [info] Starting sync of visible tabs
+2025-04-30 19:07:36.251 [info] Synced file src/views/SignupView.vue modelVersion=9 in 142.56712900009006ms
+2025-04-30 19:07:36.391 [info] Uploaded file src/views/SignupView.vue modelVersion=9 in 138.7875309996307ms
+2025-04-30 19:07:36.391 [info] Synced all visible tabs in 140.800017000176ms
+2025-04-30 19:08:10.647 [info] Synced file src/views/SignupView.vue modelVersion=10 in 152.2205639993772ms
+2025-04-30 19:08:11.039 [info] Synced file src/views/SignupView.vue modelVersion=10 in 145.7021070001647ms
+2025-04-30 19:08:26.709 [info] Handled visible editors change in 0.5245219999924302ms
+2025-04-30 19:08:26.759 [info] Handled visible editors change in 1.5920509994029999ms
+2025-04-30 19:08:41.045 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 19:08:41.187 [info] Fetched fsConfig in 141.74567600060254ms
+2025-04-30 19:08:41.187 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 19:08:41.187 [info] File sync enabled status: true
+2025-04-30 19:08:41.187 [info] Starting sync of visible tabs
+2025-04-30 19:08:41.187 [info] Synced all visible tabs in 0.12298299930989742ms
+2025-04-30 19:08:42.053 [info] Synced file src/views/LoginView.vue modelVersion=7 in 141.27540499996394ms
+2025-04-30 19:08:42.433 [info] Synced file src/views/LoginView.vue modelVersion=7 in 146.45371900033206ms
+2025-04-30 19:10:53.607 [info] Handled visible editors change in 0.5780729996040463ms
+2025-04-30 19:10:53.633 [info] Handled visible editors change in 0.8262620000168681ms
+2025-04-30 19:10:55.888 [info] Synced file src/views/SignupView.vue modelVersion=11 in 473.0548450006172ms
+2025-04-30 19:10:56.015 [info] Synced file src/views/SignupView.vue modelVersion=11 in 140.20729599986225ms
+2025-04-30 19:11:00.073 [info] Synced file src/views/SignupView.vue modelVersion=12 in 148.01637400034815ms
+2025-04-30 19:11:02.410 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 19:11:02.554 [info] Fetched fsConfig in 144.06968099996448ms
+2025-04-30 19:11:02.554 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 19:11:02.555 [info] File sync enabled status: true
+2025-04-30 19:11:02.555 [info] Starting sync of visible tabs
+2025-04-30 19:11:02.555 [info] Synced all visible tabs in 0.15371999982744455ms
+2025-04-30 19:12:44.437 [info] Handled visible editors change in 0.4767309995368123ms
+2025-04-30 19:12:44.529 [info] Handled visible editors change in 46.4823930002749ms
+2025-04-30 19:12:50.905 [info] Handled visible editors change in 0.5266959993168712ms
+2025-04-30 19:12:51.432 [info] Uploaded file .env copy.local modelVersion=1 in 411.76803500019014ms
+2025-04-30 19:12:51.432 [info] Handled visible editors change in 503.005593999289ms
+2025-04-30 19:12:57.011 [info] Handled visible editors change in 0.38778300024569035ms
+2025-04-30 19:12:57.139 [info] Handled visible editors change in 54.51507299952209ms
+2025-04-30 19:14:00.018 [info] Handled visible editors change in 0.5740649998188019ms
+2025-04-30 19:14:00.026 [info] Handled visible editors change in 0.6824500001966953ms
+2025-04-30 19:14:10.732 [info] Synced file src/views/SignupView.vue modelVersion=13 in 218.02946500014514ms
+2025-04-30 19:14:11.182 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 19:14:11.296 [info] Synced file src/views/SignupView.vue modelVersion=17 in 137.8602269999683ms
+2025-04-30 19:14:11.324 [info] Fetched fsConfig in 141.65408199932426ms
+2025-04-30 19:14:11.324 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 19:14:11.324 [info] File sync enabled status: true
+2025-04-30 19:14:11.324 [info] Starting sync of visible tabs
+2025-04-30 19:14:11.324 [info] Synced all visible tabs in 0.09164300002157688ms
+2025-04-30 19:14:12.422 [info] Synced file src/views/SignupView.vue modelVersion=20 in 156.35997200012207ms
+2025-04-30 19:14:12.710 [info] Synced file src/views/SignupView.vue modelVersion=21 in 139.61485600005835ms
+2025-04-30 19:14:13.389 [info] Synced file src/views/SignupView.vue modelVersion=24 in 135.94725000020117ms
+2025-04-30 19:14:14.691 [info] Synced file src/views/SignupView.vue modelVersion=31 in 137.69787000026554ms
+2025-04-30 19:14:15.026 [info] Synced file src/views/SignupView.vue modelVersion=32 in 138.01510000042617ms
+2025-04-30 19:14:15.773 [info] Synced file src/views/SignupView.vue modelVersion=33 in 144.1293040001765ms
+2025-04-30 19:16:31.386 [info] Handled visible editors change in 0.47859499976038933ms
+2025-04-30 19:16:31.942 [info] Uploaded file supabase/functions/verify-recaptcha/deno.json modelVersion=1 in 453.40131600014865ms
+2025-04-30 19:16:31.942 [info] Handled visible editors change in 521.9239419996738ms
+2025-04-30 19:16:35.827 [info] Synced file supabase/functions/verify-recaptcha/deno.json modelVersion=3 in 141.51957499980927ms
+2025-04-30 19:16:36.097 [info] Synced file supabase/functions/verify-recaptcha/deno.json modelVersion=3 in 141.49542900174856ms
+2025-04-30 19:16:36.303 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-04-30 19:16:36.448 [info] Fetched fsConfig in 144.6678480003029ms
+2025-04-30 19:16:36.448 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-04-30 19:16:36.448 [info] File sync enabled status: true
+2025-04-30 19:16:36.448 [info] Starting sync of visible tabs
+2025-04-30 19:16:36.448 [info] Synced all visible tabs in 0.1196260005235672ms
+2025-04-30 19:16:39.254 [info] Synced file supabase/functions/verify-recaptcha/deno.json modelVersion=4 in 138.53338799998164ms

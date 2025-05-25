@@ -1,0 +1,16 @@
+[Default Applications]
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/http=app.zen_browser.zen.desktop
+text/html=app.zen_browser.zen.desktop
+application/xhtml+xml=app.zen_browser.zen.desktop
+x-scheme-handler/https=app.zen_browser.zen.desktop
+video/mp4=org.videolan.VLC.desktop
+x-scheme-handler/mailto=eu.betterbird.Betterbird.desktop
+
+[Added Associations]
+x-scheme-handler/http=app.zen_browser.zen.desktop;com.vivaldi.Vivaldi.desktop;
+text/html=app.zen_browser.zen.desktop;com.vivaldi.Vivaldi.desktop;
+application/xhtml+xml=app.zen_browser.zen.desktop;com.vivaldi.Vivaldi.desktop;
+x-scheme-handler/https=app.zen_browser.zen.desktop;com.vivaldi.Vivaldi.desktop;
+video/mp4=vlc.desktop;org.videolan.VLC.desktop;
+x-scheme-handler/mailto=eu.betterbird.Betterbird.desktop;

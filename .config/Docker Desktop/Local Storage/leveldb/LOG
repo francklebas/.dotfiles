@@ -1,0 +1,6 @@
+2025/05/23-10:02:11.577 10f9 Reusing MANIFEST /home/franck/.config/Docker Desktop/Local Storage/leveldb/MANIFEST-000001
+2025/05/23-10:02:11.588 10f9 Recovering log #442
+2025/05/23-10:02:11.588 10f9 Reusing old log /home/franck/.config/Docker Desktop/Local Storage/leveldb/000442.log 
+2025/05/23-10:27:12.433 10f9 Level-0 table #446: started
+2025/05/23-10:27:12.446 10f9 Level-0 table #446: 14392 bytes OK
+2025/05/23-10:27:12.453 10f9 Delete type=0 #442

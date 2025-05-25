@@ -1,0 +1,1009 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="caffe-stockholm" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3dv5bh5q1ktni">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+              <first_editor relative-caret-position="866">
+                <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-106,1,10,-109,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,114,101,97,100,109,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="360">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"App.vue","foregroundColor":-1324149,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"ebcb8b"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,118,117,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="144">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#188#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.ts","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-106,1,10,-109,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,110,111,100,101,106,115,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/locales/fr.json">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"fr.json","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-104,1,10,-107,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,105,49,56,110,108,97,110,103,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/components/Navigation.vue">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="588">
+              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+              <folding>
+                <element signature="e#881#887#0" expanded="true" />
+                <element signature="e#952#958#0" expanded="true" />
+                <element signature="e#1023#1029#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Navigation.vue","foregroundColor":-1324149,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"ebcb8b"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,118,117,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/components/Section.vue">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="240">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Section.vue","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,118,117,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/style.css">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="600">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"style.css","foregroundColor":-1324149,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"ebcb8b"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,99,115,115,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/pages/HomePage.vue">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="96">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"HomePage.vue","foregroundColor":-1324149,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"ebcb8b"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,118,117,101,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Slideshow.vue">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1008">
+              <caret line="75" column="2" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
+              <folding>
+                <element signature="e#25#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Slideshow.vue","foregroundColor":-6046068,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"a3be8c"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,118,117,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/components/SectionDots.vue">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1008">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SectionDots.vue","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,118,117,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/composables/useScrollSections.ts">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"useScrollSections.ts","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/locales/en.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="168">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"en.json","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-104,1,10,-107,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,105,49,56,110,108,97,110,103,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tsconfig.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="120">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"tsconfig.json","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-104,1,10,-107,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,115,99,111,110,102,105,103,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tsconfig.node.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="24">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"tsconfig.node.json","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-104,1,10,-107,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,115,99,111,110,102,105,103,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tsconfig.app.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="216">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"tsconfig.app.json","foregroundColor":-1324149,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"ebcb8b"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-104,1,10,-107,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,115,99,111,110,102,105,103,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/vite.config.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="336">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"vite.config.ts","foregroundColor":-1324149,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"ebcb8b"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-108,1,10,-111,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,118,105,116,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="648">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"package.json","foregroundColor":-1249292,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-109,1,10,-112,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,102,114,97,110,99,107,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,110,112,109,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 3,
+      "lastUsed": 1748164043600
+    },
+    "Vue.js": {
+      "usageCount": 6,
+      "lastUsed": 1748180531948
+    },
+    "CSS": {
+      "usageCount": 1,
+      "lastUsed": 1748094918061
+    },
+    "DIFF": {
+      "usageCount": 3,
+      "lastUsed": 1748165817551
+    },
+    "tsconfig": {
+      "usageCount": 2,
+      "lastUsed": 1748089006451
+    },
+    "JSON": {
+      "usageCount": 5,
+      "lastUsed": 1748095543880
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1748088553343
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>@components/Section.vue</find>
+      <find>--pico-background-color</find>
+      <find>av-container</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/components</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/franck/workspace/caffe-stockholm/README.md",
+    "/home/franck/workspace/caffe-stockholm/.prettierrc",
+    "/home/franck/workspace/caffe-stockholm/src/main.ts",
+    "/home/franck/workspace/caffe-stockholm/src/locales/fr.json",
+    "/home/franck/workspace/caffe-stockholm/src/components/Section.vue",
+    "/home/franck/workspace/caffe-stockholm/src/components/SectionDots.vue",
+    "/home/franck/workspace/caffe-stockholm/src/composables/useScrollSections.ts",
+    "/home/franck/workspace/caffe-stockholm/tsconfig.app.json",
+    "/home/franck/workspace/caffe-stockholm/vite.config.ts",
+    "/home/franck/workspace/caffe-stockholm/src/pages/HomePage.vue",
+    "/home/franck/workspace/caffe-stockholm/src/components/Navigation.vue",
+    "/home/franck/workspace/caffe-stockholm/src/App.vue",
+    "/home/franck/workspace/caffe-stockholm/src/style.css",
+    "/home/franck/workspace/caffe-stockholm/src/components/Slideshow.vue"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1748094918061" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="7" lastUsage="1748095543880" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1748088553343" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="3" lastUsage="1748164043600" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="6" lastUsage="1748180531948" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/assets}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/assets}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/assets/slide-images}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/composables}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/locales}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="caffe-stockholm" />
+            <item name="caffe-stockholm" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="caffe-stockholm" />
+              <item name="dir{file:///home/franck/workspace/caffe-stockholm}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/franck/workspace/caffe-stockholm/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".vscode" />
+                <item name="dir{file:///home/franck/workspace/caffe-stockholm/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/design" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="design" />
+                <item name="dir{file:///home/franck/workspace/caffe-stockholm/design}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/dist" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="dist" />
+                <item name="dir{file:///home/franck/workspace/caffe-stockholm/dist}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/franck/workspace/caffe-stockholm/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="public" />
+                <item name="dir{file:///home/franck/workspace/caffe-stockholm/public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="src" />
+                <item name="dir{file:///home/franck/workspace/caffe-stockholm/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/assets" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="assets" />
+                  <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/assets}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/assets/slide-images" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="slide-images" />
+                    <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/assets/slide-images}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/assets/slide-images/image-01.png" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="image-01.png" />
+                      <item name="image-01.png" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/assets/slide-images/image-02.png" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="image-02.png" />
+                      <item name="image-02.png" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/assets/slide-images/image-03.png" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="image-03.png" />
+                      <item name="image-03.png" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/assets/vue.svg" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="vue.svg" />
+                    <item name="vue.svg" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/components" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="components" />
+                  <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/components}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/Navigation.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="Navigation.vue" />
+                    <item name="Navigation.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/Section.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="Section.vue" />
+                    <item name="Section.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/SectionDots.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="SectionDots.vue" />
+                    <item name="SectionDots.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/components/Slideshow.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="Slideshow.vue" />
+                    <item name="Slideshow.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/composables" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="composables" />
+                  <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/composables}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/composables/useScrollSections.ts" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="useScrollSections.ts" />
+                    <item name="useScrollSections.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/locales" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="locales" />
+                  <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/locales}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/locales/en.json" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="en.json" />
+                    <item name="en.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/locales/fr.json" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="fr.json" />
+                    <item name="fr.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/locales/sv.json" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="sv.json" />
+                    <item name="sv.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/pages" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="pages" />
+                  <item name="dir{file:///home/franck/workspace/caffe-stockholm/src/pages}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/AboutPage.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="AboutPage.vue" />
+                    <item name="AboutPage.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/BookingPage.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="BookingPage.vue" />
+                    <item name="BookingPage.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/HomePage.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="HomePage.vue" />
+                    <item name="HomePage.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/ServicesPage.vue" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="ServicesPage.vue" />
+                    <item name="ServicesPage.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/App.vue" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="App.vue" />
+                  <item name="App.vue" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="main.ts" />
+                  <item name="main.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/router.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="router.ts" />
+                  <item name="router.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/style.css" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="style.css" />
+                  <item name="style.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/vite-env.d.ts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="vite-env.d.ts" />
+                  <item name="vite-env.d.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierrc" />
+                <item name=".prettierrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.html" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="index.html" />
+                <item name="index.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.app.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.app.json" />
+                <item name="tsconfig.app.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.node.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.node.json" />
+                <item name="tsconfig.node.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vite.config.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="vite.config.ts" />
+                <item name="vite.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/yarn.lock" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="yarn.lock" />
+                <item name="yarn.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.dev" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17066000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50044966" weight="0.2474564" />
+      <window_info id="Commit" order="1" sideWeight="0.50044966" weight="0.2474564" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="3" show_stripe_button="false" />
+      <window_info id="npm" order="4" sideWeight="0.49955034" side_tool="true" weight="0.25733024" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.15944603" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.15944603" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.15944603" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3300872" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="5" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.755787" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="7" weight="0.42478198" />
+      <unified_weights bottom="0.15944603" left="0.2474564" right="0.42478198" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Problems View</value>
+      <value>ElectroJunToolWindow</value>
+      <value>Terminal</value>
+      <value>npm</value>
+      <value>GitHub Copilot Chat</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1292" height="182" key="GridCell.Tab.0.bottom" timestamp="1748181068829">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1292" height="182" key="GridCell.Tab.0.bottom/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748181068829" />
+    <state width="1292" height="182" key="GridCell.Tab.0.center" timestamp="1748181068829">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1292" height="182" key="GridCell.Tab.0.center/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748181068829" />
+    <state width="1292" height="182" key="GridCell.Tab.0.left" timestamp="1748181068829">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1292" height="182" key="GridCell.Tab.0.left/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748181068829" />
+    <state width="1292" height="182" key="GridCell.Tab.0.right" timestamp="1748181068829">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1292" height="182" key="GridCell.Tab.0.right/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748181068829" />
+    <state x="3221" y="377" key="SettingsEditor" timestamp="1748093053881">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3221" y="377" key="SettingsEditor/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748093053881" />
+    <state x="4392" y="458" width="800" height="577" key="Vcs.Push.Dialog.v2" timestamp="1748168219742">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4392" y="458" width="800" height="577" key="Vcs.Push.Dialog.v2/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748168219742" />
+    <state x="4530" y="450" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1748182412065">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4530" y="450" width="524" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748182412065" />
+    <state x="3300" y="228" width="646" height="560" key="find.popup" timestamp="1748182259994">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="3300" y="228" width="646" height="560" key="find.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748182259994" />
+    <state x="4455" y="348" width="699" height="701" key="search.everywhere.popup" timestamp="1748182095386">
+      <screen x="3072" y="0" width="3440" height="1440" />
+    </state>
+    <state x="4455" y="348" width="699" height="701" key="search.everywhere.popup/3072.0.3440.1440/0.1152.1536.864@3072.0.3440.1440" timestamp="1748182095386" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.node.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="866">
+            <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#188#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/locales/fr.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/locales/en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Section.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SectionDots.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composables/useScrollSections.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vite.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <folding>
+            <element signature="e#881#887#0" expanded="true" />
+            <element signature="e#952#958#0" expanded="true" />
+            <element signature="e#1023#1029#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/HomePage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Slideshow.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="75" column="2" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
+          <folding>
+            <element signature="e#25#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

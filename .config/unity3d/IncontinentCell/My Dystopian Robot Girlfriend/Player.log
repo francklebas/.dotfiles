@@ -1,0 +1,3189 @@
+The selected window backend is x11 
+Display 0 'HDMI-1 34"': 6880x2880 (primary device).
+Display 1 'eDP-1 14"': 3072x1728 (secondary device).
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Desktop is 6880 x 2880 @ 50 Hz
+Initialize engine version: 6000.0.28f1 (f336aca0cab5)
+[Subsystems] Discovering subsystems at path /home/franck/Games/factorial-omega-linux-64/My Dystopian Robot Girlfriend_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Renderer: AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.14.4-300.fc42.x86_64)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 25.0.4
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensio
+ns GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex
+_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_d
+xt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_
+control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 517255648
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Default vsync count 1
+requesting resize 1280 x 720
+resizing window to 1280 x 720
+Desktop is 6880 x 2880 @ 50 Hz
+UnloadTime: 0.115777 ms
+requesting resize 1280 x 720
+resizing window to 1280 x 720
+Desktop is 6880 x 2880 @ 50 Hz
+Saved "PlayerPrefs.pp" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PlayerPrefs:SaveIfChanged()
+PlayerPrefsSimpleKey`1:SetValue(T)
+<LoadAllInner>d__8:MoveNext()
+Cysharp.Threading.Tasks.Internal.ContinuationQueue:RunCore()
+
+Overriding character adapter with id: Bot!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+ConversationSingleton:AddAdapter(ISayDialogCharacter)
+ConversationSingleton:LoadInner(IProgressManager)
+<Load>d__10:MoveNext()
+SingletonLoadableMonoBehaviour`1:Load(IProgressManager)
+<LoadLoadables>d__10:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+LoadingManager:LoadLoadables(IProgressManager)
+<LoadAllInner>d__8:MoveNext()
+Cysharp.Threading.Tasks.Internal.ContinuationQueue:RunCore()
+
+"New SEXBOT Giveaway in [link removed]" :link removed found no such modificator! Interpreted as text
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+DialogueChain:ProcessModificator(String, StringBuilder, List`1, SpecialTagDelegate)
+DialogueChain:ProcessInputText(String, SpecialTagDelegate, List`1)
+DialogueChain:CreateChainComment(String, GameId, SpecialTagDelegate, DialogueChainContainer, List`1)
+DialogueChainContainer:LoadFile(String, Guid, SpecialTagDelegate, Action`1)
+DialogueChainContainer:.ctor(String, TableReference, SpecialTagDelegate, Action`1)
+DialogueChainSingleton:LoadFromFiles()
+DialogueChainSingleton:LoadInner(IProgressManager)
+<Load>d__10:MoveNext()
+SingletonLoadableMonoBehaviour`1:Load(IProgressManager)
+<LoadLoadables>d__10:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+LoadingManager:LoadLoadables(IProgressManager)
+<LoadAllInner>d__8:MoveNext()
+Cysharp.Threading.Tasks.Internal.ContinuationQueue:RunCore()
+
+Saved "localmodinfo.json" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Mods"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+<LoadInner>d__62:MoveNext()
+ModsSingleton:LoadInner(IProgressManager)
+<Load>d__10:MoveNext()
+SingletonLoadableMonoBehaviour`1:Load(IProgressManager)
+<LoadLoadables>d__10:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+<<LoadLoadables>g__UpdateRunningTasks|1>d:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Failed to find the main file "save.mdrg"!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+SaveSingleton:LoadInner(IProgressManager)
+<Load>d__10:MoveNext()
+SingletonLoadableMonoBehaviour`1:Load(IProgressManager)
+<LoadLoadables>d__10:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+<<LoadLoadables>g__UpdateRunningTasks|1>d:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Failed to find the backup file "save.mdrg"!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:TryLoadFileToJson(String, T&, String)
+SaveSingleton:LoadInner(IProgressManager)
+<Load>d__10:MoveNext()
+SingletonLoadableMonoBehaviour`1:Load(IProgressManager)
+<LoadLoadables>d__10:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+<<LoadLoadables>g__UpdateRunningTasks|1>d:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Load unsuccesful. Had to create new save container.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveSingleton:LoadInner(IProgressManager)
+<Load>d__10:MoveNext()
+SingletonLoadableMonoBehaviour`1:Load(IProgressManager)
+<LoadLoadables>d__10:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+<<LoadLoadables>g__UpdateRunningTasks|1>d:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+requesting resize 1280 x 720
+resizing window to 1280 x 720
+Desktop is 6880 x 2880 @ 50 Hz
+Saved "PlayerPrefs.pp" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PlayerPrefs:SaveIfChanged()
+PlayerPrefsSimpleKey`1:SetValue(T)
+<LoadAllInner>d__8:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Changed game state to EmptyGameState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+<EnsureGameStopped>d__36:MoveNext()
+<StartMainMenu>d__37:MoveNext()
+FungusEnumerators:StartMainMenu()
+GameScript:ChangeToMainMenu()
+<RunProgress>d__8:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Switching view from  to Menu View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToViewMainCamera(View, Single, Boolean, Color, IViewSceneCallback)
+FungusEnumerators:FadeToView(View, Single, Boolean, Nullable`1)
+<StartMainMenu>d__37:MoveNext()
+FungusEnumerators:StartMainMenu()
+GameScript:ChangeToMainMenu()
+<RunProgress>d__8:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Changed game state to StoryState(Empty) to GameScript+MainMenuState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+<StartMainMenu>d__37:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.WaitUntilPromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Saved "PlayerPrefs.pp" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PlayerPrefs:SaveIfChanged()
+PlayerPrefsSimpleKey`1:SetValue(T)
+OptionsPopup:ResolutionChanged(Int32)
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+TMPro.TMP_Dropdown:OnSelectItem(Toggle)
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+requesting resize 4096 x 2304
+resizing window to 4096 x 2304
+Desktop is 6880 x 2880 @ 50 Hz
+Saved "PlayerPrefs.pp" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PlayerPrefs:SaveIfChanged()
+OptionsPopup:OnDisable()
+PrefabPopup`1:CloseInner()
+UIPopup:CloseFromUIOverlay()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+MainMenuState to StoryState(Block "Block:"Prologue/Start"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Menu View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+GameScript:FungusStartBlock(String, Action)
+StoryState:EnterState()
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "PlayerPrefs.pp" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PlayerPrefs:SaveIfChanged()
+PlayerPrefsSimpleKey`1:SetValue(T)
+OptionsStatic:ChangeFullscreen(Boolean)
+GameScript:Update()
+
+requesting resize 6880 x 2880
+Using native desktop resolution 6880 x 2880
+requesting fullscreen 6880 x 2880 at 0/1 Hz
+Desktop is 6880 x 2880 @ 50 Hz
+Changing real window size to 6880 x 2802
+Changing real window size to 6880 x 2880
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ItemManager filled with GameVariables!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:FillAllSubClasses()
+GameVariables:CreateStartOfTheGame(Int32, Int32)
+GameScript:StartNewGame(LoadProcedureData)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Fungus.InvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+EventManager filled with GameVariables!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:FillAllSubClasses()
+GameVariables:CreateStartOfTheGame(Int32, Int32)
+GameScript:StartNewGame(LoadProcedureData)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Fungus.InvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CockTwitchManager filled with GameVariables!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:FillAllSubClasses()
+GameVariables:CreateStartOfTheGame(Int32, Int32)
+GameScript:StartNewGame(LoadProcedureData)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Fungus.InvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CocktractManager filled with GameVariables!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:FillAllSubClasses()
+GameVariables:CreateStartOfTheGame(Int32, Int32)
+GameScript:StartNewGame(LoadProcedureData)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Fungus.InvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+JoinUsBlogManager filled with GameVariables!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:FillAllSubClasses()
+GameVariables:CreateStartOfTheGame(Int32, Int32)
+GameScript:StartNewGame(LoadProcedureData)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Fungus.InvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to Room Character View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Starting with EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnEnable()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent()
+ModelBrain:CreateOrGet(String)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"Prologue/Start"") to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room Character View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DPrefabHolder:StopUsingCurrent()
+Live2DHolder:StopCurrentUsage()
+RoomScene:EndOldView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+PcState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Size is 980x741 pixels. Console is 106x40 characters!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BotStatusAppPopup:CalculateConsoleSizeValues()
+BotStatusAppPopup:Open(Boolean)
+UiOverlay:OpenBotStatusAppPrologue()
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.ExecuteLua:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Character Aspect Ratio is 0.5 (Width: 9, Height: 18)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BotStatusAppPopup:CalculateConsoleSizeValues()
+BotStatusAppPopup:Open(Boolean)
+UiOverlay:OpenBotStatusAppPrologue()
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.ExecuteLua:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+PcState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DPrefabHolder:StopUsingCurrent()
+Live2DHolder:StopCurrentUsage()
+RoomScene:EndOldView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DPrefabHolder:StopUsingCurrent()
+Live2DHolder:StopCurrentUsage()
+RoomScene:EndOldView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+PcState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "save.mdrg" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.ExecuteLua:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Block "Block:"Sleep/Go to sleep"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+StoryBlockTarget:Activate(Action)
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "PlayerPrefs.pp" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PlayerPrefs:SaveIfChanged()
+PlayerPrefsSimpleKey`1:SetValue(T)
+OptionsStatic:TimeCheckPoint()
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved autosave to slot 0 previus autosave happened 00 hrs, 05 mins, 34 secs ago
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "A1.mdrgslot" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+SaveContainer:PushSlotChangesToFiles()
+SaveSingleton:SaveAllChanges()
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "save.mdrg" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"Sleep/Go to sleep"") to GameScript+RoomState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to Room Character View Equipment (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Equipment Static Gui: Starting with EquipmentState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+GameState:GetAndSetActiveStaticGui(T&, Boolean)
+EquipmentState:EnterState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Equipment Static Gui: Switching from EquipmentState to HairState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Equipment Static Gui: Switching from HairState to ColorsState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Equipment Static Gui: Switching from ColorsState to EquipmentState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Equipment Static Gui: Switching from EquipmentState to HairState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Equipment Static Gui: Switching from HairState to ColorsState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to GameScript+RoomState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+<>c__DisplayClass33_0:<ApplyChoice>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+<>c__DisplayClass33_0:<ApplyChoice>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to RoomBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+<>c__DisplayClass33_0:<ApplyChoice>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass44_0:<StartInteract>b__0()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass44_0:<StartInteract>b__0()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Started Vanilla Id:100
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass20_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:200
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass20_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Started Vanilla Id:400
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+StoryBotDialogueBranch:Activate(ModelBrainState)
+<>c__DisplayClass20_1:<TalkButtonClicked>b__2()
+Fungus.MenuDialog:ActivateOption(MenuOption)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to InteractState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+InteractState:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartEquipment()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to Room Character View Equipment (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+EquipmentState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Equipment Static Gui: Starting with EquipmentState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+GameState:GetAndSetActiveStaticGui(T&, Boolean)
+EquipmentState:EnterState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EquipmentBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+EquipmentState:EnterState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Equipment Static Gui: Switching from EquipmentState to HairState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Equipment Static Gui: Switching from HairState to ColorsState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BasicStateMachine`2:ChangeState(TState)
+EquipmentStaticGui:SwitchSection(EquipmentStateEnum)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EquipmentBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+EquipmentState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:EndInteracting()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View Equipment (Fungus.View) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to StoryState(Empty) to GameScript+RoomState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:StartInteract(Action`1)
+GameScript:Update()
+
+Switching view from Room View (Fungus.View) to Room Character View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+GameScript:Update()
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:MoveToView(Camera, View, Single, PanType, IViewSceneCallback)
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to InteractState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+<>c__DisplayClass44_0:<StartInteract>b__0()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to NewInteractBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+InteractState:EnterState()
+<>c__DisplayClass44_0:<StartInteract>b__0()
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to InteractState to StoryState(Block "Block:"Sex/PrepareFricking"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from NewInteractBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+InteractState:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room Character View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Missionary View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToViewSceneWithArguments(TScene, View, Single, Boolean, Color, TSceneData, IViewSceneCallback)
+<StartSex>d__45:MoveNext()
+FungusEnumerators:StartSex(Boolean, View)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+<ExecuteUniTask>d__23:MoveNext()
+BetterInvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"Sex/PrepareFricking"") to NewFrickState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+FrickScene:StartNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to GenericFuckBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+NewFrickState:ChangeLive2DController(Live2DLewdSceneController)
+NewFrickState:EnterState()
+FrickScene:StartNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CockLimbUsage`1: Starting with Live2DFuckController+CockLimbUsage`1+NormalState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+CockLimbUsage`1:Start()
+Live2DController:EnsureLimbs(ILimbUsage)
+Live2DFuckController:<CockButtonClicked>g__PullOutCock_Local|71_0()
+<InvokeAfterDelay>d__13:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+NormalState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+CumImminentState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+NormalState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+14.89731\20 0.7448655%
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:ExtractCumFromBalls()
+CumImminentState:End()
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CUM: 5.368498ml
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:ExtractCumFromBalls()
+CumImminentState:End()
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+CumImminentState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+CumState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+CumState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+NormalState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+<Logic>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+NormalState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+CumImminentState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+NormalState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+9.135306\20 0.4567653%
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:ExtractCumFromBalls()
+CumImminentState:End()
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CUM: 5.873116ml
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:ExtractCumFromBalls()
+CumImminentState:End()
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+CumImminentState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+CumState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+CumState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+NormalState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+<Logic>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+NormalState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+CumImminentState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+NormalState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+3.897372\20 0.1948686%
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:ExtractCumFromBalls()
+CumImminentState:End()
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CUM: 5.315713ml
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameVariables:ExtractCumFromBalls()
+CumImminentState:End()
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+CumImminentState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+CumState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+CumImminentState:FixedUpdateState()
+Live2DController:FixedUpdateLimbUsages()
+Live2DFuckController:FixedUpdate()
+
+CockLimbUsage`1: Switching from Live2DFuckController+CockLimbUsage`1+CumState[Live2DMissionaryFuckController] to Live2DFuckController+CockLimbUsage`1+NormalState[Live2DMissionaryFuckController]!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+<Logic>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from GenericFuckBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameScript:EndFricking()
+<>c__DisplayClass33_0:<ApplyChoice>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to NewFrickState to StoryState(Block "Block:"Sex/End Frick"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+GameScript:EndFricking()
+<>c__DisplayClass33_0:<ApplyChoice>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Trying to remove an inexistent cursor override! You most likely disposed multiple times!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+CursorSingleton:EndCursorOverride(CursorOverride&)
+
+Switching view from Missionary View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"Sex/End Frick"") to GameScript+RoomState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Block "Block:"StartPC"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+GameScript:FungusStartBlock(String, Action)
+StoryState:EnterState()
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"StartPC"") to GameScript+PcState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Size is 980x741 pixels. Console is 106x40 characters!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BotStatusAppPopup:CalculateConsoleSizeValues()
+BotStatusAppPopup:Open(Boolean)
+UiOverlay:OpenBotStatusApp()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Character Aspect Ratio is 0.5 (Width: 9, Height: 18)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BotStatusAppPopup:CalculateConsoleSizeValues()
+BotStatusAppPopup:Open(Boolean)
+UiOverlay:OpenBotStatusApp()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Saved "M1.mdrgslot" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+SaveContainer:PushSlotChangesToFiles()
+SaveSingleton:SaveAllChanges()
+SaveSlotPrefabScript:SaveLoadButtonClicked()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Saved "save.mdrg" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+SaveSlotPrefabScript:SaveLoadButtonClicked()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Saved "save.mdrg" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PrefabPopup`1:CloseInner()
+UIPopup:CloseFromUIOverlay()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Website: cocktwitch.ic
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BrowserPopup:ChangeWebsite(GameUrlWithArguments, Boolean)
+BrowserPopup:OpenInner(String)
+UiOverlay:OpenBrowser(String)
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Changed game state to GameScript+PcState to StoryState(Block "Block:"Sex/Stream Missionary"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+<>c__DisplayClass33_0:<ApplyChoice>b__0()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+
+Switching view from PC View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Missionary View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToViewSceneWithArguments(TScene, View, Single, Boolean, Color, TSceneData, IViewSceneCallback)
+<StartSex>d__45:MoveNext()
+FungusEnumerators:StartSex(Boolean, View)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+<ExecuteUniTask>d__23:MoveNext()
+BetterInvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"Sex/Stream Missionary"") to NewFrickState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+FrickScene:StartNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to GenericFuckBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+NewFrickState:ChangeLive2DController(Live2DLewdSceneController)
+NewFrickState:EnterState()
+FrickScene:StartNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.CameraManager:EndViewSwitching()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to NewFrickState to StoryState(Block "Block:"Out of stamina"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+GameScript:FixedUpdate()
+
+ModelBrain: Switching from GenericFuckBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+NewFrickState:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+GameScript:FixedUpdate()
+
+Switching view from Missionary View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Flowchart:ExecuteBlock(Block, Int32, Action)
+GameScript:FungusStartBlock(String, Action)
+StoryState:EnterState()
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+GameScript:FixedUpdate()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to Sleep View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Sleep View (Fungus.View) to Room View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+Live2DPrefabHolder:StopUsingCurrent()
+Live2DHolder:StartUsing(Live2DPrefabHolder)
+RoomScene:SetupInteractionCharacter()
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from EmptyBrainState to StoryBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+RoomScene:SwitchNewView(ViewSceneTransitionInfo, ViewSceneCallbacksEnum)
+ViewSceneTransitionInfo:DoCallback(ViewSceneCallbacksEnum)
+Fungus.<>c__DisplayClass32_0:<FadeToViewInner>b__0()
+<Wrapper>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "PlayerPrefs.pp" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+PlayerPrefs:SaveIfChanged()
+PlayerPrefsSimpleKey`1:SetValue(T)
+OptionsStatic:TimeCheckPoint()
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved autosave to slot 1 previus autosave happened 00 hrs, 08 mins, 46 secs ago
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "A2.mdrgslot" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+SaveContainer:PushSlotChangesToFiles()
+SaveSingleton:SaveAllChanges()
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "save.mdrg" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+SaveSingleton:TryMakeAutoSave()
+AutoSave:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"Out of stamina"") to GameScript+RoomState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from StoryBrainState to RoomBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+GameStateWithLive2D`1:EnterState()
+RoomState:EnterState()
+GameScript:ChangeToRoomState()
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+RoomState to StoryState(Block "Block:"RE/DAY 2, after 12:32"")
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+FungusBlockEventTarget:Start(RuntimeEvent)
+EventManager:SyncEvents()
+GameVariables:MinutePassed(StaminaSyncType, Boolean)
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ModelBrain: Switching from RoomBrainState to EmptyBrainState!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UpdatableStateMachine`2:ChangeState(TState)
+ModelBrain:OnDisable()
+GameStateWithLive2D`1:ExitState()
+GameStateMachine:ChangeState(GameState)
+GameScript:ChangeToStoryStateBlockReference(FungusBlockReference, Action)
+FungusBlockEventTarget:Start(RuntimeEvent)
+EventManager:SyncEvents()
+GameVariables:MinutePassed(StaminaSyncType, Boolean)
+BackToRoom:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from Room View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.Call:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to PC View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Fungus.FadeToView:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Block "Block:"RE/DAY 2, after 12:32"") to GameScript+PcState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartPc:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Website: bang.ic
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BrowserPopup:ChangeWebsite(GameUrlWithArguments, Boolean)
+BrowserPopup:OpenInner(String)
+UiOverlay:OpenBrowser(String)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.ExecuteLua:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Website: bang.ic
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BrowserPopup:ChangeWebsite(GameUrlWithArguments, Boolean)
+BrowserPopup:OpenInner(String)
+UiOverlay:OpenBrowser(String)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.ExecuteLua:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Website: bang.ic/email
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+BrowserPopup:ChangeWebsite(GameUrlWithArguments, Boolean)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+MoonSharp.Interpreter.Interop.MethodMemberDescriptor:Execute(Script, Object, ScriptExecutionContext, CallbackArguments)
+MoonSharp.Interpreter.Execution.VM.Processor:Internal_ExecCall(Int32, Int32, CallbackFunction, CallbackFunction, Boolean, String, DynValue)
+MoonSharp.Interpreter.Execution.VM.Processor:Processing_Loop(Int32)
+MoonSharp.Interpreter.Execution.VM.Processor:Coroutine_Resume(DynValue[])
+Fungus.<RunLuaCoroutine>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to GameScript+PcState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+StartStory:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.<CallBlock>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from PC View (Fungus.View) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Fungus.<CallBlock>d__16:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 1 (ViewWithSpriteRenderer) to View 2 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Switching view from View 2 (ViewWithSpriteRenderer) to View 1 (ViewWithSpriteRenderer)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToView(Camera, View, Single, Boolean, Color, IViewSceneCallback)
+Assets.Game.Scripts.FungusCommands.View.FadeToImage:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Saved "save.mdrg" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Saves"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+AddAchievement:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Changed game state to StoryState(Empty) to GameScript+CreditsState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+System.Reflection.RuntimeMethodInfo:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Fungus.InvokeMethod:OnEnter()
+Fungus.<Execute>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The character with Unicode value \u262D was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u262D was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u262D was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0639 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0632 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0639 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0632 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0639 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0632 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u14ED was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u14ED was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u14ED was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u064A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0633 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0641 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0627 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0644 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0639 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0646 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0643 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0628 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u062A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0627 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0644 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0639 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0646 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0643 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0628 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u062A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0627 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0644 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0639 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0646 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0643 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0628 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0648 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u062A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \uA9C1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0994 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u09E3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u262C was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u271E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u271E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u262C was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0994 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u09E3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \uA9C2 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \uA9C1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0994 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u09E3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u262C was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u271E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u271E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u262C was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u0994 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u09E3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \uA9C2 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \uA9C1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0994 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u09E3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u262C was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u271E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u271E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u262C was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u0994 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u09E3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \uA9C2 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \U0001F338 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001F338 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001F338 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \u2130 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4CB was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D452 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4C1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4CE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4C3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u2130 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4CB was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D452 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4C1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4CE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \U0001D4C3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TMP_Text:GetPreferredHeight()
+TMPro.TMP_Text:get_preferredHeight()
+CreditsLine:SetText(String, Single, Single)
+CreditsState:AddNewLine(String)
+CreditsState:UpdateState()
+GameScript:Update()
+
+The character with Unicode value \u2130 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \U0001D4CB was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \U0001D452 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \U0001D4C1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \U0001D4CE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+The character with Unicode value \U0001D4C3 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Credits].
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(TextProcessingElement[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+
+Changed game state to GameScript+CreditsState to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+CreditsState:End()
+CreditsState:UpdateState()
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to StoryState(Empty)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+<EnsureGameStopped>d__36:MoveNext()
+<StartMainMenu>d__37:MoveNext()
+FungusEnumerators:StartMainMenu()
+GameScript:ChangeToMainMenu()
+CreditsState:UpdateState()
+GameScript:Update()
+
+Switching view from View 1 (ViewWithSpriteRenderer) to Menu View (Fungus.View)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+Fungus.CameraManager:PrepareNewView(View, Camera, IViewSceneCallback, T)
+Fungus.CameraManager:FadeToViewMainCamera(View, Single, Boolean, Color, IViewSceneCallback)
+FungusEnumerators:FadeToView(View, Single, Boolean, Nullable`1)
+<StartMainMenu>d__37:MoveNext()
+FungusEnumerators:StartMainMenu()
+GameScript:ChangeToMainMenu()
+CreditsState:UpdateState()
+GameScript:Update()
+
+Changed game state to StoryState(Empty) to GameScript+MainMenuState
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+GameStateMachine:ChangeState(GameState)
+<StartMainMenu>d__37:MoveNext()
+Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1:TrySetResult(TResult)
+Cysharp.Threading.Tasks.WaitUntilPromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Saved "localmodinfo.json" in "/home/franck/.config/unity3d/IncontinentCell/My Dystopian Robot Girlfriend/Mods"
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+SaveFileHelper:SaveString(String, String, String)
+
+Cannot set the parent of the GameObject 'Button(Clone)' while its new parent 'PooledObjects' is being destroyed
+PrefabPool`1:ReturnToPool(T)
+PrefabPoolCollection`1:ReturnToPool(T)
+ButtonList:ResetButtons()
+ButtonList:OnDestroy()
+
+[ line 519458840]
+
+Cannot set the parent of the GameObject 'Button(Clone)' while its new parent 'PooledObjects' is being destroyed
+PrefabPool`1:ReturnToPool(T)
+PrefabPoolCollection`1:ReturnToPool(T)
+ButtonList:ResetButtons()
+ButtonList:OnDestroy()
+
+[ line 519458680]
+
+Cannot set the parent of the GameObject 'Button(Clone)' while its new parent 'PooledObjects' is being destroyed
+PrefabPool`1:ReturnToPool(T)
+PrefabPoolCollection`1:ReturnToPool(T)
+ButtonList:ResetButtons()
+ButtonList:OnDestroy()
+
+[ line 519458680]
+
+Cannot set the parent of the GameObject 'Button(Clone)' while its new parent 'PooledObjects' is being destroyed
+PrefabPool`1:ReturnToPool(T)
+PrefabPoolCollection`1:ReturnToPool(T)
+ButtonList:ResetButtons()
+ButtonList:OnDestroy()
+
+[ line 519458680]
+
+Cannot set the parent of the GameObject 'Button(Clone)' while its new parent 'PooledObjects' is being destroyed
+PrefabPool`1:ReturnToPool(T)
+PrefabPoolCollection`1:ReturnToPool(T)
+ButtonList:ResetButtons()
+ButtonList:OnDestroy()
+
+[ line 519458200]
+
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Live2D Cubism SDK Core Version 5.0.0
+Live2D Cubism SDK Core Version 5.0.0

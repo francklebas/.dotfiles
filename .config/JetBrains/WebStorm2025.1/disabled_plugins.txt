@@ -1,0 +1,7 @@
+Karma
+Subversion
+com.deadlock.scsyntax
+com.intellij.plugins.netbeanskeymap
+com.intellij.plugins.visualstudiokeymap
+com.intellij.plugins.vscodekeymap
+hg4idea
